@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+
+<html lang="vi"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Admin Login Screen</title>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#136dec",
+                        "background-light": "#f6f7f8",
+                        "background-dark": "#101822",
+                        "slate-900": "#0f172a",
+                        "slate-700": "#334155",
+                        "slate-500": "#64748b",
+                        "slate-200": "#e2e8f0",
+                        "slate-100": "#f1f5f9",
+                    },
+                    fontFamily: {
+                        "display": ["Inter", "sans-serif"]
+                    },
+                    borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+                },
+            },
+        }
+    </script>
+</head>
+<body class="font-display bg-background-light dark:bg-background-dark text-slate-900 dark:text-slate-100">
+<div class="relative flex h-screen min-h-screen w-full flex-col overflow-x-hidden bg-gradient-to-br from-blue-50 to-background-light dark:from-background-dark dark:to-slate-900">
+<header class="flex items-center justify-between whitespace-nowrap border-b border-solid border-slate-200 dark:border-slate-700/50 bg-white/80 dark:bg-slate-900/80 backdrop-blur-md px-10 py-4 z-10 sticky top-0">
+<div class="flex items-center gap-4 text-slate-900 dark:text-slate-100">
+<div class="flex items-center justify-center size-8 rounded-lg bg-primary text-white shadow-sm">
+<span class="material-symbols-outlined text-xl">admin_panel_settings</span>
+</div>
+<h2 class="text-lg font-bold leading-tight tracking-tight">Hệ Thống Thi Trực Tuyến</h2>
+</div>
+<div class="flex items-center gap-4">
+<button class="flex items-center gap-2 px-3 py-1.5 rounded-md hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors text-sm font-medium text-slate-700 dark:text-slate-200">
+<span class="material-symbols-outlined text-[20px]">help</span>
+                    Trợ giúp
+                </button>
+</div>
+</header>
+<div class="flex-1 flex items-center justify-center p-6 sm:p-12">
+<div class="w-full max-w-md bg-white dark:bg-slate-800 rounded-xl shadow-xl shadow-slate-200/50 dark:shadow-none border border-slate-100 dark:border-slate-700 overflow-hidden flex flex-col">
+<div class="p-8 pb-6 text-center border-b border-slate-100 dark:border-slate-700/50">
+<div class="inline-flex items-center justify-center size-16 rounded-full bg-primary/10 text-primary mb-4">
+<span class="material-symbols-outlined text-3xl">shield_person</span>
+</div>
+<h1 class="text-2xl font-bold leading-tight tracking-tight text-slate-900 dark:text-white mb-2">Đăng nhập Quản trị</h1>
+<p class="text-slate-500 dark:text-slate-400 text-sm font-normal">Cổng đăng nhập an toàn dành cho ban quản trị và giám thị.</p>
+</div>
+<div class="p-8 flex flex-col gap-6">
+<form class="flex flex-col gap-5">
+<div class="flex flex-col gap-2">
+<label class="text-sm font-medium text-slate-700 dark:text-slate-300">Tên đăng nhập</label>
+<div class="relative">
+<span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-400">person</span>
+<input class="form-input flex w-full min-w-0 resize-none overflow-hidden rounded-lg text-slate-900 dark:text-white focus:outline-0 focus:ring-2 focus:ring-primary/20 border border-slate-200 dark:border-slate-600 bg-white dark:bg-slate-700 focus:border-primary dark:focus:border-primary h-12 pl-10 pr-4 text-base font-normal leading-normal transition-all" placeholder="Nhập tên đăng nhập" type="text" value=""/>
+</div>
+</div>
+<div class="flex flex-col gap-2">
+<div class="flex items-center justify-between">
+<label class="text-sm font-medium text-slate-700 dark:text-slate-300">Mật khẩu</label>
+<a class="text-sm font-medium text-primary hover:underline" href="#">Quên mật khẩu?</a>
+</div>
+<div class="relative">
+<span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-400">lock</span>
+<input class="form-input flex w-full min-w-0 resize-none overflow-hidden rounded-lg text-slate-900 dark:text-white focus:outline-0 focus:ring-2 focus:ring-primary/20 border border-slate-200 dark:border-slate-600 bg-white dark:bg-slate-700 focus:border-primary dark:focus:border-primary h-12 pl-10 pr-10 text-base font-normal leading-normal transition-all" placeholder="••••••••" type="password" value=""/>
+<button class="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600 dark:hover:text-slate-300 focus:outline-none" type="button">
+<span class="material-symbols-outlined text-[20px]">visibility_off</span>
+</button>
+</div>
+</div>
+<div class="flex items-center gap-2 mt-1">
+<input class="rounded border-slate-300 text-primary focus:ring-primary dark:border-slate-600 dark:bg-slate-700 size-4" id="remember" type="checkbox"/>
+<label class="text-sm text-slate-600 dark:text-slate-400 select-none cursor-pointer" for="remember">Ghi nhớ đăng nhập</label>
+</div>
+<button class="mt-2 flex w-full cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 px-5 bg-primary hover:bg-primary/90 active:bg-primary/95 text-white text-base font-bold leading-normal tracking-wide transition-colors shadow-sm shadow-primary/30" type="button">
+<span class="material-symbols-outlined mr-2 text-[20px]">login</span>
+                            Đăng nhập Hệ thống
+                        </button>
+</form>
+</div>
+<div class="bg-slate-50 dark:bg-slate-800/50 p-4 text-center border-t border-slate-100 dark:border-slate-700/50">
+<p class="text-xs text-slate-500 dark:text-slate-400">
+                        Bằng việc đăng nhập, bạn đồng ý với <a class="text-primary hover:underline" href="#">Chính sách bảo mật</a> &amp; <a class="text-primary hover:underline" href="#">Điều khoản</a> của chúng tôi.
+                    </p>
+</div>
+</div>
+<div class="hidden lg:flex flex-col ml-16 max-w-md gap-6 items-start">
+<div class="w-full bg-slate-200 dark:bg-slate-700 aspect-video rounded-xl shadow-lg bg-cover bg-center" data-alt="Abstract illustration of a secure digital network or centralized database." style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDPGsvOrFV9A60fXwP0bwYgdrDFZwdrOd9VdfBpKt0bQEB4xhZojAEvxf1F02UNQzQ2QbfAYllf3wQSol4gNxmm78dDW3lwIg62WGopZibgyuLLaDY-xNP8XXtN2p3iuTi9RZw4IAXKnilu3cREK44nBgSAsoVgKocmahukn4_18AyPmjVQid410ETRRHz6bPJqMfOtI7_OV8th_zqvI7VeUvxwy-2GskzVdRHGaWfOUq4vuYJPwzK6kdnUIqjLLW4fJcfLA09Vfas");'></div>
+<div>
+<h3 class="text-xl font-bold text-slate-900 dark:text-white mb-2">Hệ Thống Quản Lý Thi Tập Trung</h3>
+<p class="text-slate-600 dark:text-slate-300 leading-relaxed">
+                        Cung cấp công cụ mạnh mẽ cho ban quản trị và giám thị để tổ chức, giám sát và đánh giá các kỳ thi một cách minh bạch, an toàn và hiệu quả.
+                    </p>
+</div>
+<div class="flex gap-4">
+<div class="flex items-center gap-2 text-sm text-slate-700 dark:text-slate-300 bg-white/50 dark:bg-slate-800/50 px-3 py-2 rounded-lg border border-slate-200/50 dark:border-slate-700/50">
+<span class="material-symbols-outlined text-primary text-[20px]">verified_user</span>
+                         Bảo mật cao
+                     </div>
+<div class="flex items-center gap-2 text-sm text-slate-700 dark:text-slate-300 bg-white/50 dark:bg-slate-800/50 px-3 py-2 rounded-lg border border-slate-200/50 dark:border-slate-700/50">
+<span class="material-symbols-outlined text-primary text-[20px]">speed</span>
+                         Hiệu suất tối ưu
+                     </div>
+</div>
+</div>
+</div>
+<footer class="text-center py-6 text-sm text-slate-500 dark:text-slate-400">
+            © 2024 Exam System. All rights reserved.
+        </footer>
+</div>
+</body></html>

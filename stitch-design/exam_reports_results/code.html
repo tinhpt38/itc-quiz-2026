@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+
+<html class="light" lang="vi"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Hệ thống Thi - Báo cáo &amp; Kết quả</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#136dec",
+                        "background-light": "#f6f7f8",
+                        "background-dark": "#101822",
+                    },
+                    fontFamily: {
+                        "display": ["Inter"]
+                    },
+                    borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+                },
+            },
+        }
+    </script>
+</head>
+<body class="bg-background-light dark:bg-background-dark font-display text-slate-900 dark:text-slate-100">
+<div class="relative flex h-auto min-h-screen w-full flex-col group/design-root overflow-x-hidden">
+<div class="layout-container flex h-full grow flex-col">
+<div class="px-40 flex flex-1 justify-center py-5">
+<div class="layout-content-container flex flex-col max-w-[1200px] flex-1 w-full bg-white dark:bg-slate-900 shadow-sm rounded-xl overflow-hidden border border-slate-200 dark:border-slate-800">
+<!-- TopNavBar -->
+<header class="flex items-center justify-between whitespace-nowrap border-b border-solid border-b-slate-200 dark:border-b-slate-800 px-10 py-3 bg-white dark:bg-slate-900">
+<div class="flex items-center gap-8">
+<div class="flex items-center gap-4 text-slate-900 dark:text-slate-100">
+<div class="size-6 text-primary">
+<span class="material-symbols-outlined text-[24px]">school</span>
+</div>
+<h2 class="text-lg font-bold leading-tight tracking-[-0.015em]">Hệ thống Thi</h2>
+</div>
+<nav class="flex items-center gap-9">
+<a class="text-slate-600 dark:text-slate-400 hover:text-primary dark:hover:text-primary transition-colors text-sm font-medium leading-normal" href="#">Trang chủ</a>
+<a class="text-slate-600 dark:text-slate-400 hover:text-primary dark:hover:text-primary transition-colors text-sm font-medium leading-normal" href="#">Kỳ thi</a>
+<a class="text-slate-600 dark:text-slate-400 hover:text-primary dark:hover:text-primary transition-colors text-sm font-medium leading-normal" href="#">Kết quả</a>
+<a class="text-primary dark:text-primary text-sm font-bold leading-normal border-b-2 border-primary pb-1" href="#">Báo cáo</a>
+</nav>
+</div>
+<div class="flex flex-1 justify-end gap-8">
+<label class="flex flex-col min-w-40 !h-10 max-w-64">
+<div class="flex w-full flex-1 items-stretch rounded-lg h-full border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 overflow-hidden focus-within:ring-2 focus-within:ring-primary/50 transition-all">
+<div class="text-slate-500 flex items-center justify-center pl-4">
+<span class="material-symbols-outlined text-[20px]">search</span>
+</div>
+<input class="form-input flex w-full min-w-0 flex-1 resize-none overflow-hidden rounded-r-lg text-slate-900 dark:text-slate-100 focus:outline-0 focus:ring-0 border-none bg-transparent h-full placeholder:text-slate-500 px-4 pl-2 text-sm font-normal leading-normal" placeholder="Tìm kiếm..." value=""/>
+</div>
+</label>
+<div class="bg-center bg-no-repeat aspect-square bg-cover rounded-full size-10 ring-2 ring-slate-200 dark:ring-slate-700 cursor-pointer" data-alt="User avatar placeholder" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuCWuP2kdkO30BGtV4OwsiCpieq950VCJ4n1peXzc1LgxECY0eNMMELgrSzJ9BH3ZJXI3FGt2Eey-K0FspDht7Ikn6VbcyWQzGwrdg4V2doxGPsfmZ28QovEnafqpnhBNlsmXMg5V6Wd0eg8rSnKRSzh5BwpYasMp9NNu3smqGBmXv8Gq68f0JG-bTiZOl4OGWgBfRrdNPADN44vlULMtskB-XAWRS4i0pzojAC3AhS-vvGRqkWxq0x6LOqwNmgTgwa_1pGN9cEbWGk");'></div>
+</div>
+</header>
+<div class="p-8 pb-4">
+<div class="flex flex-wrap justify-between items-end gap-4 mb-6">
+<div class="flex flex-col gap-2">
+<p class="text-slate-900 dark:text-white text-3xl font-black leading-tight tracking-tight">Báo cáo &amp; Kết quả thi</p>
+<p class="text-slate-500 dark:text-slate-400 text-base font-medium flex items-center gap-2">
+<span class="material-symbols-outlined text-[18px]">calendar_today</span>
+                                Kỳ thi cuối kỳ - Môn Toán học
+                            </p>
+</div>
+<div class="flex gap-3">
+<button class="flex items-center justify-center gap-2 rounded-lg h-10 px-5 bg-primary/10 hover:bg-primary/20 text-primary transition-colors text-sm font-bold shadow-sm">
+<span class="material-symbols-outlined text-[18px]">description</span>
+<span>Xuất PDF</span>
+</button>
+<button class="flex items-center justify-center gap-2 rounded-lg h-10 px-5 bg-primary hover:bg-primary/90 text-white transition-colors text-sm font-bold shadow-sm">
+<span class="material-symbols-outlined text-[18px]">table</span>
+<span>Xuất Excel</span>
+</button>
+</div>
+</div>
+<!-- Stats Cards -->
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
+<div class="flex flex-col gap-3 rounded-xl p-6 border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 shadow-sm relative overflow-hidden group hover:border-primary/50 transition-colors">
+<div class="absolute right-0 top-0 p-4 opacity-10 group-hover:opacity-20 transition-opacity">
+<span class="material-symbols-outlined text-6xl text-primary">groups</span>
+</div>
+<p class="text-slate-500 dark:text-slate-400 text-sm font-bold uppercase tracking-wider relative z-10">Tổng thí sinh</p>
+<p class="text-slate-900 dark:text-white text-4xl font-black leading-tight relative z-10">150</p>
+<div class="flex items-center gap-1 text-emerald-600 dark:text-emerald-400 text-sm font-medium mt-1 relative z-10">
+<span class="material-symbols-outlined text-[16px]">trending_up</span>
+<span>+12% so với kỳ trước</span>
+</div>
+</div>
+<div class="flex flex-col gap-3 rounded-xl p-6 border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 shadow-sm relative overflow-hidden group hover:border-primary/50 transition-colors">
+<div class="absolute right-0 top-0 p-4 opacity-10 group-hover:opacity-20 transition-opacity">
+<span class="material-symbols-outlined text-6xl text-primary">score</span>
+</div>
+<p class="text-slate-500 dark:text-slate-400 text-sm font-bold uppercase tracking-wider relative z-10">Điểm trung bình</p>
+<p class="text-slate-900 dark:text-white text-4xl font-black leading-tight relative z-10">7.2</p>
+<div class="flex items-center gap-1 text-emerald-600 dark:text-emerald-400 text-sm font-medium mt-1 relative z-10">
+<span class="material-symbols-outlined text-[16px]">trending_up</span>
+<span>+0.5 điểm</span>
+</div>
+</div>
+<div class="flex flex-col gap-3 rounded-xl p-6 border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 shadow-sm relative overflow-hidden group hover:border-primary/50 transition-colors">
+<div class="absolute right-0 top-0 p-4 opacity-10 group-hover:opacity-20 transition-opacity">
+<span class="material-symbols-outlined text-6xl text-emerald-500">check_circle</span>
+</div>
+<p class="text-slate-500 dark:text-slate-400 text-sm font-bold uppercase tracking-wider relative z-10">Tỷ lệ đạt</p>
+<p class="text-emerald-600 dark:text-emerald-400 text-4xl font-black leading-tight relative z-10">85%</p>
+<div class="w-full bg-slate-100 dark:bg-slate-800 rounded-full h-1.5 mt-2 relative z-10">
+<div class="bg-emerald-500 h-1.5 rounded-full" style="width: 85%"></div>
+</div>
+</div>
+<div class="flex flex-col gap-3 rounded-xl p-6 border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 shadow-sm relative overflow-hidden group hover:border-primary/50 transition-colors">
+<div class="absolute right-0 top-0 p-4 opacity-10 group-hover:opacity-20 transition-opacity">
+<span class="material-symbols-outlined text-6xl text-rose-500">cancel</span>
+</div>
+<p class="text-slate-500 dark:text-slate-400 text-sm font-bold uppercase tracking-wider relative z-10">Tỷ lệ trượt</p>
+<p class="text-rose-600 dark:text-rose-400 text-4xl font-black leading-tight relative z-10">15%</p>
+<div class="w-full bg-slate-100 dark:bg-slate-800 rounded-full h-1.5 mt-2 relative z-10">
+<div class="bg-rose-500 h-1.5 rounded-full" style="width: 15%"></div>
+</div>
+</div>
+</div>
+<div class="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-8">
+<!-- Histogram -->
+<div class="col-span-1 lg:col-span-1 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 p-6 shadow-sm">
+<div class="flex justify-between items-start mb-6">
+<div>
+<h3 class="text-slate-900 dark:text-white text-lg font-bold">Biểu đồ phổ điểm</h3>
+<p class="text-slate-500 dark:text-slate-400 text-sm mt-1">Phân bố điểm số của 150 sinh viên</p>
+</div>
+<div class="p-2 bg-primary/10 rounded-lg text-primary">
+<span class="material-symbols-outlined">bar_chart</span>
+</div>
+</div>
+<div class="grid min-h-[220px] grid-flow-col gap-4 grid-rows-[1fr_auto] items-end justify-items-center px-2 mt-4">
+<div class="w-full flex flex-col items-center gap-2 h-full justify-end group cursor-pointer relative">
+<div class="absolute -top-8 bg-slate-800 text-white text-xs py-1 px-2 rounded opacity-0 group-hover:opacity-100 transition-opacity">5 sv</div>
+<div class="bg-slate-200 dark:bg-slate-700 group-hover:bg-primary/50 transition-colors w-full rounded-t-sm" style="height: 10%;"></div>
+</div>
+<p class="text-slate-500 text-xs font-semibold mt-2">0-2</p>
+<div class="w-full flex flex-col items-center gap-2 h-full justify-end group cursor-pointer relative">
+<div class="absolute -top-8 bg-slate-800 text-white text-xs py-1 px-2 rounded opacity-0 group-hover:opacity-100 transition-opacity">15 sv</div>
+<div class="bg-slate-200 dark:bg-slate-700 group-hover:bg-primary/50 transition-colors w-full rounded-t-sm" style="height: 25%;"></div>
+</div>
+<p class="text-slate-500 text-xs font-semibold mt-2">2-4</p>
+<div class="w-full flex flex-col items-center gap-2 h-full justify-end group cursor-pointer relative">
+<div class="absolute -top-8 bg-slate-800 text-white text-xs py-1 px-2 rounded opacity-0 group-hover:opacity-100 transition-opacity">45 sv</div>
+<div class="bg-slate-200 dark:bg-slate-700 group-hover:bg-primary/70 transition-colors w-full rounded-t-sm" style="height: 60%;"></div>
+</div>
+<p class="text-slate-500 text-xs font-semibold mt-2">4-6</p>
+<div class="w-full flex flex-col items-center gap-2 h-full justify-end group cursor-pointer relative">
+<div class="absolute -top-8 bg-slate-800 text-white text-xs py-1 px-2 rounded opacity-0 group-hover:opacity-100 transition-opacity">60 sv</div>
+<div class="bg-primary dark:bg-primary w-full rounded-t-sm shadow-[0_0_10px_rgba(19,109,236,0.3)]" style="height: 85%;"></div>
+</div>
+<p class="text-slate-900 dark:text-slate-100 text-xs font-bold mt-2">6-8</p>
+<div class="w-full flex flex-col items-center gap-2 h-full justify-end group cursor-pointer relative">
+<div class="absolute -top-8 bg-slate-800 text-white text-xs py-1 px-2 rounded opacity-0 group-hover:opacity-100 transition-opacity">25 sv</div>
+<div class="bg-slate-200 dark:bg-slate-700 group-hover:bg-primary/50 transition-colors w-full rounded-t-sm" style="height: 40%;"></div>
+</div>
+<p class="text-slate-500 text-xs font-semibold mt-2">8-10</p>
+</div>
+</div>
+<!-- Detailed Table -->
+<div class="col-span-1 lg:col-span-2 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 overflow-hidden shadow-sm flex flex-col">
+<div class="p-6 border-b border-slate-200 dark:border-slate-800 flex justify-between items-center bg-slate-50/50 dark:bg-slate-800/50">
+<div>
+<h3 class="text-slate-900 dark:text-white text-lg font-bold">Danh sách chi tiết</h3>
+</div>
+<div class="relative">
+<span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-400 text-[18px]">filter_list</span>
+<select class="pl-9 pr-8 py-2 text-sm bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-lg text-slate-700 dark:text-slate-300 focus:ring-primary focus:border-primary appearance-none cursor-pointer">
+<option>Tất cả kết quả</option>
+<option>Đạt (&gt;=5.0)</option>
+<option>Trượt (&lt;5.0)</option>
+</select>
+</div>
+</div>
+<div class="overflow-x-auto flex-1">
+<table class="w-full text-left text-sm">
+<thead class="bg-slate-50 dark:bg-slate-800/80 text-slate-500 dark:text-slate-400 font-semibold border-b border-slate-200 dark:border-slate-700 uppercase tracking-wider text-xs">
+<tr>
+<th class="px-6 py-4">Mã SV</th>
+<th class="px-6 py-4">Họ và tên</th>
+<th class="px-6 py-4">Lớp</th>
+<th class="px-6 py-4 text-center">Điểm số</th>
+<th class="px-6 py-4 text-center">Trạng thái</th>
+</tr>
+</thead>
+<tbody class="divide-y divide-slate-100 dark:divide-slate-800/50">
+<tr class="hover:bg-slate-50 dark:hover:bg-slate-800/30 transition-colors">
+<td class="px-6 py-4 font-medium text-slate-900 dark:text-slate-300">SV001</td>
+<td class="px-6 py-4 text-slate-700 dark:text-slate-300">Nguyễn Văn An</td>
+<td class="px-6 py-4 text-slate-500 dark:text-slate-400">TH21A</td>
+<td class="px-6 py-4 text-center font-bold text-slate-900 dark:text-white">8.5</td>
+<td class="px-6 py-4 text-center">
+<span class="inline-flex items-center px-2.5 py-1 rounded-full text-xs font-medium bg-emerald-100 text-emerald-800 dark:bg-emerald-900/30 dark:text-emerald-400 border border-emerald-200 dark:border-emerald-800">Đạt</span>
+</td>
+</tr>
+<tr class="hover:bg-slate-50 dark:hover:bg-slate-800/30 transition-colors">
+<td class="px-6 py-4 font-medium text-slate-900 dark:text-slate-300">SV002</td>
+<td class="px-6 py-4 text-slate-700 dark:text-slate-300">Trần Thị Bình</td>
+<td class="px-6 py-4 text-slate-500 dark:text-slate-400">TH21B</td>
+<td class="px-6 py-4 text-center font-bold text-slate-900 dark:text-white">7.0</td>
+<td class="px-6 py-4 text-center">
+<span class="inline-flex items-center px-2.5 py-1 rounded-full text-xs font-medium bg-emerald-100 text-emerald-800 dark:bg-emerald-900/30 dark:text-emerald-400 border border-emerald-200 dark:border-emerald-800">Đạt</span>
+</td>
+</tr>
+<tr class="hover:bg-slate-50 dark:hover:bg-slate-800/30 transition-colors">
+<td class="px-6 py-4 font-medium text-slate-900 dark:text-slate-300">SV003</td>
+<td class="px-6 py-4 text-slate-700 dark:text-slate-300">Lê Hoàng Cường</td>
+<td class="px-6 py-4 text-slate-500 dark:text-slate-400">TH21A</td>
+<td class="px-6 py-4 text-center font-bold text-rose-600 dark:text-rose-400">4.5</td>
+<td class="px-6 py-4 text-center">
+<span class="inline-flex items-center px-2.5 py-1 rounded-full text-xs font-medium bg-rose-100 text-rose-800 dark:bg-rose-900/30 dark:text-rose-400 border border-rose-200 dark:border-rose-800">Trượt</span>
+</td>
+</tr>
+<tr class="hover:bg-slate-50 dark:hover:bg-slate-800/30 transition-colors">
+<td class="px-6 py-4 font-medium text-slate-900 dark:text-slate-300">SV004</td>
+<td class="px-6 py-4 text-slate-700 dark:text-slate-300">Phạm Mai Dung</td>
+<td class="px-6 py-4 text-slate-500 dark:text-slate-400">TH21C</td>
+<td class="px-6 py-4 text-center font-bold text-slate-900 dark:text-white">9.2</td>
+<td class="px-6 py-4 text-center">
+<span class="inline-flex items-center px-2.5 py-1 rounded-full text-xs font-medium bg-emerald-100 text-emerald-800 dark:bg-emerald-900/30 dark:text-emerald-400 border border-emerald-200 dark:border-emerald-800">Đạt</span>
+</td>
+</tr>
+<tr class="hover:bg-slate-50 dark:hover:bg-slate-800/30 transition-colors">
+<td class="px-6 py-4 font-medium text-slate-900 dark:text-slate-300">SV005</td>
+<td class="px-6 py-4 text-slate-700 dark:text-slate-300">Hoàng Văn Em</td>
+<td class="px-6 py-4 text-slate-500 dark:text-slate-400">TH21B</td>
+<td class="px-6 py-4 text-center font-bold text-slate-900 dark:text-white">6.8</td>
+<td class="px-6 py-4 text-center">
+<span class="inline-flex items-center px-2.5 py-1 rounded-full text-xs font-medium bg-emerald-100 text-emerald-800 dark:bg-emerald-900/30 dark:text-emerald-400 border border-emerald-200 dark:border-emerald-800">Đạt</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="p-4 border-t border-slate-200 dark:border-slate-800 flex items-center justify-between text-sm text-slate-500 dark:text-slate-400 bg-slate-50/50 dark:bg-slate-800/30">
+<span>Hiển thị 1-5 của 150 sinh viên</span>
+<div class="flex gap-1">
+<button class="px-3 py-1 rounded border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 hover:bg-slate-50 dark:hover:bg-slate-700 disabled:opacity-50" disabled="">Trước</button>
+<button class="px-3 py-1 rounded border border-primary bg-primary text-white font-medium">1</button>
+<button class="px-3 py-1 rounded border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 hover:bg-slate-50 dark:hover:bg-slate-700">2</button>
+<button class="px-3 py-1 rounded border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 hover:bg-slate-50 dark:hover:bg-slate-700">3</button>
+<span class="px-2 py-1">...</span>
+<button class="px-3 py-1 rounded border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 hover:bg-slate-50 dark:hover:bg-slate-700">Sau</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body></html>

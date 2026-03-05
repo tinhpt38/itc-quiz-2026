@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Student Information Confirmation</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#136dec",
+                        "background-light": "#f6f7f8",
+                        "background-dark": "#101822",
+                    },
+                    fontFamily: {
+                        "display": ["Inter", "sans-serif"]
+                    },
+                    borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+                },
+            },
+        }
+    </script>
+</head>
+<body class="font-display bg-background-light dark:bg-background-dark text-slate-900 dark:text-slate-100 min-h-screen antialiased">
+<div class="relative flex min-h-screen w-full flex-col overflow-x-hidden">
+<div class="layout-container flex h-full grow flex-col">
+<header class="flex items-center justify-between whitespace-nowrap border-b border-solid border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 px-6 sm:px-10 py-4 shadow-sm">
+<div class="flex items-center gap-4">
+<div class="text-primary flex items-center justify-center">
+<span class="material-symbols-outlined text-3xl">school</span>
+</div>
+<h2 class="text-lg font-bold leading-tight tracking-tight">Centralized Exam System</h2>
+</div>
+<div class="flex flex-1 justify-end gap-8">
+<div class="bg-center bg-no-repeat bg-cover rounded-full h-10 w-10 border border-slate-200 dark:border-slate-700" data-alt="Small user avatar thumbnail" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuCoSVcxs3ywa2IFFR8wY6N7Wuhenr3wB6djTWGzd3maETu3dCkD-vKd4wcohgrKTUvysLcq5W_WHMHxBBDw7hPB522EH4uTSvfkjE2jGzNFypYxfFQ_iJrj0rmjeiIbmh7ZGVykwYmD_Dr96_0PcZDYY79crsFzQBPj29TcFk_jzm4Jn6NPWbywjLF051r5JFCU1xKUpu25GJVQZsY3HhL-kMEDtLkqgiEheGkRj86IFir24Hr4QO4qsY-cpKZAS9Pha9oL8IICGNg");'></div>
+</div>
+</header>
+<main class="flex flex-1 justify-center py-8 px-4 sm:px-8">
+<div class="layout-content-container flex flex-col w-full max-w-[960px] flex-1 bg-white dark:bg-slate-900 rounded-xl shadow-md border border-slate-100 dark:border-slate-800 overflow-hidden">
+<div class="flex flex-col border-b border-slate-100 dark:border-slate-800 p-6 sm:p-8">
+<h1 class="text-2xl sm:text-[32px] font-bold leading-tight mb-2">Student Information Confirmation</h1>
+<p class="text-slate-500 dark:text-slate-400">Please verify your details before the exam begins.</p>
+</div>
+<div class="flex flex-col sm:flex-row p-6 sm:p-8 gap-8 items-center sm:items-start border-b border-slate-100 dark:border-slate-800">
+<div class="bg-center bg-no-repeat bg-cover rounded-full h-32 w-32 min-w-[128px] border-4 border-slate-50 dark:border-slate-800 shadow-sm" data-alt="Large student portrait photo" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDPIc_GQQPXLVgwVtdgNyZaLmd9SqZDJzfeWEgQiI2I2VZGjfW8XPGeROq6Tip4RpfhjLGQbAV1EuO_w6tvngTb2oPWS5dvRZDtB72aKvCbZqy2UXb8-hQ6AivAzeMuaZaT_vwRGEoGHjpmoenOPFDD4qG9GB6OLcJH9FyCwWjgTv92XGZdh83nU2DLKlQVbzu_lYWr_0sWZdWy21wjLPuoKV0hM7J5Jh6_dgfFd_K8Sn8TTr89BspxGIpwGtkDeHWYv6wCOjGhWOI");'></div>
+<div class="flex flex-col items-center sm:items-start justify-center gap-2">
+<p class="text-[24px] font-bold leading-tight tracking-tight text-center sm:text-left">Nguyen Van A</p>
+<div class="flex flex-wrap items-center justify-center sm:justify-start gap-4 text-slate-600 dark:text-slate-300">
+<span class="flex items-center gap-1 bg-slate-100 dark:bg-slate-800 px-3 py-1 rounded-full text-sm font-medium">
+<span class="material-symbols-outlined text-sm">badge</span>
+                                    ID: 123456789
+                                </span>
+<span class="flex items-center gap-1 bg-slate-100 dark:bg-slate-800 px-3 py-1 rounded-full text-sm font-medium">
+<span class="material-symbols-outlined text-sm">meeting_room</span>
+                                    Room: A1-203
+                                </span>
+<span class="flex items-center gap-1 bg-slate-100 dark:bg-slate-800 px-3 py-1 rounded-full text-sm font-medium">
+<span class="material-symbols-outlined text-sm">event</span>
+                                    Seat: 42
+                                </span>
+</div>
+</div>
+</div>
+<div class="flex flex-col p-6 sm:p-12 items-center justify-center flex-1 bg-slate-50 dark:bg-slate-800/50">
+<div class="flex flex-col items-center gap-8 w-full max-w-md">
+<div class="flex flex-col items-center gap-4 text-center">
+<div class="relative flex items-center justify-center w-16 h-16 rounded-full bg-primary/10 text-primary mb-2">
+<span class="material-symbols-outlined text-3xl animate-spin" style="animation: spin 2s linear infinite;">hourglass_top</span>
+</div>
+<p class="text-xl sm:text-2xl font-bold leading-tight tracking-tight text-primary">Đang chờ Giám thị phát đề...</p>
+<p class="text-slate-500 dark:text-slate-400 text-sm">Please wait while the proctor distributes the exam. Your exam will start automatically once distributed.</p>
+</div>
+<div class="w-full h-px bg-slate-200 dark:bg-slate-700 my-2"></div>
+<button class="w-full flex cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 px-6 bg-primary hover:bg-primary/90 text-white text-base font-bold leading-normal transition-colors shadow-sm focus:ring-2 focus:ring-primary focus:ring-offset-2 dark:focus:ring-offset-slate-900">
+<span class="material-symbols-outlined mr-2 text-lg">check_circle</span>
+<span class="truncate">Confirm Information is Correct</span>
+</button>
+<p class="text-xs text-slate-400 dark:text-slate-500 text-center max-w-[80%]">If any information above is incorrect, please notify the proctor immediately.</p>
+</div>
+</div>
+</div>
+</main>
+</div>
+</div>
+<style>
+        @keyframes spin {
+            from {
+                transform: rotate(0deg);
+            }
+            to {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</body></html>

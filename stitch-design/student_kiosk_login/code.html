@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html class="light" lang="vi"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Hệ thống thi tập trung</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#136dec",
+                        "background-light": "#f6f7f8",
+                        "background-dark": "#101822",
+                    },
+                    fontFamily: {
+                        "display": ["Inter", "Noto Sans", "sans-serif"]
+                    },
+                    borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+                },
+            },
+        }
+    </script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+</head>
+<body class="bg-background-light dark:bg-background-dark font-display text-slate-900 dark:text-slate-100 min-h-screen flex items-center justify-center p-4">
+<main class="w-full max-w-[560px] bg-white dark:bg-slate-900 p-10 md:p-14 rounded-xl shadow-2xl border border-slate-200/60 dark:border-slate-800 flex flex-col items-center">
+<div class="h-20 w-20 bg-primary/10 dark:bg-primary/20 rounded-full flex items-center justify-center mb-6">
+<span class="material-symbols-outlined text-primary text-4xl">
+                school
+            </span>
+</div>
+<h1 class="text-3xl md:text-4xl font-bold leading-tight text-center mb-2">
+            Hệ thống thi tập trung
+        </h1>
+<p class="text-slate-500 dark:text-slate-400 text-center mb-10 text-lg">
+            Vui lòng đăng nhập để bắt đầu bài thi
+        </p>
+<form class="w-full flex flex-col gap-6" onsubmit="event.preventDefault();">
+<div class="flex flex-col gap-2">
+<label class="text-base font-semibold leading-normal text-slate-700 dark:text-slate-300" for="candidate_id">
+                    Số báo danh
+                </label>
+<input autocomplete="off" autofocus="" class="form-input flex w-full resize-none overflow-hidden rounded-lg border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-900 dark:text-slate-100 focus:outline-0 focus:ring-2 focus:ring-primary focus:border-primary h-16 px-5 text-xl font-medium placeholder:text-slate-400 dark:placeholder:text-slate-500 transition-all shadow-sm" id="candidate_id" placeholder="Nhập số báo danh của bạn" type="text"/>
+</div>
+<button class="mt-4 flex w-full cursor-pointer items-center justify-center gap-3 overflow-hidden rounded-lg h-16 bg-primary text-white text-xl font-bold leading-normal tracking-wide shadow-lg shadow-primary/30 hover:bg-primary/90 transition-colors focus:ring-4 focus:ring-primary/50" type="submit">
+<span>Vào phòng thi</span>
+<span class="material-symbols-outlined text-2xl">
+                    arrow_forward
+                </span>
+</button>
+</form>
+</main>
+</body></html>
