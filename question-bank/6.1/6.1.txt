@@ -1,0 +1,280 @@
+Virus tin học là gì?
+A. Là một chương trình máy tính do con người tạo ra
+B. Có khả năng tự giấu kín, tự sao chép để lây lan
+C. Có khả năng phá hoại đối với các sản phẩm tin học
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Việc tải file dữ liệu từ Internet bị chậm là do:
+A. File có dung lượng lớn
+B. Đường truyền internet tốc độ thấp
+C. Server cung cấp dịch vụ internet bị quá tải
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Upload có nghĩa là:
+A. Đang tải
+B. Không tải
+C. Trực tuyến
+D. Chuyển file dữ liệu từ máy tính cá nhân sang máy tính khác thông qua mạng
+ANSWER:D
+
+Phát biểu nào dưới đây là đúng:
+A. Website là tập hợp những trang web liên kết với nhau bằng các siêu liên kết
+B. Website được đưa vào mạng Internet để hoà cùng các website khác
+C. Mọi người trên khắp thế giới đều có thể truy cập được vào website để lấy thông tin
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Phát biểu nào dưới đây là đúng:
+A. Upload là quá trình chuyển tải dữ liệu từ máy tính của bạn sang một máy tính khác
+B. Bạn tạo một trang web trên máy tính của mình và muốn chuyển trang web đó đến một máy chủ thì bạn phải “upload” tập tin đó sang máy chủ của bạn
+C. Download là quá trình chuyển tải dữ liệu từ một máy tính khác sang máy tính của bạn
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Phát biểu nào dưới đây là đúng:
+A. Email là một hệ thống chuyển nhận thư từ qua các mạng máy tính
+B. Email là một phương tiện thông tin rất nhanh
+C. Một mẫu thông tin (thư từ) có thể được gửi đi ở dạng mã hoá hay dạng thông thường và được chuyển qua các mạng máy tính đặc biệt là mạng Internet
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Phát biểu nào dưới đây là đúng:
+A. Internet là một hệ thống thông tin toàn cầu có thể được truy nhập công cộng gồm các mạng máy tính được liên kết với nhau
+B. Hệ thống Internet truyền thông tin theo kiểu nối chuyển gói dữ liệu dựa trên một giao thức liên mạng đã được chuẩn hóa (giao thức IP)
+C. Hệ thống Internet bao gồm hàng ngàn mạng máy tính nhỏ hơn của các doanh nghiệp, của các viện nghiên cứu và các trường đại học, của người dùng cá nhân, và các chính phủ trên toàn cầu
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+OnePay là gì?
+A. Cổng thanh toán điện tử
+B. Trò chơi máy tính
+C. Trình duyệt web
+D. Ngân hàng
+ANSWER:A
+
+Những tiện ích của ngân hàng điện tử:
+A. Quản lý thông tin tài khoản (tiền gửi thanh toán, tiền gửi tiết kiệm, tiền vay): truy vấn số dư, sao kê giao dịch
+B. Chuyển khoản trong nội bộ ngân hàng hoặc liên ngân hàng
+C. Thanh toán hóa đơn trực tuyến (tiền điện, tiền nước, tiền điện thoại, tiền internet).
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Những chương trình nào dùng để duyệt web?
+A. Microsoft Edge
+B. Mozilla Firefox
+C. Google Chrome
+D. Tất cả đều đúng
+ANSWER:D
+
+Ngân hàng điện tử là gì?
+A. Dịch vụ truy vấn thông tin tài khoản và thực hiện các giao dịch chuyển khoản, thanh toán qua mạng Internet
+B. Dịch vụ cho phép khách hàng thực hiện giao dịch trực tuyến mà không cần đến ngân hàng
+C. Chỉ cần một chiếc máy vi tính hoặc điện thoại di động có kết nối Internet và mã truy cập do Ngân hàng cung cấp, khách hàng đã có thể thực hiện các giao dịch với ngân hàng mọi lúc mọi nơi một cách an toàn
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Nganluong.vn là gì? 
+A. Cổng thanh toán điện tử
+B. Trò chơi máy tính
+C. Trình duyệt Web
+D. Ngân hàng
+ANSWER:A
+
+Kí hiệu nào sau đây có thể tồn tại trong một địa chỉ Email?
+A. Kí hiệu %
+B. Kí hiệu @
+C. Kí hiệu &
+D. Kí hiệu $
+ANSWER:B
+
+Kí hiệu nào sau đây cần có trong một địa chỉ Email? 
+A. Kí hiệu @
+B. Kí hiệu %
+C. Kí hiệu &
+D. Kí hiệu $
+ANSWER:A
+
+Khi thấy tên miền trong địa chỉ website có .vn thì website đó thuộc về:
+A. Mỹ
+B. Việt Nam
+C. Anh
+D. Thuộc về các tổ chức khác
+ANSWER:B
+
+Khi thấy tên miền trong địa chỉ website có .tw thì website đó thuộc về:
+A. Mỹ
+B. Đài Loan
+C. Anh
+D. Thuộc về các tổ chức khác
+ANSWER:B
+
+Khi thấy tên miền trong địa chỉ website có .us thì website đó thuộc về:
+A. Mỹ
+B. Việt Nam
+C. Anh
+D. Thuộc về các tổ chức khác
+ANSWER:A
+
+Khi thấy tên miền trong địa chỉ website có .hk thì website đó thuộc về:
+A. Mỹ
+B. Hồng Kông
+C. Anh
+D. Thuộc về các tổ chức khác
+ANSWER:B
+
+Khi thấy tên miền trong địa chỉ website có .gov thì website đó thường thuộc về:
+A. Lĩnh vực chính phủ
+B. Lĩnh vực giáo dục
+C. Lĩnh vực cung cấp thông tin
+D. Thuộc về các tổ chức khác
+ANSWER:A
+
+Khi thấy tên miền trong địa chỉ website có .fr thì website đó thuộc về:
+A. Mỹ
+B. Pháp
+C. Anh
+D. Thuộc về các tổ chức khác
+ANSWER:B
+
+Khi thấy tên miền trong địa chỉ website có .edu thì website đó thường thuộc về:
+A. Lĩnh vực chính phủ
+B. Lĩnh vực giáo dục
+C. Lĩnh vực cung cấp thông tin
+D. Thuộc về các tổ chức khác
+ANSWER:B
+
+Khi thấy tên miền trong địa chỉ website có .com thì website đó thường thuộc về:
+A. Lĩnh vực chính phủ
+B. Lĩnh vực doanh nghiệp
+C. Lĩnh vực cung cấp thông tin
+D. Thuộc về các tổ chức khác
+ANSWER:B
+
+Khi thấy tên miền trong địa chỉ website có .cn thì website đó thuộc về:
+A. Mỹ
+B. Trung Quốc
+C. Anh
+D. Thuộc về các tổ chức khác
+ANSWER:B
+
+Khi thấy tên miền trong địa chỉ website có .au thì website đó thuộc về:
+A. Mỹ
+B. Úc
+C. Anh
+D. Thuộc về các tổ chức khác
+ANSWER:B
+
+Facebook là? 
+A. Trang web của chính phủ
+B. Trang viết cá nhân
+C. Trang mạng xã hội
+D. Trang chuyên cung cấp thông tin thời sự
+ANSWER:C
+
+Địa chỉ website của trường học có phần đuôi là?
+A. .edu
+B. .com
+C. .vn
+D. .gov
+ANSWER:A
+
+Địa chỉ website của Trường Đại học Đà Lạt như thế nào là đúng?
+A. http://www.dlu.com.vn
+B. http://www.dlu.gov.com
+C. http://www.dlu.edu.vn
+D. http://www.dlu.gov
+ANSWER:C
+
+Địa chỉ nào là địa chỉ email? 
+A. dalatspecial@gmail.com
+B. vnexpress.net
+C. google.com
+D. hanoi.edu.vn
+ANSWER:A
+
+Để tránh lây lan virus qua email, người dùng nên làm gì?
+A. Quét virus trước khi mở file gắn kèm trong email
+B. Không mở email của người lạ
+C. Không tải tập tin từ email khi không cần thiết
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Để trả lời ngay thư điện tử khi đang xem thư, bạn chọn nút nào? 
+A. Reply
+B. Attach files
+C. Inbox
+D. Compose
+ANSWER:A
+
+Để trả lời một thư và thư đó có nhiều người nhận, bạn muốn gửi cho tất cả những người đó thì sử dụng nút nào? 
+A. Reply all
+B. Forward
+C. Compose
+D. Attach files
+ANSWER:A
+
+Để kết nối Internet có thể sử dụng:
+A. Điện thoại di động
+B. Mạng cáp quang
+C. Đường dây điện thoại
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Đâu là thư mục không có sẵn trong tài khoản Email 
+A. Spam
+B. Drafts
+C. MyEmail
+D. Sent
+ANSWER:C
+
+Download có nghĩa là:
+A. Đang tải
+B. Không tải
+C. Trực tuyến
+D. Tải file dữ liệu
+ANSWER:D
+
+Công cụ tìm kiếm thông tin trên Internet hiện nay
+A. Google
+B. Bing
+C. Coccoc
+D. Tất cả đều đúng
+ANSWER:D
+
+Chọn phát biểu đúng về tên miền?
+A. Tên miền là tên gọi nhớ về một địa chỉ IP
+B. Tên miền là tên giao dịch của 1 công ty hay tổ chức sử dụng trên Internet
+C. Công việc chuyển đổi tử tên miền sang địa chỉ IP do máy chủ DNS đảm trách
+D. Tất cả các câu trên đều đúng
+ANSWER:D
+
+Cho địa chỉ sau "www.dalatspecial.com", hậu tố "com" có nghĩa là:
+A. Đây là địa chỉ của các trang web thương mại, dịch vụ
+B. Đây là địa chỉ của các trang web giáo dục
+C. Đây là địa chỉ của các trang web giải trí
+D. Đây là địa chỉ của các trang web thông thường
+ANSWER:A
+
+Các máy tính kết nối thành mạng máy tính nhằm mục tiêu:
+A. Tăng tính bảo mật của thông tin trong máy
+B. Chia sẻ tài nguyên
+C. Giảm khả năng chia sẻ dữ liệu
+D. Hạn chế virus
+ANSWER:B
+
+Các Email rác được lưu trong thư mục nào? 
+A. Spam
+B. Drafts
+C. Sent
+D. Inbox
+ANSWER:A
+
+"Online" có nghĩa là:
+A. Đang tải
+B. Không tải
+C. Trực tuyến
+D. Không trực tuyến
+ANSWER:C
+

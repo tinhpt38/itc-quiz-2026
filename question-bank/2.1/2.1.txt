@@ -1,0 +1,280 @@
+Trong Windows, từ Shortcut có ý nghĩa gì?
+A. Tạo đường tắt để truy cập nhanh
+B. Xóa một đối tượng được chọn tại màn hình nền
+C. Đóng các cửa sổ đang mở
+D. Tạo một ứng dụng
+ANSWER:A
+
+Trong Windows, ở cửa sổ Explorer, để chọn một lúc các file hoặc folder nằm không kề nhau:
+A. Giữ phím Ctrl và click chuột vào từng mục muốn chọn trong danh sách
+B. Nháy chuột ở mục đầu, ấn và giữ Shift nháy chuột ở mục cuối
+C. Giữ phím Alt và nháy chuột vào từng mục muốn chọn trong danh sách
+D. Giữ phím Tab và nháy chuột vào từng mục muốn chọn trong danh sách
+ANSWER:A
+
+Trong Windows, muốn khôi phục đối tượng đã xóa, mở cửa sổ Recycle Bin và thực hiện thao tác nào sau đây? 
+A. Kích chuột phải tại đối tượng, chọn Restore
+B. Kích chuột phải tại đối tượng, chọn Cut
+C. Kích chuột phải tại đối tượng, chọn Properties
+D. Kích chuột phải tại đối tượng, chọn Undo
+ANSWER:A
+
+Trong Windows, khi xoá file hoặc folder thì nó được lưu trong Recycle Bin, muốn xoá hẳn file hoặc folder ta bấm tổ hợp phím nào:
+A. Shift+Delete
+B. Alt+Delete
+C. Ctrl+Delete
+D. Fn+ Delete
+ANSWER:A
+
+Trong Windows, để đổi tên thư mục ta thực hiện:
+A. Click nút phải chuột tại thư mục -> Rename -> gõ tên mới -> enter
+B. Click nút phải chuột tại thư mục -> Delete -> gõ tên mới -> enter
+C. Click nút phải chuột tại thư mục -> New ->gõ tên mới -> enter
+D. Click nút phải chuột tại thư mục -> File/new/folder -> gõ tên mới -> enter
+ANSWER:A
+
+Trong Windows, click chuột phải vào thư mục và chọn Delete thì:
+A. Xóa thư mục vào thùng rác
+B. Xóa vĩnh viễn thư mục
+C. Xóa thư mục trong thùng rác
+D. Xoá tạm thời khi quay lại vẫn còn
+ANSWER:A
+
+Trong Windows, click chuột phải vào tập tin và chọn Delete thì:
+A. Xóa tập tin vào thùng rác
+B. Xóa vĩnh viễn tập tin
+C. Xóa tập tin trong thùng rác
+D. Xoá tạm thời khi quay lại vẫn còn
+ANSWER:A
+
+Trong một ổ đĩa thì tên một thư mục có thể:
+A. Trùng với tên thư mục khác trong một ổ đĩa khác
+B. Trùng với phần tên của một tập tin trong cùng ổ đĩa
+C. Trùng với tên thư mục con
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Trong môi trường Windows bạn có thể chạy cùng lúc:
+A. Chạy nhiều chương trình ứng dụng khác nhau
+B. Chỉ chạy được một chương trình
+C. Chỉ chạy được hai chương trình
+D. Chỉ chạy được ba chương trình
+ANSWER:A
+
+Trong hệ điều hành Windows, muốn chọn tất cả các đối tượng trong một cửa sổ, ta sử dụng cách nào sau đây? 
+A. Nhấn tổ hợp phím Ctrl + A
+B. Nhấn tổ hợp phím Ctrl + I
+C. Nhấn tổ hợp phím Alt + Tab
+D. Nhấn tổ hợp phím Ctrl + B
+ANSWER:A
+
+Trong hệ điều hành Windows ta có thể mở:
+A. Duy nhất một cửa sổ làm việc
+B. Nhiều cửa sổ làm việc cùng một lúc
+C. Tối đa bốn cửa sổ
+D. Chỉ cho phép mở từng cửa sổ
+ANSWER:B
+
+Trong File Explorer, để đánh dấu chọn tất cả các đối tượng trong cửa sổ Folder hiện tại, ta nhấn phím:
+A. F8
+B. F7
+C. Ctrl + A
+D. Ctrl + T
+ANSWER:C
+
+Trên máy tính, mặc định để kích hoạt chương trình bằng một biểu tượng (icons) bằng chuột, ta phải thao tác:
+A. Click chuột phải
+B. Nhấn Ctrl trước khi click chuột
+C. Click đôi chuột trái
+D. Click chuột trái
+ANSWER:C
+
+Tổ hợp phím tắt Alt+Tab trong Windows dùng để:
+A. Thoát cửa sổ hiện hành
+B. Phóng to cửa sổ hiện hành
+C. Chuyển đổi qua lại giữa các cửa sổ chương trình
+D. Thu nhỏ cửa sổ hiện hành xuống thanh Taskbar
+ANSWER:C
+
+Tổ hợp phím Ctrl + Z dùng để:
+A. Hủy thao tác
+B. Đóng cửa sổ đang mở
+C. Hủy kết quả của thao tác hoặc lệnh phía trước gần nhất kết quả hiện tại
+D. Đóng tập tin đang mở
+ANSWER:C
+
+Thao tác nhấp chuột phải vào biểu tượng của thư mục/tập tin và chọn Properties là để:
+A. Xem thuộc tính thư mục/tập tin
+B. Sao chép thư mục/tập tin
+C. Đổi tên thư mục/tập tin
+D. Xoá thư mục/tập tin
+ANSWER:A
+
+Thao tác nhấp chuột phải vào biểu tượng của tệp tin và chọn Properties là để:
+A. Xem thuộc tính tệp tin
+B. Sao chép tệp tin
+C. Xoá tệp tin
+D. Đổi tên tệp tin
+ANSWER:A
+
+Thao tác nào cho phép xoá một thư mục hay một tệp tin đã được chọn:
+A. Nhấp chuột phải và chọn Delete
+B. Bấm phím Delete
+C. Nhấn Shift + Delete
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Tệp tin có phần mở rộng là RAR, ZIP cho ta biết đây là:
+A. File thực thi
+B. File video
+C. File nén
+D. File văn bản
+ANSWER:C
+
+Phím, tổ hợp phím dùng để chụp màn hình
+A. Ctrl+C
+B. Ctrl+Ins
+C. Print Screen
+D. ESC
+ANSWER:C
+
+Phím, tổ hợp phím dùng để chụp cửa sổ hiện hành:
+A. Alt+Print Screen
+B. Ctrl+Print Screen
+C. Print Screen
+D. Shift+ Print Screen
+ANSWER:A
+
+Muốn xóa một chương trình trong Windows ta dùng cách nào sau đây
+A. Xóa biểu tượng trên màn hình
+B. Vào Control panel chọn Devices and Printers
+C. Vào Control panel chọn Programs and Features
+D. Kéo biểu tượng vào thùng rác
+ANSWER:C
+
+Muốn tạo một thư mục trên màn hình Desktop của Windows, ta kích chuột phải vào một chỗ trống trên Desktop và chọn:
+A. Properties
+B. New - Folder
+C. New – Shortcut
+D. New – File
+ANSWER:B
+
+Muốn tạo 1 thư mục mới trên ổ đĩa D: \ trong Windows, ta đứng tại ổ đĩa D:\ chọn:
+A. Bấm chuột phải \ New \ Folder
+B. Bấm chuột phải \ New \ Shortcut
+C. Edit \ New \ Folder
+D. Insert \ New \ Folder
+ANSWER:A
+
+Muốn sắp xếp các biểu tượng trên Desktop theo tên ta click phải. trên Desktop chọn sort by và chọn:
+A. Name
+B. Size
+C. Item Type
+D. Date Modified
+ANSWER:A
+
+Muốn khởi động chương trình File Explorer, người dùng có thể:
+A. Nhấn tổ hợp phím Windows + E
+B. Nhấp chuột phải vào Start, chọn File Explorer
+C. Nhấp đúp chuột vào biểu tượng My Computer
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Muốn đóng cửa sổ của chương trình ta chọn:
+A. Ctrl+X
+B. Edit \ Exit
+C. Alt + F4
+D. Fn + F4
+ANSWER:C
+
+Khi sử dụng mạng máy tính ta sẽ được các lợi ích:
+A. Chia sẻ tài nguyên (ổ cứng, máy in, các phần mềm tiện ích,…)
+B. Quản lý tập trung
+C. Tận dụng năng lực xử lý của các máy tính rỗi để làm các đề án lớn
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+File Explorer dùng để:
+A. Quản lý tập tin
+B. Truy cập mạng
+C. Quản lý tập tin, thư mục
+D. Quản lý thư mục
+ANSWER:C
+
+Để phòng chống Virus cách tốt nhất là:
+A. Thường xuyên kiểm tra đĩa, đặc biệt thận trọng khi sao chép dữ liệu từ nơi khác mang tới
+B. Sử dụng các chương trình quét virus có bản quyền và cập nhật thường xuyên
+C. Không nên mở các mail có tệp lạ đính kèm
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Để mở cửa sổ cho phép bạn thêm một máy in:
+A. Control Panel/Devices and Printer / Add a Printer
+B. Windows Explorer / Devices and Printer / Add a Printer
+C. Control Panel / Add and Remove Program / Add a Printer
+D. Control Panel / Add a Printer
+ANSWER:A
+
+Để đóng một cửa sổ ứng dụng thực hiện:
+A. Click nút Close trên thanh tiêu đề của cửa sổ trình ứng dụng
+B. Bấm tổ hợp phím Alt + F4
+C. Chọn menu Close của chương trình
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Để đổi tên một tập tin ta thực hiện:
+A. Click chuột chọn đối tượng -> F2 -> Gõ tên mới -> Enter
+B. Click chuột phải vào đối tượng -> Create shortcut
+C. Click chuột phải vào đối tượng -> Open with
+D. Click chuột chọn đối tượng -> Gõ tên mới
+ANSWER:A
+
+Đâu là phần mở rộng của tập tin cho biết đó là một bức ảnh:
+A. Com
+B. Git
+C. M4a
+D. Jpg
+ANSWER:D
+
+Đặc điểm chính của Virus máy tính là:
+A. Phá hoại
+B. Lây lan
+C. Tự nhân bản
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Dùng chuột kéo và thả một File từ Folder này sang Folder khác trên cùng 1 ổ đĩa, đó là thao tác: 
+A. Sao Chép
+B. Xoá
+C. Đổi Tên
+D. Di Chuyển
+ANSWER:D
+
+Dùng chuột kéo và thả một File từ Folder này sang Folder khác đồng thời bấm giữ phím CTRL, đó là thao tác:
+A. Xoá
+B. Di Chuyển
+C. Sao Chép
+D. Đổi Tên
+ANSWER:C
+
+Control Panel dùng để:
+A. Quản lý ổ đĩa
+B. Quản lý tập tin, thư mục
+C. Quản lý chương trình ứng dụng
+D. Quản lý, sửa đổi các thiết lập của Windows
+ANSWER:D
+
+Các biểu tượng nào sau đây trên Desktop của hệ điều hành Windows được gọi là biểu tượng Shortcut? 
+A. Recycle Bin
+B. Microsoft Word
+C. This PC
+D. Control Panel
+ANSWER:B
+
+Bạn hiểu Virus tin học là gì?
+A. Là một chương trình máy tính do con người tạo ra
+B. Có khả năng tự dấu kín, tự sao chép để lây lan
+C. Có khả năng phá hoại đối với các sản phẩm tin học
+D. Tất cả đáp án đều đúng
+ANSWER:D
+

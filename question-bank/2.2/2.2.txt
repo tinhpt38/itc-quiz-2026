@@ -1,0 +1,280 @@
+Ứng dụng nào được sử dụng mở các tệp tin có phần mở rộng là RAR, ZIP là? 
+A. Windows 7
+B. Windows 8
+C. Winrar, WinZip
+D. Windows 10
+ANSWER:C
+
+Ứng dụng nào được sử dụng để xem nội dung của tệp Reports.zip? 
+A. Microsoft Word
+B. Microsoft Excel
+C. Chương trình nén và giải nén
+D. Trình duyệt web
+ANSWER:C
+
+Trong Windows, các nhóm kí tự nào dưới đây không sử dụng để đặt tên File:
+A. Các chữ số 0…9
+B. Các ký tự  \ / : ? |
+C. Các chữ cái a…z
+D. Các chữ cái A…Z
+ANSWER:B
+
+Trong một thư mục cùng có 2 thư mục con là A và B. Khi đổi tên thư mục từ A thành B thì:
+A. Máy tính hiện ra thông báo tên đã tồn tại và không cho phép thực hiện
+B. Máy tính tự động đặt tên mới là B1
+C. Máy tính tự động xoá thư mục B đã có
+D. Máy tính tự động đặt tên mới là AB
+ANSWER:A
+
+Trong các mô tả sau, nơi lưu trữ nào chứa các tệp tin trước khi bị xóa hoàn toàn? 
+A. Recycle Bin
+B. Inbox
+C. Thư mục Documents
+D. Thư mục Program File
+ANSWER:A
+
+Tổ hợp phím nào có chức năng thu nhỏ tất cả cửa sổ để xem màn hình Desktop?
+A. Shift + D
+B. Alt + D
+C. Ctrl + D
+D. Phím Windows + D
+ANSWER:D
+
+Thực hiện trình tự các thao tác nào để sao chép đối tượng sang một vị trí thư mục khác:
+A. Chọn các đối tượng nguồn -> Giữ phím Shift và kéo chuột sang folder muốn chép đến
+B. Chọn các đối tượng nguồn -> Nhấn Ctrl+C -> Mở folder muốn sao chép đến -> Nhấn Ctrl+X
+C. Chọn các đối tượng nguồn -> Nhấn Ctrl+C -> Mở folder muốn sao chép đến -> Nhấn Ctrl+V
+D. Chọn các đối tượng nguồn -> Nhấn Ctrl+X -> Mở folder muốn sao chép đến -> Nhấn Ctrl+V
+ANSWER:C
+
+Thanh công cụ nào sẽ hiển thị vị trí hiện tại của tập tin hoặc thư mục:
+A. Address bar – Thanh địa chỉ
+B. Menu Bar – Thanh Menu
+C. Title Bar – Thanh tiêu đề
+D. Command bar – Thanh lệnh
+ANSWER:A
+
+Tệp tin có phần mở rộng là MP3 cho ta biết đây là
+A. File ảnh
+B. File âm thanh
+C. File thực thi
+D. File văn bản
+ANSWER:B
+
+Tệp hoặc thư mục có thuộc tính chỉ đọc là thuộc tính nào? 
+A. Read Only
+B. Modify
+C. Hidden
+D. Delete
+ANSWER:A
+
+Tên tệp trong hệ điều hành Windows gồm mấy phần?
+A. 3 phần
+B. 2 phần
+C. 1 phần
+D. 4 phần
+ANSWER:B
+
+Tập tin có phần mở rộng dạng .COM hoặc .EXE thuộc dạng:
+A. Tập tin văn bản
+B. Tập tin thực thi
+C. Tập tin âm thanh
+D. Tập tin hình ảnh
+ANSWER:B
+
+Ta có thể di chuyển cửa sổ tới một vị trí khác trên màn hình bằng cách:
+A. Kích chuột trái lên thanh trạng thái của cửa sổ rồi di chuyển
+B. Kích chuột phải lên thanh tiêu đề rồi di chuyển
+C. Kích chuột trái lên thanh tiêu đề rồi di chuyển
+D. Kích chuột phải lên thanh trạng thái của cửa sổ rồi di chuyển
+ANSWER:C
+
+Phím tắt nào sao chép một đối tượng vào ClipBoard? 
+A. Ctrl+C
+B. Ctrl+X
+C. Ctrl+V
+D. Ctrl+Z
+ANSWER:A
+
+Phím tắt nào dùng để đóng cửa sổ hiện hành? 
+A. Alt+F4
+B. F1
+C. Tab+F9
+D. F7
+ANSWER:A
+
+Phím tắt để đổi tên tệp tin là? 
+A. Ctrl+N
+B. F2
+C. Alt+N
+D. F4
+ANSWER:B
+
+Phím Print Screen có tác dụng gì?
+A. Cuộn màn hình
+B. Chụp màn hình và lưu vào Clipboard
+C. Tắt /Mở dãy phím số
+D. Tắt máy
+ANSWER:B
+
+Phát biểu nào về chức năng của thùng rác (Recycle Bin) là đúng? 
+A. Chỉ lưu các tệp tin bị xoá từ ổ đĩa cứng
+B. Lưu trữ tất cả các tệp bị xoá bởi người dùng
+C. Chỉ lưu trữ các tệp tin bị xoá từ ổ cứng và các thiết bị lưu trữ di động
+D. Lưu các tệp tin bị xoá từ ổ cứng và ổ đĩa mạng được đặt ở nơi khác
+ANSWER:A
+
+Phát biểu nào sau đây là đúng về CD-ROM?
+A. Có thể xóa thư mục trên CD-ROM
+B. Có thể sao chép thư mục trên CD-ROM vào máy tính
+C. Có thể đổi tên thư mục trên CD-ROM
+D. Có thể xoá vĩnh viễn các file trên CD-ROM
+ANSWER:B
+
+Phần mở rộng của tệp tin ngăn cách nhau bởi dấu gì? 
+A. Dấu chấm than (!)
+B. Dấu chấm (.)
+C. Dấu a vòng @
+D. Dấu sao (*)
+ANSWER:B
+
+Phần mềm trên Windows dùng để giả lập bàn phím:
+A. Mouse
+B. On-Screen Keybroad
+C. Paint
+D. Notepad
+ANSWER:B
+
+Mục đích của việc nén dữ liệu (Data compression) là? 
+A. Mã hóa dữ liệu để người khác không đọc được
+B. Để sắp xếp lại thư mục theo nhóm
+C. Giảm dung lượng lưu trữ
+D. Chuyển đổi định dạng dữ liệu của file từ .docx sang .rar
+ANSWER:C
+
+Lựa chọn nào chỉ ra tiện ích của tệp tin nén? 
+A. Nội dung của tệp tin RAR xem được ở bất kì máy tính nào mà không cần bất kì phần mềm cụ thể nào
+B. Ai cũng mở được mà không cần mật khẩu
+C. Tệp tin nén có kích thước nhỏ hơn kích thước của tệp tin ban đầu và thông tin ban đầu không bị mất
+D. Tệp tin ban đầu có dung lượng nhỏ hơn dung lượng của tệp tin nén
+ANSWER:C
+
+Khi xoá một Shortcut thì: 
+A. File nguồn cũng bị xoá
+B. File nguồn không bị xoá
+C. File bị di chuyển sang một Folder khác
+D. File bị di chuyển sang một Ổ đĩa khác
+ANSWER:B
+
+Khi làm việc trong mạng cục bộ, muốn xem tài nguyên trên mạng ta nhấy đúp chuột chọn biểu tượng:
+A. This PC
+B. My Document
+C. Network
+D. Internet Explorer
+ANSWER:C
+
+Khi kích đúp chuột vào thanh tiêu đề của một cửa sổ đang ở kích thước cực đại trong hệ điều hành Windows sẽ
+A. Thu cửa sổ về kích thước cực tiểu
+B. Chuyển về chế độ cho phép thay đổi kích thước cửa sổ
+C. Đóng cửa sổ đó
+D. Thu cửa sổ về kích thước trước đó
+ANSWER:B
+
+Để nén hay giải nén tập tin, bạn có thể sử dụng chương trình nào sau đây:
+A. Foxit Reader
+B. MS Word
+C. Task Manager
+D. Winrar
+ANSWER:D
+
+Để có thể sử dụng được máy in, chúng ta cần phải cài đặt phần mềm gì trước
+A. MS Word
+B. MS Excel
+C. Driver
+D. Không cần cài đặt gì thêm
+ANSWER:C
+
+Để ẩn toàn bộ chương trình và trở về màn hình Desktop thì nhấn tổ hợp phím nào? 
+A. Ctrl + D
+B. Windows + D
+C. Ctrl + N
+D. Ctrl + Alt + Tab
+ANSWER:B
+
+Có thể hồi phục (restore) các tập tin bị xoá sau khi nhấn phím Delete bằng cách:
+A. Mở Recycle Bin, chọn tập tin muốn khôi phục, chọn Restore
+B. Mở Internet Explorer, chọn tập tin muốn khôi phục, chọn Restore
+C. Mở This PC, chọn tập tin muốn khôi phục, chọn Restore
+D. Mở This PC, chọn tập tin muốn khôi phục, chọn Restore
+ANSWER:A
+
+Chương trình nào được thiết kế để phát hiện, ngăn chặn, loại bỏ và phòng chống virus máy tính? 
+A. Worm
+B. Malware
+C. Antivirus
+D. Spyware
+ANSWER:C
+
+Chương trình File Explorer không thực hiện được việc nào sau đây:
+A. Đổi tên tập tin
+B. Xóa thư mục
+C. Sao chép một phần tập tin
+D. Di chuyển thư mục
+ANSWER:C
+
+Chương trình cho phép định lại cấu hình hệ thống thay đổi môi trường làm việc cho phù hợp
+A. Display
+B. Control Panel
+C. Screen Saver
+D. Network
+ANSWER:B
+
+Chức năng nào cho phép thay đổi ngày giờ trong máy tính trên hệ điều hành Windows? 
+A. Control Panel/Display
+B. Control Panel/Date and Time
+C. Control Panel/Fonts
+D. Control Panel/Folder Options
+ANSWER:B
+
+Chức năng nào cho phép tạo các tài khoản để truy cập vào máy tính?
+A. Windows Explorer
+B. Desktop
+C. Multimedia
+D. User Accounts
+ANSWER:D
+
+Cách tổ chức thư mục và tệp tin trong hệ điều hành Windows không cho phép:
+A. Thư mục mẹ và thư mục con có tên trùng nhau
+B. Một ổ đĩa cứng vật lý được phân chia thành nhiều ổ đĩa logic
+C. Trong một thư mục có cả thư mục con và tệp tin
+D. Tạo một tệp tin có chứa thư mục con
+ANSWER:D
+
+Cách nào sau đây được sử dụng để khởi động Start Menu của hệ điều hành Windows? 
+A. Bấm tổ hợp phím Alt + Tab
+B. Bấm tổ hợp phím Ctrl + Esc
+C. Bấm tổ hợp phím Shift + Tab
+D. Bấm tổ hợp phím Ctrl + Tab
+ANSWER:B
+
+Các tập tin trong USB, khi bị xóa sẽ được lưu ở đâu?
+A. Xóa khỏi máy tính
+B. Lưu ở Recycle Bin
+C. Có thể được phục hồi khi mở My Documents
+D. Có thể được phục hồi khi mở Computer
+ANSWER:A
+
+Các tập tin có đuôi mở rộng nào sau đây là định dạng của tập tin nén:
+A. rar, docx
+B. zip, xlsx
+C. rar, zip
+D. xlsx, txt
+ANSWER:C
+
+Các kí tự nào sau đây được sử dụng để thay thế tên file trong thao tác tìm kiếm? 
+A. Kí tự & và @
+B. Kí tự ! và %
+C. Kí tự * và ?
+D. Kí tự & và $
+ANSWER:C
+

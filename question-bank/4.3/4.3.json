@@ -1,0 +1,899 @@
+[
+    {
+        "question": "Trong Microsoft Excel, công thức = AVERAGE(4, 5, MIN(8, 6, 7)) cho kết quả nào?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "4",
+                "isCorrect": false
+            },
+            {
+                "text": "5",
+                "isCorrect": true
+            },
+            {
+                "text": "8",
+                "isCorrect": false
+            },
+            {
+                "text": "0",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel, giả sử ô D4 có công thức sau: = HLOOKUP(A4, A10:D12, 5, 0) kết quả sai ở thành phần nào?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Thành phần 1",
+                "isCorrect": false
+            },
+            {
+                "text": "Thành phần 2",
+                "isCorrect": false
+            },
+            {
+                "text": "Thành phần 3",
+                "isCorrect": true
+            },
+            {
+                "text": "Thành phần 4",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel, để thực hiện việc cuộn văn bản (xuống dòng tự động) đối với nội dung của ô hoặc một dãy ô. Ta thực hiện như thế nào?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Nhấp chuột vào biểu tượng Wrap Text trên thẻ Home",
+                "isCorrect": true
+            },
+            {
+                "text": "Nhấp chuột vào biểu tượng Merge & Center trên thẻ Home",
+                "isCorrect": false
+            },
+            {
+                "text": "Không thực hiện được",
+                "isCorrect": false
+            },
+            {
+                "text": "Nhấp chuột vào biểu tượng Format Painter trên thẻ Home",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel, để giữ cố định hàng hoặc cột trong cửa sổ soạn thảo, ta đánh dấu hàng hoặc cột, chọn:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào Review – Freeze Panes",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào View – Freeze Panes",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào Page Layout – Freeze Panes",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Home – Freeze Panes",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel muốn tô màu cho chữ ta thực hiện các bước như thế nào?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Format cells → Font → Color",
+                "isCorrect": true
+            },
+            {
+                "text": "Format cells → Font → Font style",
+                "isCorrect": false
+            },
+            {
+                "text": "Format cells → Font → Size",
+                "isCorrect": false
+            },
+            {
+                "text": "Format cells → Font → Effect",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel hàm dùng để chuyển chuỗi số sang số là hàm nào trong các hàm sau?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Mid",
+                "isCorrect": false
+            },
+            {
+                "text": "Value",
+                "isCorrect": true
+            },
+            {
+                "text": "Right",
+                "isCorrect": false
+            },
+            {
+                "text": "Left",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel để thêm biểu đồ thực hiện:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Chọn vùng dữ liệu sau đó vào Insert -> Charts",
+                "isCorrect": true
+            },
+            {
+                "text": "Chọn vùng dữ liệu sau đó vào Column -> Clustered Column",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn vùng dữ liệu sau đó Click chuột phải và chọn Format Cell",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn vùng dữ liệu sau đó vào Insert -> Pictures",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel biểu thức =MID(\"A123B\",3,2) sẽ trả về kết quả là bao nhiêu?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "A1",
+                "isCorrect": false
+            },
+            {
+                "text": "23",
+                "isCorrect": true
+            },
+            {
+                "text": "3B",
+                "isCorrect": false
+            },
+            {
+                "text": "A123B",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel 2019, thành phần thứ 3 trong hàm VLOOKUP là gì?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Bảng dò",
+                "isCorrect": false
+            },
+            {
+                "text": "Bảng trị dò",
+                "isCorrect": false
+            },
+            {
+                "text": "Cột tham chiếu để lấy kết quả",
+                "isCorrect": true
+            },
+            {
+                "text": "Dòng tham chiếu để lấy kết quả",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel 2019, khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi nào?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "#NAME?",
+                "isCorrect": true
+            },
+            {
+                "text": "#VALUE!",
+                "isCorrect": false
+            },
+            {
+                "text": "#N/A!",
+                "isCorrect": false
+            },
+            {
+                "text": "#DIV/0!",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel 2019, hàm nào để tìm giá trị trung bình của các giá trị được chọn? ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "EVERAGE",
+                "isCorrect": false
+            },
+            {
+                "text": "AVERAGE",
+                "isCorrect": true
+            },
+            {
+                "text": "ERVERAGE",
+                "isCorrect": false
+            },
+            {
+                "text": "AVERGE",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong công thức của Microsoft Excel, sử dụng phím nào để chuyển đổi địa chỉ tuyệt đối sang địa chỉ tương đối hoặc ngược lại cho ô hoặc vùng đã chọn?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "F4",
+                "isCorrect": true
+            },
+            {
+                "text": "F3",
+                "isCorrect": false
+            },
+            {
+                "text": "F2",
+                "isCorrect": false
+            },
+            {
+                "text": "F5",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong bảng tính Excel, tại ô A2 gõ vào công thức =IF(3>5,100,IF(5<6,200,300)) thì kết quả nhận được tại ô A2 là:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "200",
+                "isCorrect": true
+            },
+            {
+                "text": "true",
+                "isCorrect": false
+            },
+            {
+                "text": "false",
+                "isCorrect": false
+            },
+            {
+                "text": "100",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong bảng tính Excel, tại ô A2 có giá trị số không (0), tại ô B2 gõ công thức =5/A2 cho kết quả:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "0",
+                "isCorrect": false
+            },
+            {
+                "text": "5",
+                "isCorrect": false
+            },
+            {
+                "text": "#Value!",
+                "isCorrect": false
+            },
+            {
+                "text": "#DIV/0!",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong bảng tính Excel, tại ô A2 có giá trị số 10, tại ô B2 gõ công thức =PRODUCT(A2,5) cho kết quả:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "15",
+                "isCorrect": false
+            },
+            {
+                "text": "50",
+                "isCorrect": true
+            },
+            {
+                "text": "2",
+                "isCorrect": false
+            },
+            {
+                "text": "#VALUE!",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong bảng tính Excel, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa là gì?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Hàng chứa ô đó có độ cao quá thấp nên không hiển thị hết chữ số",
+                "isCorrect": false
+            },
+            {
+                "text": "Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số",
+                "isCorrect": true
+            },
+            {
+                "text": "Công thức nhập sai và Excel thông báo lỗi",
+                "isCorrect": false
+            },
+            {
+                "text": "Chương trình bảng tính bị nhiễm virus",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong bảng tính Excel, để sửa dữ liệu trong một ô tính mà không cần nhập lại, ta thực hiện:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "F3",
+                "isCorrect": false
+            },
+            {
+                "text": "F4",
+                "isCorrect": false
+            },
+            {
+                "text": "F5",
+                "isCorrect": false
+            },
+            {
+                "text": "F2",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong bảng tính Excel 2019, công thức =Mod(26, 7) cho kết quả:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "6",
+                "isCorrect": false
+            },
+            {
+                "text": "5",
+                "isCorrect": true
+            },
+            {
+                "text": "4",
+                "isCorrect": false
+            },
+            {
+                "text": "3",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong bảng tính Excel 2019, tại ô A2 gõ vào công thức =MAX(3,14,-25,5) cho kết quả:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "-25",
+                "isCorrect": false
+            },
+            {
+                "text": "14",
+                "isCorrect": true
+            },
+            {
+                "text": "5",
+                "isCorrect": false
+            },
+            {
+                "text": "3",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong bảng dữ liệu điểm của học sinh ô D2 chứa điểm môn toán, ô E2 chứa điểm môn văn. Để tính điểm trung bình với Toán hệ số 2 văn hệ số 1, ta nhập công thức nào vào ô F2?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "=Average(D2:E2)",
+                "isCorrect": false
+            },
+            {
+                "text": "=(D2*2 + E2) /1",
+                "isCorrect": false
+            },
+            {
+                "text": "=(D2*2 + E2) /3",
+                "isCorrect": true
+            },
+            {
+                "text": "=(D2*2 + E2) /2",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Tại vị trí ô B2 trong Excel 2019 có giá trị 15/10/2016. Tại ô C2 thực hiện nhập biểu thức =MONTH(B2)>DAY(B2) thì kết quả trả về là bao nhiêu?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "10",
+                "isCorrect": false
+            },
+            {
+                "text": "TRUE",
+                "isCorrect": false
+            },
+            {
+                "text": "FALSE",
+                "isCorrect": true
+            },
+            {
+                "text": "#VALUE!",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Tại ô A1 trong Excel, nhập vào biểu thức =ROUND(PI(), MIN(2,4,6)) thì kết quả tra về là bao nhiêu?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "3.1",
+                "isCorrect": false
+            },
+            {
+                "text": "3.14",
+                "isCorrect": true
+            },
+            {
+                "text": "#NAME!",
+                "isCorrect": false
+            },
+            {
+                "text": "#N/A!",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Tại D1 có công thức =B1+C1, khi sao chép sang ô E2 thì E2 có công thức là:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "=B1+D1",
+                "isCorrect": false
+            },
+            {
+                "text": "=C1+D2",
+                "isCorrect": false
+            },
+            {
+                "text": "=C2+D2",
+                "isCorrect": true
+            },
+            {
+                "text": "=C1+D1",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi đang làm việc với Excel, có thể di chuyển từ sheet này sang sheet khác bằng cách sử dụng các phím hoặc các tổ hợp phím:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Page Up, Page Down",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + Page Up, Ctrl + Page Down",
+                "isCorrect": true
+            },
+            {
+                "text": "Alt + Page Up, Alt + Page Down",
+                "isCorrect": false
+            },
+            {
+                "text": "Shift + Page Up, Shift + Page Down",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi cần ẩn thuộc tính đường lưới ô trong bảng tính Excel ta cần thực hiện như thế nào?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào Format/Row, chọn Hide",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ View ta bỏ chọn mục Gridlines trong mục Show",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào thẻ Review ta bỏ chọn mục Gridlines trong mục Show",
+                "isCorrect": false
+            },
+            {
+                "text": "Từ menu chuột phải và chọn hide",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Kết quả của công thức =COUNT(“a”, “b”, 2, 3) + COUNTA(“a”, “b”, 0, 1) là?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "7",
+                "isCorrect": false
+            },
+            {
+                "text": "6",
+                "isCorrect": true
+            },
+            {
+                "text": "8",
+                "isCorrect": false
+            },
+            {
+                "text": "5",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Giả sử tại ô D2 có công thức =B2*C2. Nếu sao chép công thức đến ô E3 sẽ có công thức là?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "=B2*C2",
+                "isCorrect": false
+            },
+            {
+                "text": "=B3*C3",
+                "isCorrect": false
+            },
+            {
+                "text": "=C3*D3",
+                "isCorrect": true
+            },
+            {
+                "text": "=C2*D2",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để thiết lập Header và Footer cho bảng tính Excel, ta làm thế nào?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Thẻ Insert/ nhóm Text/ Header hoặc Footer",
+                "isCorrect": true
+            },
+            {
+                "text": "Thẻ Design/ nhóm Header & Footer/ Header hoặc Footer",
+                "isCorrect": false
+            },
+            {
+                "text": "Thẻ Home/ nhóm Header & Footer/ Header hoặc Footer",
+                "isCorrect": false
+            },
+            {
+                "text": "Thẻ Page Layout/ nhóm Header & Footer/ Header hoặc Footer",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để quay được hướng văn bản trong ô, ta chọn ô sau đó thực hiện:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Page Layout\\Alignment\\ Orientation\\chọn hướng",
+                "isCorrect": true
+            },
+            {
+                "text": "Insert\\Alignment\\ Orientation\\chọn hướng",
+                "isCorrect": false
+            },
+            {
+                "text": "Home\\Alignment\\ Orientation\\chọn hướng",
+                "isCorrect": false
+            },
+            {
+                "text": "View\\Alignment\\ Orientation\\chọn hướng",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để lưu bảng tính Excel thành định dạng file khác nhau, ta thực hiện như thế nào?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Chọn Save As  từ hộp thoại Save as  chọn kiểu file cần lưu trong Save as type",
+                "isCorrect": true
+            },
+            {
+                "text": "Chọn Save  từ hộp thoại Save  chọn kiểu file cần lưu trong Save as type",
+                "isCorrect": false
+            },
+            {
+                "text": "Mặc định buộc cho phép chọn kiểu file cần lưu",
+                "isCorrect": false
+            },
+            {
+                "text": "Không thực hiện được",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để hủy kết quả vừa làm ta chọn:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Redo",
+                "isCorrect": false
+            },
+            {
+                "text": "Back",
+                "isCorrect": false
+            },
+            {
+                "text": "Delete",
+                "isCorrect": false
+            },
+            {
+                "text": "Undo",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để chuyển đổi giữa các sheet trong cùng 1 bảng tính, ta làm thế nào:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Chọn sheet từ khung sheet",
+                "isCorrect": true
+            },
+            {
+                "text": "Ấn Ctrl + J",
+                "isCorrect": false
+            },
+            {
+                "text": "Ấn Ctrl + G",
+                "isCorrect": false
+            },
+            {
+                "text": "Ấn Ctrl + L",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Công thức Round(7475.47, -2) trả về kết quả bao nhiêu?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "7480",
+                "isCorrect": false
+            },
+            {
+                "text": "7500",
+                "isCorrect": true
+            },
+            {
+                "text": "7475.47",
+                "isCorrect": false
+            },
+            {
+                "text": "7475",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Chọn phát biểu sai về việc ghép các ô thành 1 ô trong Excel (Merge):",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Sau khi ghép nhiều ô thành một ô, kích thước của ô tổng sẽ phụ thuộc vào kích thước của các ô thành phần",
+                "isCorrect": false
+            },
+            {
+                "text": "Excel cho phép ghép các ô bất kỳ thành 1 ô: những ô liền kề nhau hoặc những ô nằm xa nhau",
+                "isCorrect": true
+            },
+            {
+                "text": "Để huỷ bỏ việc ghép nhiều ô, nhấn chọn ô tổng rồi nhấn tiếp vào nút Merge & Center. Dãy các ô đã bị nhập sẽ được tách ra như cũ",
+                "isCorrect": false
+            },
+            {
+                "text": "Thao tác co dãn chiều ngang cột hoặc chiều cao dòng cũng sẽ ảnh hưởng đến ô tổng",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Chọn những phát biểu đúng về thay đổi hướng viết trong nhóm định dạng Alignment của Format cells:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Tùy chọn Orientation cho phép thay đổi hướng viết của văn bản: theo chiều ngang, chiều dọc hoặc theo hướng xiêng",
+                "isCorrect": false
+            },
+            {
+                "text": "Khi cần thay đổi hướng viết của văn bản: viết nghiêng theo số chỉ độ nghiêng của ô Degrees",
+                "isCorrect": false
+            },
+            {
+                "text": "Khi cần thay đổi hướng viết của văn bản, nhấn chuột vào mũi tên trong ô Orientation, và quay trên đường cung tròn đến khi thấy phù hợp",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Microsoft Excel, phương án nào dưới đây không phải là địa chỉ ô?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "$12$A",
+                "isCorrect": true
+            },
+            {
+                "text": "$A$1210",
+                "isCorrect": false
+            },
+            {
+                "text": "A$12",
+                "isCorrect": false
+            },
+            {
+                "text": "A12",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Biểu thức sau cho kết quả là bao nhiêu nếu trong ô B2 là 10 và dữ liệu trong D2 là chữ D: = IF(OR(B2>=8,D2=\"A\"),1000,300)",
+        "level": 3,
+        "answer": [
+            {
+                "text": "1000",
+                "isCorrect": true
+            },
+            {
+                "text": "300",
+                "isCorrect": false
+            },
+            {
+                "text": "1300",
+                "isCorrect": false
+            },
+            {
+                "text": "FALSE",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Biểu thức =If(AND(DTB>=8, HK=\"A\"), 300, 1000) cho kết quả là bao nhiêu nếu DTB (Điểm trung bình) = 9 và HK (Hạnh kiểm) loại C. ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "1000",
+                "isCorrect": true
+            },
+            {
+                "text": "300",
+                "isCorrect": false
+            },
+            {
+                "text": "TRUE",
+                "isCorrect": false
+            },
+            {
+                "text": "FALSE",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Bạn đã nhập số 115 vào ô A6, làm sao để ô A6 có giá trị là $115",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào thực đơn Format - Cells - Number - Scientific",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thực đơn Format - Cells - Alignment - Accounting",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn ô A6/Nhấn chuột vào nút $ trên thanh công cụ",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào thực đơn Format - Cells - Number – Currency",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    }
+]

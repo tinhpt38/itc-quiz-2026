@@ -1,0 +1,922 @@
+[
+    {
+        "question": "Trong Thẻ Transitions, chức năng Sound dùng để làm gì ?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Cho slide chạy tự động",
+                "isCorrect": false
+            },
+            {
+                "text": "Thiết lập âm thanh khi chuyển Slide",
+                "isCorrect": true
+            },
+            {
+                "text": "Tạo nhạc nền cho slide",
+                "isCorrect": false
+            },
+            {
+                "text": "Slide chạy khi click chuột",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Thẻ Transitions, chức năng On Mouse Click dùng để làm gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Cho slide chạy tự động",
+                "isCorrect": false
+            },
+            {
+                "text": "PowerPoint chạy khi click chuột",
+                "isCorrect": false
+            },
+            {
+                "text": "Thoát khỏi PowerPoint",
+                "isCorrect": false
+            },
+            {
+                "text": "Slide chạy khi click chuột",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Thẻ Transitions, chức năng Apply to All dùng để làm gì ?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Áp dụng hết cho các Slide",
+                "isCorrect": true
+            },
+            {
+                "text": "Áp dụng cho Slide hiện tại",
+                "isCorrect": false
+            },
+            {
+                "text": "Chèn thêm Slide",
+                "isCorrect": false
+            },
+            {
+                "text": "Chèn chữ",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint, tổ hợp phím Ctrl + C được sử dụng để?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Xóa 1 đoạn văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Sao chép một đoạn văn bản",
+                "isCorrect": true
+            },
+            {
+                "text": "Dán một đoạn văn bản từ Clipboard",
+                "isCorrect": false
+            },
+            {
+                "text": "Cắt và sao chép một đoạn văn bản",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint, tổ hợp phím Ctrl + V thường được sử dụng để?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Xóa 1 đoạn văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Dán một đoạn văn bản từ Clipboard",
+                "isCorrect": true
+            },
+            {
+                "text": "Sao chép một đoạn văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Cắt và sao chép một đoạn văn bản",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint, thao tác Ctrl + S dùng để làm gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Xóa file hiện tại",
+                "isCorrect": false
+            },
+            {
+                "text": "Sao chép file hiện tại",
+                "isCorrect": false
+            },
+            {
+                "text": "Đóng file hiện tại",
+                "isCorrect": false
+            },
+            {
+                "text": "Lưu file hiện tại",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint, khi chọn văn bản, chức năng Ctrl + B dùng để làm gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Làm văn bản in nghiêng",
+                "isCorrect": false
+            },
+            {
+                "text": "Làm văn bản phóng to",
+                "isCorrect": false
+            },
+            {
+                "text": "Tô đậm văn bản",
+                "isCorrect": true
+            },
+            {
+                "text": "Làm văn bản thu nhỏ",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint, chọn đoạn văn bản sau đó nhấn tổ hợp phím CTRL + R, thao tác này tương ứng với lựa chọn nào sau đây?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Xóa định dạng đoạn văn được chọn",
+                "isCorrect": false
+            },
+            {
+                "text": "Canh phải đoạn văn được chọn",
+                "isCorrect": true
+            },
+            {
+                "text": "Canh giữa đoạn văn được chọn",
+                "isCorrect": false
+            },
+            {
+                "text": "Canh trái đoạn văn được chọn",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint 2019, thoát khỏi chương trình bằng cách?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào File/ Close",
+                "isCorrect": false
+            },
+            {
+                "text": "Nhấn nút Close",
+                "isCorrect": false
+            },
+            {
+                "text": "Nhấn tổ hợp phím Alt + F4",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint 2019, thao tác File/Save dùng để làm gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Xóa file hiện tại",
+                "isCorrect": false
+            },
+            {
+                "text": "Sao chép file hiện tại",
+                "isCorrect": false
+            },
+            {
+                "text": "Đóng file hiện tại",
+                "isCorrect": false
+            },
+            {
+                "text": "Lưu file hiện tại",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint 2019, thao tác File/ Open dùng để làm gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Mở 1 bản trình bày (Presentation) có sẵn trong máy tính",
+                "isCorrect": true
+            },
+            {
+                "text": "Đóng 1 bản trình bày (Presentation) có sẵn trong máy tính",
+                "isCorrect": false
+            },
+            {
+                "text": "Lưu 1 bản trình bày (Presentation) có sẵn trong máy tính",
+                "isCorrect": false
+            },
+            {
+                "text": "Xóa 1 bản trình bày (Presentation) có sẵn trong máy tính",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint 2019, thao tác File/ Close dùng để làm gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Đóng file hiện tại",
+                "isCorrect": true
+            },
+            {
+                "text": "Lưu file hiện tại",
+                "isCorrect": false
+            },
+            {
+                "text": "Xóa file hiện tại",
+                "isCorrect": false
+            },
+            {
+                "text": "Sao chép file hiện tại",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint 2019, nếu chọn 2 Slide và dùng lệnh Duplicate Slide thì tạo ra thêm mấy Slide?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "4",
+                "isCorrect": false
+            },
+            {
+                "text": "2",
+                "isCorrect": true
+            },
+            {
+                "text": "6",
+                "isCorrect": false
+            },
+            {
+                "text": "8",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint 2019, lệnh Insert/ Shapes dùng để thực hiện công việc gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Chèn hình vẽ vào Slide",
+                "isCorrect": true
+            },
+            {
+                "text": "Chèn công thức toán học vào Slide",
+                "isCorrect": false
+            },
+            {
+                "text": "Chèn video vào Slide",
+                "isCorrect": false
+            },
+            {
+                "text": "Chèn các file âm thanh vào Slide",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint 2019, để lưu file ta làm thế nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "File/Open",
+                "isCorrect": false
+            },
+            {
+                "text": "File/Close",
+                "isCorrect": false
+            },
+            {
+                "text": "File/Edit",
+                "isCorrect": false
+            },
+            {
+                "text": "File/Save",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint 2019, chức năng Animations dùng để làm gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Định dạng kiểu lật trang cho các slide",
+                "isCorrect": false
+            },
+            {
+                "text": "Định dạng giao diện cho slide",
+                "isCorrect": false
+            },
+            {
+                "text": "Định dạng hiệu ứng cho các đối tượng trên slide",
+                "isCorrect": true
+            },
+            {
+                "text": "Định dạng kiểu chữ cho slide",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint 2019, cách nào để xóa một khung văn bản đã chọn?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Kích chuột phải vào khung văn bản cần xóa/Delete",
+                "isCorrect": false
+            },
+            {
+                "text": "Kích chuột trái vào khung văn bản cần xóa/ nhấn phím Delete",
+                "isCorrect": true
+            },
+            {
+                "text": "Kích chuột trái vào khung văn bản cần xóa/Insert",
+                "isCorrect": false
+            },
+            {
+                "text": "Kích đúp chuột trái vào khung văn bản cần xóa/Cut",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint 2019, cách nào để nhân đôi 1 Slide đã được chọn?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Kích chuột phải vào Slide/New Slide",
+                "isCorrect": false
+            },
+            {
+                "text": "Kích chuột phải vào Slide/Duplicate Slide",
+                "isCorrect": true
+            },
+            {
+                "text": "Kích chuột phải vào Slide/Delete Slide",
+                "isCorrect": false
+            },
+            {
+                "text": "Kích chuột phải vào Slide/Add Section",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint 2019, cách nào để xoá bỏ một Slide đã chọn?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Kích chuột phải tại Slide đã chọn/ Copy",
+                "isCorrect": false
+            },
+            {
+                "text": "Kích chuột phải tại Slide đã chọn/ Delete Slide",
+                "isCorrect": true
+            },
+            {
+                "text": "Kích chuột phải tại Slide đã chọn/ Paste",
+                "isCorrect": false
+            },
+            {
+                "text": "Kích chuột phải tại Slide đã chọn/ Cut",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Microsoft PowerPoint, sau khi chèn một hình ảnh (Picture), để xoay hình, người dùng có thể chọn chức năng nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào Picture -> Rotate trong nhóm Arrange",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào View -> Rotate trong nhóm Arrange",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Insert -> Rotate trong nhóm Arrange",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Format -> Rotate trong nhóm Arrange",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Microsoft PowerPoint, sau khi chèn một hình ảnh (Picture), để chuyển hình về dạng đen trắng, người dùng chọn chức năng nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào Picture -> Black and White",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Format -> Color -> Black and White",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào Insert -> Color",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Format -> Black and White",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Microsoft PowerPoint, sau khi chèn một hình ảnh (Picture), để cắt xén hình, người dùng chọn chức năng nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào Picture -> Cut",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Format -> Crop",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào Insert -> Crop",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Home -> Cut",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Microsoft PowerPoint, muốn xóa đi một dòng trong bảng biểu, người dùng chọn chức năng nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào Table -> Delete Rows",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào View -> Delete Rows",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Layout -> Delete -> Delete Rows",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào Layout -> Delete -> Delete Columns",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Microsoft PowerPoint, muốn xóa đi một cột trong bảng biểu, người dùng chọn chức năng nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào Table -> Delete Columns",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào View -> Delete Columns",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Layout -> Delete -> Delete Rows",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Layout -> Delete -> Delete Columns",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Microsoft PowerPoint, muốn xóa đi một bảng biểu, người dùng chọn chức năng nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào Layout -> Delete -> Delete Table",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào Design -> Delete -> Delete Table",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào View -> Delete Table",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Table -> Delete Table",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Microsoft PowerPoint, để in 6 Slide trên 1 trang, người dùng chọn chức năng nào sau đây?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào File -> Print -> 6 Slides Horizontal",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào Format -> Print -> 6 Slides Horizontal",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Insert -> Print -> 6 Slides Horizontal",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Format -> Print -> 6 Slides Vertical",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Microsoft PowerPoint, để chèn một hộp chữ (Text Box), người dùng chọn chức năng nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào Insert -> Picture",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Insert -> Shapes",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào Insert -> Smart Art",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Insert -> Equation",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Microsoft PowerPoint, để chèn công thức toán học, người dùng chọn chức năng nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào Insert -> Equation",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào Home -> Equation",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào View -> Equation",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Design -> Equation",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Microsoft PowerPoint, để chèn chữ nghệ thuật, người dùng chọn chức năng nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào View -> Work Art",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Insert -> Work Art",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào Home -> Work Art",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Design -> Work Art",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Microsoft PowerPoint, để chèn các hình vẽ như hình tròn, bầu dục, vuông… vào trong Slide, người dùng chọn chức năng nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào Insert -> Picture",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Insert -> Shapes",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào Insert -> Smart Art",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Insert -> Equation",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Thao tác vào File chọn Close dùng để:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Lưu tập tin hiện tại",
+                "isCorrect": false
+            },
+            {
+                "text": "Mở một tập tin nào đó",
+                "isCorrect": false
+            },
+            {
+                "text": "Đóng tập tin hiện tại",
+                "isCorrect": true
+            },
+            {
+                "text": "Thoát khỏi PowerPoint",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Phần mềm PowerPoint thuộc bộ phần mềm nào của công ty Microsoft?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Microsoft Windows",
+                "isCorrect": false
+            },
+            {
+                "text": "Microsoft Office",
+                "isCorrect": true
+            },
+            {
+                "text": "Microsoft Essentials",
+                "isCorrect": false
+            },
+            {
+                "text": "Microsoft Visual Studio",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Phần mềm PowerPoint có chức năng chính là gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Duyệt Internet",
+                "isCorrect": false
+            },
+            {
+                "text": "Soạn thảo văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Tính toán công thức",
+                "isCorrect": false
+            },
+            {
+                "text": "Trình chiếu",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Muốn mở một tập tin đã tồn tại trên đĩa, ta phải",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào File -> Open",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào File -> New",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào File -> Save",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào File -> Save As",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Mỗi trang trình diễn trong PowerPoint được gọi là?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Một Page",
+                "isCorrect": false
+            },
+            {
+                "text": "Một Sheet",
+                "isCorrect": false
+            },
+            {
+                "text": "Một Cơ sở dữ liệu",
+                "isCorrect": false
+            },
+            {
+                "text": "Một Slide",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Microsoft PowerPoint lưu bài trình chiếu mặc định với đuôi mở rộng là:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "*.pptx",
+                "isCorrect": true
+            },
+            {
+                "text": "*.ppxt",
+                "isCorrect": false
+            },
+            {
+                "text": "*.xlsx",
+                "isCorrect": false
+            },
+            {
+                "text": "*.ptpx",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để truy nhập hệ thống trợ giúp trên PowerPoint sử dụng phím hay tổ hợp phím nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "F1",
+                "isCorrect": true
+            },
+            {
+                "text": "ESC",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + H",
+                "isCorrect": false
+            },
+            {
+                "text": "Alt + Tab",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để tạo một slide giống hệt như slide hiện hành mà không phải thiết kế lại, người sử dụng cần:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào Home -> Duplicate",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Insert -> New Slide",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn slide nguồn -> bấm chuột phải -> Duplicate Slide",
+                "isCorrect": true
+            },
+            {
+                "text": "Không thực hiện được",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để tạo mới một bài thuyết trình:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào File -> New",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào Insert -> New",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Home -> New",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào New -> New",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Chức năng của một phần mềm trình chiếu là gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Biểu diễn các nội dung văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Trình chiếu các nội dung theo Slides",
+                "isCorrect": false
+            },
+            {
+                "text": "Giúp người dùng thuyết trình",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    }
+]

@@ -1,0 +1,280 @@
+﻿Trong Thẻ Transitions, chức năng Sound dùng để làm gì ?
+A. Cho slide chạy tự động
+B. Thiết lập âm thanh khi chuyển Slide
+C. Tạo nhạc nền cho slide
+D. Slide chạy khi click chuột
+ANSWER:B
+
+Trong Thẻ Transitions, chức năng On Mouse Click dùng để làm gì?
+A. Cho slide chạy tự động
+B. PowerPoint chạy khi click chuột
+C. Thoát khỏi PowerPoint
+D. Slide chạy khi click chuột
+ANSWER:D
+
+Trong Thẻ Transitions, chức năng Apply to All dùng để làm gì ?
+A. Áp dụng hết cho các Slide
+B. Áp dụng cho Slide hiện tại
+C. Chèn thêm Slide
+D. Chèn chữ
+ANSWER:A
+
+Trong PowerPoint, tổ hợp phím Ctrl + C được sử dụng để?
+A. Xóa 1 đoạn văn bản
+B. Sao chép một đoạn văn bản
+C. Dán một đoạn văn bản từ Clipboard
+D. Cắt và sao chép một đoạn văn bản
+ANSWER:B
+
+Trong PowerPoint, tổ hợp phím Ctrl + V thường được sử dụng để?
+A. Xóa 1 đoạn văn bản
+B. Dán một đoạn văn bản từ Clipboard
+C. Sao chép một đoạn văn bản
+D. Cắt và sao chép một đoạn văn bản
+ANSWER:B
+
+Trong PowerPoint, thao tác Ctrl + S dùng để làm gì?
+A. Xóa file hiện tại
+B. Sao chép file hiện tại
+C. Đóng file hiện tại
+D. Lưu file hiện tại
+ANSWER:D
+
+Trong PowerPoint, khi chọn văn bản, chức năng Ctrl + B dùng để làm gì?
+A. Làm văn bản in nghiêng
+B. Làm văn bản phóng to
+C. Tô đậm văn bản
+D. Làm văn bản thu nhỏ
+ANSWER:C
+
+Trong PowerPoint, chọn đoạn văn bản sau đó nhấn tổ hợp phím CTRL + R, thao tác này tương ứng với lựa chọn nào sau đây?
+A. Xóa định dạng đoạn văn được chọn
+B. Canh phải đoạn văn được chọn
+C. Canh giữa đoạn văn được chọn
+D. Canh trái đoạn văn được chọn
+ANSWER:B
+
+Trong PowerPoint 2019, thoát khỏi chương trình bằng cách?
+A. Vào File/ Close
+B. Nhấn nút Close
+C. Nhấn tổ hợp phím Alt + F4
+D. Tất cả đều đúng
+ANSWER:D
+
+Trong PowerPoint 2019, thao tác File/Save dùng để làm gì?
+A. Xóa file hiện tại
+B. Sao chép file hiện tại
+C. Đóng file hiện tại
+D. Lưu file hiện tại
+ANSWER:D
+
+Trong PowerPoint 2019, thao tác File/ Open dùng để làm gì?
+A. Mở 1 bản trình bày (Presentation) có sẵn trong máy tính
+B. Đóng 1 bản trình bày (Presentation) có sẵn trong máy tính
+C. Lưu 1 bản trình bày (Presentation) có sẵn trong máy tính
+D. Xóa 1 bản trình bày (Presentation) có sẵn trong máy tính
+ANSWER:A
+
+Trong PowerPoint 2019, thao tác File/ Close dùng để làm gì?
+A. Đóng file hiện tại
+B. Lưu file hiện tại
+C. Xóa file hiện tại
+D. Sao chép file hiện tại
+ANSWER:A
+
+Trong PowerPoint 2019, nếu chọn 2 Slide và dùng lệnh Duplicate Slide thì tạo ra thêm mấy Slide?
+A. 4
+B. 2
+C. 6
+D. 8
+ANSWER:B
+
+Trong PowerPoint 2019, lệnh Insert/ Shapes dùng để thực hiện công việc gì?
+A. Chèn hình vẽ vào Slide
+B. Chèn công thức toán học vào Slide
+C. Chèn video vào Slide
+D. Chèn các file âm thanh vào Slide
+ANSWER:A
+
+Trong PowerPoint 2019, để lưu file ta làm thế nào?
+A. File/Open
+B. File/Close
+C. File/Edit
+D. File/Save
+ANSWER:D
+
+Trong PowerPoint 2019, chức năng Animations dùng để làm gì?
+A. Định dạng kiểu lật trang cho các slide
+B. Định dạng giao diện cho slide
+C. Định dạng hiệu ứng cho các đối tượng trên slide
+D. Định dạng kiểu chữ cho slide
+ANSWER:C
+
+Trong PowerPoint 2019, cách nào để xóa một khung văn bản đã chọn?
+A. Kích chuột phải vào khung văn bản cần xóa/Delete
+B. Kích chuột trái vào khung văn bản cần xóa/ nhấn phím Delete
+C. Kích chuột trái vào khung văn bản cần xóa/Insert
+D. Kích đúp chuột trái vào khung văn bản cần xóa/Cut
+ANSWER:B
+
+Trong PowerPoint 2019, cách nào để nhân đôi 1 Slide đã được chọn?
+A. Kích chuột phải vào Slide/New Slide
+B. Kích chuột phải vào Slide/Duplicate Slide
+C. Kích chuột phải vào Slide/Delete Slide
+D. Kích chuột phải vào Slide/Add Section
+ANSWER:B
+
+Trong PowerPoint 2019, cách nào để xoá bỏ một Slide đã chọn?
+A. Kích chuột phải tại Slide đã chọn/ Copy
+B. Kích chuột phải tại Slide đã chọn/ Delete Slide
+C. Kích chuột phải tại Slide đã chọn/ Paste
+D. Kích chuột phải tại Slide đã chọn/ Cut
+ANSWER:B
+
+Trong Microsoft PowerPoint, sau khi chèn một hình ảnh (Picture), để xoay hình, người dùng có thể chọn chức năng nào?
+A. Vào Picture -> Rotate trong nhóm Arrange
+B. Vào View -> Rotate trong nhóm Arrange
+C. Vào Insert -> Rotate trong nhóm Arrange
+D. Vào Format -> Rotate trong nhóm Arrange
+ANSWER:D
+
+Trong Microsoft PowerPoint, sau khi chèn một hình ảnh (Picture), để chuyển hình về dạng đen trắng, người dùng chọn chức năng nào?
+A. Vào Picture -> Black and White
+B. Vào Format -> Color -> Black and White
+C. Vào Insert -> Color
+D. Vào Format -> Black and White
+ANSWER:B
+
+Trong Microsoft PowerPoint, sau khi chèn một hình ảnh (Picture), để cắt xén hình, người dùng chọn chức năng nào?
+A. Vào Picture -> Cut
+B. Vào Format -> Crop
+C. Vào Insert -> Crop
+D. Vào Home -> Cut
+ANSWER:B
+
+Trong Microsoft PowerPoint, muốn xóa đi một dòng trong bảng biểu, người dùng chọn chức năng nào?
+A. Vào Table -> Delete Rows
+B. Vào View -> Delete Rows
+C. Vào Layout -> Delete -> Delete Rows
+D. Vào Layout -> Delete -> Delete Columns
+ANSWER:C
+
+Trong Microsoft PowerPoint, muốn xóa đi một cột trong bảng biểu, người dùng chọn chức năng nào?
+A. Vào Table -> Delete Columns
+B. Vào View -> Delete Columns
+C. Vào Layout -> Delete -> Delete Rows
+D. Vào Layout -> Delete -> Delete Columns
+ANSWER:D
+
+Trong Microsoft PowerPoint, muốn xóa đi một bảng biểu, người dùng chọn chức năng nào?
+A. Vào Layout -> Delete -> Delete Table
+B. Vào Design -> Delete -> Delete Table
+C. Vào View -> Delete Table
+D. Vào Table -> Delete Table
+ANSWER:A
+
+Trong Microsoft PowerPoint, để in 6 Slide trên 1 trang, người dùng chọn chức năng nào sau đây?
+A. Vào File -> Print -> 6 Slides Horizontal
+B. Vào Format -> Print -> 6 Slides Horizontal
+C. Vào Insert -> Print -> 6 Slides Horizontal
+D. Vào Format -> Print -> 6 Slides Vertical
+ANSWER:A
+
+Trong Microsoft PowerPoint, để chèn một hộp chữ (Text Box), người dùng chọn chức năng nào?
+A. Vào Insert -> Picture
+B. Vào Insert -> Shapes
+C. Vào Insert -> Smart Art
+D. Vào Insert -> Equation
+ANSWER:B
+
+Trong Microsoft PowerPoint, để chèn công thức toán học, người dùng chọn chức năng nào?
+A. Vào Insert -> Equation
+B. Vào Home -> Equation
+C. Vào View -> Equation
+D. Vào Design -> Equation
+ANSWER:A
+
+Trong Microsoft PowerPoint, để chèn chữ nghệ thuật, người dùng chọn chức năng nào?
+A. Vào View -> Work Art
+B. Vào Insert -> Work Art
+C. Vào Home -> Work Art
+D. Vào Design -> Work Art
+ANSWER:B
+
+Trong Microsoft PowerPoint, để chèn các hình vẽ như hình tròn, bầu dục, vuông… vào trong Slide, người dùng chọn chức năng nào?
+A. Vào Insert -> Picture
+B. Vào Insert -> Shapes
+C. Vào Insert -> Smart Art
+D. Vào Insert -> Equation
+ANSWER:B
+
+Thao tác vào File chọn Close dùng để:
+A. Lưu tập tin hiện tại
+B. Mở một tập tin nào đó
+C. Đóng tập tin hiện tại
+D. Thoát khỏi PowerPoint
+ANSWER:C
+
+Phần mềm PowerPoint thuộc bộ phần mềm nào của công ty Microsoft?
+A. Microsoft Windows
+B. Microsoft Office
+C. Microsoft Essentials
+D. Microsoft Visual Studio
+ANSWER:B
+
+Phần mềm PowerPoint có chức năng chính là gì?
+A. Duyệt Internet
+B. Soạn thảo văn bản
+C. Tính toán công thức
+D. Trình chiếu
+ANSWER:D
+
+Muốn mở một tập tin đã tồn tại trên đĩa, ta phải
+A. Vào File -> Open
+B. Vào File -> New
+C. Vào File -> Save
+D. Vào File -> Save As
+ANSWER:A
+
+Mỗi trang trình diễn trong PowerPoint được gọi là?
+A. Một Page
+B. Một Sheet
+C. Một Cơ sở dữ liệu
+D. Một Slide
+ANSWER:D
+
+Microsoft PowerPoint lưu bài trình chiếu mặc định với đuôi mở rộng là:
+A. *.pptx
+B. *.ppxt
+C. *.xlsx
+D. *.ptpx
+ANSWER:A
+
+Để truy nhập hệ thống trợ giúp trên PowerPoint sử dụng phím hay tổ hợp phím nào?
+A. F1
+B. ESC
+C. Ctrl + H
+D. Alt + Tab
+ANSWER:A
+
+Để tạo một slide giống hệt như slide hiện hành mà không phải thiết kế lại, người sử dụng cần:
+A. Vào Home -> Duplicate
+B. Vào Insert -> New Slide
+C. Chọn slide nguồn -> bấm chuột phải -> Duplicate Slide
+D. Không thực hiện được
+ANSWER:C
+
+Để tạo mới một bài thuyết trình:
+A. Vào File -> New
+B. Vào Insert -> New
+C. Vào Home -> New
+D. Vào New -> New
+ANSWER:A
+
+Chức năng của một phần mềm trình chiếu là gì?
+A. Biểu diễn các nội dung văn bản
+B. Trình chiếu các nội dung theo Slides
+C. Giúp người dùng thuyết trình
+D. Tất cả đáp án đều đúng
+ANSWER:D
+

@@ -1,0 +1,280 @@
+Website của Trường Đại học Đà lạt hiện tại cấp mấy trên mạng internet: http://www.dlu.edu.vn
+A. Cấp 1
+B. Cấp 2
+C. Cấp 3
+D. Cấp 4
+ANSWER:C
+
+Website của Khoa CNTT hiện tại cấp mấy trên mạng internet: http://cntt.dlu.edu.vn/
+A. Cấp 1
+B. Cấp 2
+C. Cấp 3
+D. Cấp 4
+ANSWER:D
+
+Tường lửa là gì? 
+A. Một hệ thống được xây dựng để đảm bảo an ninh cho công ty
+B. Một hệ thống báo cháy
+C. Một hệ thống bảo mật thông tin
+D. Tường lửa là một thiết bị phần cứng và/hoặc một phần mềm hoạt động trong một môi trường máy tính nối mạng có mục đích chống lại sự xâm nhập trái phép từ internet
+ANSWER:D
+
+Trong quá trình sử dụng trình duyệt Chrome, muốn xóa toàn bộ lịch sử duyệt web, người dùng có thể thao tác như thế nào? 
+A. Vào View, chọn Restore Tabs
+B. Vào History, chọn History, chọn Clear Browsing Data, chọn Clear Data
+C. Vào History, chọn Recently Closed Tab
+D. Vào History, chọn Restore Closed Tab
+ANSWER:B
+
+Trong một trang web, Hyperlink là gì? 
+A. Là nội dung được thể hiện trên Web Browser (văn bản, âm thanh, hình ảnh)
+B. Là một thành phần trong một trang Web liên kết đến vị trí khác trên cùng trang Web đó hoặc liên kết đến một trang Web khác
+C. Là địa chỉ của 1 trang Web
+D. Chỉ là một thành phần trong một trang Web liên kết đến vị trí khác trên cùng trang Web đó
+ANSWER:B
+
+Trong mạng máy tính, thuật ngữ LAN có ý nghĩa gì?
+A. Mạng cục bộ
+B. Mạng diện rộng
+C. Mạng toàn cầu
+D. Mạng không dây
+ANSWER:A
+
+Trong hòm thư điện tử, biểu tượng hình kẹp giấy (ghim) có nghĩa là gì?
+A. Thư có virus đính kèm
+B. Thư có thông tin quan trọng
+C. Bắt buộc phải trả lời ngay lập tức
+D. Có tệp đính kèm
+ANSWER:D
+
+Trong Google Chrome phím tắt để thêm một Tab? 
+A. Ctrl + N
+B. Alt + N
+C. Alt + H
+D. Ctrl + T
+ANSWER:D
+
+Trong Chrome phím tắt chuyển đến Tab liền kề bên phải? 
+A. Ctrl+Shift+Tab
+B. Alt+Tab
+C. Alt+Shift+Tab
+D. Ctrl+Tab
+ANSWER:D
+
+Tin nhắn dạng pop-up có tác động 
+A. Gây nguy hiểm cho hệ thống
+B. Không gây nguy hiểm cho hệ thống nhưng gây khó chịu cho người dùng
+C. Vừa gây nguy hiểm cho hệ thống vừa gây khó chịu cho người dùng
+D. Hoàn toàn không gây nguy hiểm và khó chịu cho người dùng
+ANSWER:B
+
+Trình duyệt web không thể hiển thị trang web yêu cầu, có thể do: 
+A. Địa chỉ truy cập không nằm trên máy chủ của Việt Nam
+B. Địa chỉ truy cập không được lưu vào bộ nhớ đệm của trình duyệt
+C. Địa chỉ truy cập là một trang web cá nhân
+D. Địa chỉ truy cập không tồn tại hoặc địa chỉ truy cập bị nhà quản trị mạng ngăn không cho truy cập
+ANSWER:D
+
+Tại sao cần thiết phải điền vào dòng chủ đề khi gửi thư? 
+A. Để cung cấp cho người nhận nội dung ngắn gọn của thư
+B. Vì bạn bắt buộc phải điền vào phần đó thì mới gửi thư được
+C. Để người nhận có thể nhận được thư
+D. Để thư của bạn không bị nhầm địa chỉ người nhận
+ANSWER:A
+
+Sau khi hoàn thành một biểu mẫu trên web, cần thao tác thế nào để gửi biểu mẫu lên máy chủ?
+A. Chọn Clear
+B. Chọn Submit
+C. Chọn Back
+D. Chọn Next
+ANSWER:B
+
+Phần mềm nào sau đây không phải là trình duyệt Web 
+A. Microsoft Edge
+B. Molliza Firefox
+C. Google Chrome
+D. Misa
+ANSWER:D
+
+Phần History trong trình duyệt web dùng để:
+A. Liệt kê các trang web đã truy cập trong quá khứ
+B. Liệt kê tên các trang Web
+C. Liệt kê các địa chỉ email đã dùng
+D. Liệt kê số người đã sử dụng mạng Internet
+ANSWER:A
+
+Nút Stop trên thanh công cụ của trình duyệt Web cho phép?
+A. Đi đến một trang web khác
+B. Dừng tải một trang web
+C. Trở về trang chủ
+D. Thoát khỏi trình duyệt web
+ANSWER:B
+
+Nút nào trên thanh công cụ của trình duyệt web cho phép tải lại một trang web?
+A. Home
+B. Refresh
+C. Back
+D. Next
+ANSWER:B
+
+Nơi cộng đồng mạng thường trao đổi gọi là gì? 
+A. Blog
+B. Community
+C. Forum
+D. Portal
+ANSWER:C
+
+Muốn trao đổi trực tuyến với người dùng khác trên mạng, bạn sử dụng dịch vụ gì? 
+A. Tải tệp tin (FTP)
+B. Thư điện tử (Email)
+C. Tán gẫu (Chat)
+D. Tìm kiếm (Search)
+ANSWER:C
+
+Muốn mở hộp thư đã lập bạn phải làm gì? 
+A. Cung cấp chính xác User và Password đã đăng ký cho máy chủ thư điện tử
+B. Đăng ký một tài khoản thư điện tử
+C. Có chương trình nhận/gửi thư điện tử
+D. Cung cấp tài khoản sử dụng Internet
+ANSWER:A
+
+Mỗi thiết bị khi tham gia vào một mạng máy tính nào đó cũng đều có 
+A. Địa chỉ IP
+B. Địa chỉ nhà
+C. Mã sản phẩm
+D. GPS
+ANSWER:A
+
+Máy chủ chứa web còn được gọi là?
+A. Server web
+B. Server mail
+C. Server
+D. Work Station
+ANSWER:A
+
+Mạng lntranet là gì?
+A. Là một máy tính cá nhân
+B. Là sự kết nối các máy tính trong một cơ quan
+C. Là sự kết nối các máy tính trên phạm vi toàn cầu
+D. Là sự kết nối các máy tính trên phạm vi toàn cục
+ANSWER:B
+
+Mạng internet thuộc loại mạng nào dưới đây?
+A. Mạng diện rộng
+B. Mạng khu vực
+C. Mạng toàn cầu
+D. Mạng miễn phí
+ANSWER:C
+
+Khi kết nối thành một mạng máy tính cục bộ và các thiết bị, thiết bị nào sau đây có thể được chia sẻ để dùng chung:
+A. Mouse
+B. Loa
+C. Webcam
+D. Đĩa cứng
+ANSWER:D
+
+Khi kết nối thành một mạng máy tính cục bộ và các thiết bị, thiết bị nào sau đây có thể được chia sẻ để dùng chung:
+A. Máy in
+B. Mouse
+C. Webcam
+D. Đĩa mềm
+ANSWER:A
+
+Khi dòng chủ đề trong thư bạn nhận được bắt đầu bằng chữ "Re:" thì thông thường thư đó là thư gì? 
+A. Thư rác, thư quảng cáo
+B. Thư mới
+C. Thư trả lời cho thư mà bạn đã gửi cho người đó
+D. Thư của nhà cung cấp dịch vụ Email mà bạn đang sử dụng
+ANSWER:C
+
+Khi bạn xóa cookie trong trình duyệt, máy tính sẽ thực hiện điều gì?
+A. Ngăn chặn các chương trình độc hại
+B. Xóa đi bộ nhớ đệm
+C. Xóa các tệp văn bản
+D. Xóa tất cả dữ liệu có trong máy
+ANSWER:B
+
+Khách nước ngoài muốn biết được thông tin về các khách sạn tại thành phố Đà Lạt. Dịch vụ nào dưới đây được sử dụng: 
+A. Google mail
+B. Trang web có hỗ trợ tìm kiếm thông tin internet miễn phí như www.google.com
+C. Fax
+D. Mobiphone
+ANSWER:B
+
+ISP là viết tắt của
+A. Internet Service Provider
+B. Internet Server Provider
+C. Internet Super Provider
+D. Internet Sale Provider
+ANSWER:A
+
+Hệ thống tên miền được tổ chức theo
+A. Ngang hàng
+B. Phân cấp hình cây
+C. Không có tổ chức rõ ràng
+D. Theo các lớp
+ANSWER:B
+
+Email là viết tắt của . 
+A. Exchange Mail
+B. Electronic Mail
+C. Electrical Mail
+D. Else Mail
+ANSWER:B
+
+Email đang soạn thảo dở chưa được gửi đi sẽ được lưu tại đâu?
+A. Trong thư mục Drafts
+B. Trong thư mục Sent
+C. Trong thư mục Inbox
+D. Trong thư mục Bulk
+ANSWER:A
+
+Email đã soạn thảo sẽ được lưu trữ trong mục nào sau đây nếu người dùng chưa bấm nút gửi thư? 
+A. Spam
+B. Inbox
+C. Drafts
+D. Sent
+ANSWER:C
+
+Địa chỉ website nào sau đây là không hợp lệ:
+A. haiphong.fpt.vn
+B. haiphong@fpt.vn
+C. www.haiphong.gov.vn
+D. haiphong.edu
+ANSWER:B
+
+Địa chỉ nào không phải là địa chỉ trang web? 
+A. lamdong@gmail.com
+B. www.laodong.com.vn
+C. ngoisao.net
+D. mail.gmail.com
+ANSWER:A
+
+Để chặn các Email không mong muốn, thực hiện thao tác chọn Email sau đó? 
+A. Kích nút Spam
+B. Kích nút Delete
+C. Kích nút Reply
+D. Kích nút Forward
+ANSWER:A
+
+Đâu là định nghĩa siêu liên kết? 
+A. Dùng liên kết các tài nguyên trên Internet qua các đường link trên trang Web
+B. Dùng tải các ứng dụng trên Internet xuống
+C. Dùng liên kết với các tài liệu trên Internet
+D. Dùng liên kết các đường dẫn trong một website
+ANSWER:A
+
+Đâu là định nghĩa đúng nhất về trang Web?
+A. Là trang siêu văn bản phối hợp giữa văn bản thông thường với hình ảnh, âm thanh, video và cả các mối liên kết đến các trang siêu văn bản khác
+B. Là trang văn bản thông thường
+C. Là trang văn bản chứa các liên kết cơ sở dữ liệu ở bên trong nó
+D. Là trang văn bản chứa văn bản, hình ảnh
+ANSWER:A
+
+Dấu hiệu nhận biết một website an toàn? 
+A. Giao diện đẹp, chức năng và menu có sắp thứ tự
+B. Có logo chứng nhận bảo mật trên website
+C. Có địa chỉ công ty xây dựng website
+D. Sử dụng giao thức bảo mật để truyền tải nội dung
+ANSWER:D
+

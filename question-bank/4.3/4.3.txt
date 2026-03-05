@@ -1,0 +1,273 @@
+Trong Microsoft Excel, công thức = AVERAGE(4, 5, MIN(8, 6, 7)) cho kết quả nào?
+A. 4
+B. 5
+C. 8
+D. 0
+ANSWER:B
+
+Trong Excel, giả sử ô D4 có công thức sau: = HLOOKUP(A4, A10:D12, 5, 0) kết quả sai ở thành phần nào?
+A. Thành phần 1
+B. Thành phần 2
+C. Thành phần 3
+D. Thành phần 4
+ANSWER:C
+
+Trong Excel, để thực hiện việc cuộn văn bản (xuống dòng tự động) đối với nội dung của ô hoặc một dãy ô. Ta thực hiện như thế nào?
+A. Nhấp chuột vào biểu tượng Wrap Text trên thẻ Home
+B. Nhấp chuột vào biểu tượng Merge & Center trên thẻ Home
+C. Không thực hiện được
+D. Nhấp chuột vào biểu tượng Format Painter trên thẻ Home
+ANSWER:A
+
+Trong Excel, để giữ cố định hàng hoặc cột trong cửa sổ soạn thảo, ta đánh dấu hàng hoặc cột, chọn:
+A. Vào Review – Freeze Panes
+B. Vào View – Freeze Panes
+C. Vào Page Layout – Freeze Panes
+D. Vào Home – Freeze Panes
+ANSWER:B
+
+Trong Excel muốn tô màu cho chữ ta thực hiện các bước như thế nào?
+A. Format cells → Font → Color
+B. Format cells → Font → Font style
+C. Format cells → Font → Size
+D. Format cells → Font → Effect
+ANSWER:A
+
+Trong Excel hàm dùng để chuyển chuỗi số sang số là hàm nào trong các hàm sau?
+A. Mid
+B. Value
+C. Right
+D. Left
+ANSWER:B
+
+Trong Excel để thêm biểu đồ thực hiện:
+A. Chọn vùng dữ liệu sau đó vào Insert -> Charts
+B. Chọn vùng dữ liệu sau đó vào Column -> Clustered Column
+C. Chọn vùng dữ liệu sau đó Click chuột phải và chọn Format Cell
+D. Chọn vùng dữ liệu sau đó vào Insert -> Pictures
+ANSWER:A
+
+Trong Excel biểu thức =MID("A123B",3,2) sẽ trả về kết quả là bao nhiêu?
+A. A1
+B. 23
+C. 3B
+D. A123B
+ANSWER:B
+
+Trong Excel 2019, thành phần thứ 3 trong hàm VLOOKUP là gì?
+A. Bảng dò
+B. Bảng trị dò
+C. Cột tham chiếu để lấy kết quả
+D. Dòng tham chiếu để lấy kết quả
+ANSWER:C
+
+Trong Excel 2019, khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi nào?
+A. #NAME?
+B. #VALUE!
+C. #N/A!
+D. #DIV/0!
+ANSWER:A
+
+Trong Excel 2019, hàm nào để tìm giá trị trung bình của các giá trị được chọn? 
+A. EVERAGE
+B. AVERAGE
+C. ERVERAGE
+D. AVERGE
+ANSWER:B
+
+Trong công thức của Microsoft Excel, sử dụng phím nào để chuyển đổi địa chỉ tuyệt đối sang địa chỉ tương đối hoặc ngược lại cho ô hoặc vùng đã chọn?
+A. F4
+B. F3
+C. F2
+D. F5
+ANSWER:A
+
+Trong bảng tính Excel, tại ô A2 gõ vào công thức =IF(3>5,100,IF(5<6,200,300)) thì kết quả nhận được tại ô A2 là:
+A. 200
+B. true
+C. false
+D. 100
+ANSWER:A
+
+Trong bảng tính Excel, tại ô A2 có giá trị số không (0), tại ô B2 gõ công thức =5/A2 cho kết quả:
+A. 0
+B. 5
+C. #Value!
+D. #DIV/0!
+ANSWER:D
+
+Trong bảng tính Excel, tại ô A2 có giá trị số 10, tại ô B2 gõ công thức =PRODUCT(A2,5) cho kết quả:
+A. 15
+B. 50
+C. 2
+D. #VALUE!
+ANSWER:B
+
+Trong bảng tính Excel, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa là gì?
+A. Hàng chứa ô đó có độ cao quá thấp nên không hiển thị hết chữ số
+B. Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số
+C. Công thức nhập sai và Excel thông báo lỗi
+D. Chương trình bảng tính bị nhiễm virus
+ANSWER:B
+
+Trong bảng tính Excel, để sửa dữ liệu trong một ô tính mà không cần nhập lại, ta thực hiện:
+A. F3
+B. F4
+C. F5
+D. F2
+ANSWER:D
+
+Trong bảng tính Excel 2019, công thức =Mod(26, 7) cho kết quả:
+A. 6
+B. 5
+C. 4
+D. 3
+ANSWER:B
+
+Trong bảng tính Excel 2019, tại ô A2 gõ vào công thức =MAX(3,14,-25,5) cho kết quả:
+A. -25
+B. 14
+C. 5
+D. 3
+ANSWER:B
+
+Trong bảng dữ liệu điểm của học sinh ô D2 chứa điểm môn toán, ô E2 chứa điểm môn văn. Để tính điểm trung bình với Toán hệ số 2 văn hệ số 1, ta nhập công thức nào vào ô F2?
+A. =Average(D2:E2)
+B. =(D2*2 + E2) /1
+C. =(D2*2 + E2) /3
+D. =(D2*2 + E2) /2
+ANSWER:C
+
+Tại vị trí ô B2 trong Excel 2019 có giá trị 15/10/2016. Tại ô C2 thực hiện nhập biểu thức =MONTH(B2)>DAY(B2) thì kết quả trả về là bao nhiêu?
+A. 10
+B. TRUE
+C. FALSE
+D. #VALUE!
+ANSWER:C
+
+Tại ô A1 trong Excel, nhập vào biểu thức =ROUND(PI(), MIN(2,4,6)) thì kết quả tra về là bao nhiêu?
+A. 3.1
+B. 3.14
+C. #NAME!
+D. #N/A!
+ANSWER:B
+
+Tại D1 có công thức =B1+C1, khi sao chép sang ô E2 thì E2 có công thức là:
+A. =B1+D1
+B. =C1+D2
+C. =C2+D2
+D. =C1+D1
+ANSWER:C
+
+Khi đang làm việc với Excel, có thể di chuyển từ sheet này sang sheet khác bằng cách sử dụng các phím hoặc các tổ hợp phím:
+A. Page Up, Page Down
+B. Ctrl + Page Up, Ctrl + Page Down
+C. Alt + Page Up, Alt + Page Down
+D. Shift + Page Up, Shift + Page Down
+ANSWER:B
+
+Khi cần ẩn thuộc tính đường lưới ô trong bảng tính Excel ta cần thực hiện như thế nào?
+A. Vào Format/Row, chọn Hide
+B. Vào thẻ View ta bỏ chọn mục Gridlines trong mục Show
+C. Vào thẻ Review ta bỏ chọn mục Gridlines trong mục Show
+D. Từ menu chuột phải và chọn hide
+ANSWER:B
+
+Kết quả của công thức =COUNT(“a”, “b”, 2, 3) + COUNTA(“a”, “b”, 0, 1) là?
+A. 7
+B. 6
+C. 8
+D. 5
+ANSWER:B
+
+Giả sử tại ô D2 có công thức =B2*C2. Nếu sao chép công thức đến ô E3 sẽ có công thức là?
+A. =B2*C2
+B. =B3*C3
+C. =C3*D3
+D. =C2*D2
+ANSWER:C
+
+Để thiết lập Header và Footer cho bảng tính Excel, ta làm thế nào?
+A. Thẻ Insert/ nhóm Text/ Header hoặc Footer
+B. Thẻ Design/ nhóm Header & Footer/ Header hoặc Footer
+C. Thẻ Home/ nhóm Header & Footer/ Header hoặc Footer
+D. Thẻ Page Layout/ nhóm Header & Footer/ Header hoặc Footer
+ANSWER:A
+
+Để quay được hướng văn bản trong ô, ta chọn ô sau đó thực hiện:
+A. Page Layout\Alignment\ Orientation\chọn hướng
+B. Insert\Alignment\ Orientation\chọn hướng
+C. Home\Alignment\ Orientation\chọn hướng
+D. View\Alignment\ Orientation\chọn hướng
+ANSWER:A
+
+Để lưu bảng tính Excel thành định dạng file khác nhau, ta thực hiện như thế nào?
+A. Chọn Save As  từ hộp thoại Save as  chọn kiểu file cần lưu trong Save as type
+B. Chọn Save  từ hộp thoại Save  chọn kiểu file cần lưu trong Save as type
+C. Mặc định buộc cho phép chọn kiểu file cần lưu
+D. Không thực hiện được
+ANSWER:A
+
+Để hủy kết quả vừa làm ta chọn:
+A. Redo
+B. Back
+C. Delete
+D. Undo
+ANSWER:D
+
+Để chuyển đổi giữa các sheet trong cùng 1 bảng tính, ta làm thế nào:
+A. Chọn sheet từ khung sheet
+B. Ấn Ctrl + J
+C. Ấn Ctrl + G
+D. Ấn Ctrl + L
+ANSWER:D
+
+Công thức Round(7475.47, -2) trả về kết quả bao nhiêu?
+A. 7480
+B. 7500
+C. 7475.47
+D. 7475
+ANSWER:B
+
+Chọn phát biểu sai về việc ghép các ô thành 1 ô trong Excel (Merge):
+A. Sau khi ghép nhiều ô thành một ô, kích thước của ô tổng sẽ phụ thuộc vào kích thước của các ô thành phần
+B. Excel cho phép ghép các ô bất kỳ thành 1 ô: những ô liền kề nhau hoặc những ô nằm xa nhau
+C. Để huỷ bỏ việc ghép nhiều ô, nhấn chọn ô tổng rồi nhấn tiếp vào nút Merge & Center. Dãy các ô đã bị nhập sẽ được tách ra như cũ
+D. Thao tác co dãn chiều ngang cột hoặc chiều cao dòng cũng sẽ ảnh hưởng đến ô tổng
+ANSWER:B
+
+Chọn những phát biểu đúng về thay đổi hướng viết trong nhóm định dạng Alignment của Format cells:
+A. Tùy chọn Orientation cho phép thay đổi hướng viết của văn bản: theo chiều ngang, chiều dọc hoặc theo hướng xiêng
+B. Khi cần thay đổi hướng viết của văn bản: viết nghiêng theo số chỉ độ nghiêng của ô Degrees
+C. Khi cần thay đổi hướng viết của văn bản, nhấn chuột vào mũi tên trong ô Orientation, và quay trên đường cung tròn đến khi thấy phù hợp
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Trong Microsoft Excel, phương án nào dưới đây không phải là địa chỉ ô?
+A. $12$A
+B. $A$1210
+C. A$12
+D. A12
+ANSWER:A
+
+Biểu thức sau cho kết quả là bao nhiêu nếu trong ô B2 là 10 và dữ liệu trong D2 là chữ D: = IF(OR(B2>=8,D2="A"),1000,300)
+A. 1000
+B. 300
+C. 1300
+D. FALSE
+ANSWER:A
+
+Biểu thức =If(AND(DTB>=8, HK="A"), 300, 1000) cho kết quả là bao nhiêu nếu DTB (Điểm trung bình) = 9 và HK (Hạnh kiểm) loại C. 
+A. 1000
+B. 300
+C. TRUE
+D. FALSE
+ANSWER:A
+
+Bạn đã nhập số 115 vào ô A6, làm sao để ô A6 có giá trị là $115
+A. Vào thực đơn Format - Cells - Number - Scientific
+B. Vào thực đơn Format - Cells - Alignment - Accounting
+C. Chọn ô A6/Nhấn chuột vào nút $ trên thanh công cụ
+D. Vào thực đơn Format - Cells - Number – Currency
+ANSWER:C
+

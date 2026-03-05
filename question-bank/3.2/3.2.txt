@@ -1,0 +1,280 @@
+Trong soạn thảo Microsoft Word, tổ hợp phím Ctrl + Z dùng để:
+A. Hủy thao tác
+B. Quay lại thao tác trước thao tác hiện hành.
+C. Đóng cửa sổ đang mở
+D. Đóng tập tin đang mở
+ANSWER:B
+
+Trong soạn thảo Word, bảng có kích thước 5x6 có nghĩa là
+A. Bảng gồm 5 cột 6 dòng
+B. Bảng gồm 5 dòng 6 cột
+C. Bảng gồm 30 dòng
+D. Bảng gồm 30 cột
+ANSWER:A
+
+Trong Micrsoft Word để bật/tắt thanh thước kẻ trên cửa sổ soạn thảo, ta thực hiện:
+A. File/ Word Option/ Ruler
+B. Vào thẻ View/ trong nhóm Show/ đánh dấu hoặc bỏ đánh dấu vào mục Ruler
+C. Vào thẻ View/ trong nhóm Views/ chọn Outline
+D. Vào thẻ Insert/ đánh dấu vào mục Ruler
+ANSWER:B
+
+Trong Microsoft Word, tổ hợp phím nào cho phép ngay lập tức đưa con trỏ về cuối văn bản?
+A. Shift+ End
+B. Alt+End
+C. Ctrl + End
+D. Ctrl + Alt + End
+ANSWER:C
+
+Trong Microsoft Word, tác dụng của các tính năng trong nhóm Paragraph của thẻ Home là gì?
+A. Bôi đen đoạn văn bản cần định dạng
+B. Mở hộp thoại định dạng Font chữ
+C. Điều chỉnh khoảng cách giữa các đoạn, các dòng trên văn bản
+D. Gạch chân dưới chân các ký tự
+ANSWER:C
+
+Trong Microsoft Word, phím tắt để đóng tài liệu đang mở là:
+A. Ctrl + F4
+B. Ctrl + F1
+C. Alt + F4
+D. Alt + F1
+ANSWER:C
+
+Trong Microsoft Word, khi bảng biểu đã được tạo, thao tác Click chuột phải chọn Insert, Insert Columns to the Left có chức năng:
+A. Chèn dòng mới về phía trên dòng đặt con trỏ
+B. Chèn dòng mới về phía dưới dòng đặt con trỏ
+C. Chèn một cột mới về phía bên trái vị trí con trỏ
+D. Chèn một cột mới về phía bên phải vị trí con trỏ
+ANSWER:C
+
+Trong Microsoft Word để ngắt trang ta thực hiện:
+A. Vào thẻ View/ Page Break
+B. Vào thẻ References/ Captions/ Break
+C. Vào thẻ Insert/ Pages/ Page Break
+D. Vào thẻ Review/ Create/ Page Break
+ANSWER:C
+
+Trong khi làm việc với Word, tổ hợp phím tắt nào cho phép chọn tất cả văn bản đang soạn thảo?
+A. Alt + A
+B. Ctrl + A
+C. Alt + F
+D. Ctrl + F
+ANSWER:B
+
+Ribbon Layout có chức năng:
+A. Các công cụ liên quan định dạng văn bản như: Chèn chú thích, đánh mục lục tự động,...
+B. Các thiết lập cài đặt, định dạng cho trang giấy như: Page setup, Paragraph,...
+C. Công cụ định dạng trong văn bản như: Font, Paragraph, Styles,...
+D. Các chế độ hiển thị của vùng soạn thảo
+ANSWER:B
+
+Muốn Microsoft Word 2019 trở lên lưu tài liệu mới với định dạng của Word 2003, ta làm như thế nào?
+A. Tại mục Save as type/ Word Document (*.docx)
+B. Tại mục Save as type/ Word 97-2003 Document (*.doc)
+C. Tại mục Save as type/ Word Template (*.dotx)
+D. Tại mục Save as type/ XPS Document (*.xps)
+ANSWER:B
+
+Mặc định, tài liệu của Word 2019 được lưu với định dạng là:
+A. *.DOTX
+B. *.DOC
+C. *.EXE
+D. *.DOCX
+ANSWER:D
+
+Khi soạn thảo văn bản với Microsoft Word, khái niệm Paragraph là:
+A. Một đoạn văn bản giới hạn bởi hai lần gõ phím Enter
+B. Phần văn bản nằm trọn trong một dòng bất kỳ
+C. Phần văn bản từ đầu trang đến cuối trang của một trang bất kỳ
+D. Một khối văn bản đã bôi đen để chọn nó
+ANSWER:A
+
+Khi soạn thảo văn bản trong Microsoft Word, muốn di chuyển từ 1 ô này sang ô kế tiếp về bên phải của một bảng (Table) ta bấm phím:
+A. Tab
+B. ESC
+C. Ctrl
+D. Caps Lock
+ANSWER:A
+
+Khi soạn thảo văn bản tiếng Việt bằng Microsoft Word dùng cách gõ TELEX, muốn gõ chữ “à”, để điền dấu đúng phải gõ:
+A. Phím có chứa dấu @ và số 2 ngay sau khi gõ kí tự a
+B. Phím có chứa dấu * và số 8 ngay sau khi gõ kí tự a
+C. Phím có chứa kí tự a và kí tự f
+D. Phím có chứa dấu # và số 3 ngay sau khi gõ kí tự a
+ANSWER:C
+
+Khi soạn thảo văn bản tiếng Việt bằng Microsoft Word dùng cách gõ TELEX, muốn gõ chữ “ă”, để điền dấu đúng phải gõ:
+A. Phím có chứa dấu ! và số 1
+B. Phím có chứa dấu * và số 8
+C. Phím có chứa kí tự a và kí tự w
+D. Phím có chứa kí tự a và kí tự x
+ANSWER:C
+
+Khi soạn thảo văn bản bằng Microsoft Word, đặt con trỏ vào trước một từ trong đoạn văn bản đó, sau đó ta nhấn tổ hợp phím Ctrl + phím ↑, kết quả là:
+A. Con trỏ được đưa về đầu dòng bên dưới
+B. Con trỏ được đưa về đầu của dòng hiện tại
+C. Con trỏ nhảy về đầu trang
+D. Con trỏ nhảy về cuối trang
+ANSWER:B
+
+Khi soạn thảo văn bản bằng Microsoft Word, đặt con trỏ vào trước một từ trong đoạn văn bản đó, sau đó ta nhấn tổ hợp phím Ctrl + phím ↓, kết quả là:
+A. Con trỏ được đưa về đầu dòng bên dưới
+B. Con trỏ được đưa về đầu của dòng hiện tại
+C. Con trỏ nhảy về đầu trang
+D. Con trỏ nhảy về cuối trang
+ANSWER:A
+
+Khi mở một tập tin Word được soạn thảo trên máy tính khác, văn bản không hiển thị được tiếng Việt. Nguyên nhân là:
+A. Ổ đĩa chứa tập tin bị hư hỏng
+B. Máy tính thiếu Font chữ
+C. Máy tính này chưa cài Unikey
+D. Phần mềm Microsoft Word bị lỗi
+ANSWER:B
+
+Khi đang soạn thảo văn bản bằng Microsoft Word, người dùng thực hiện: Vào thẻ Insert, nhóm Text, Date and Time. Thao tác này có tác dụng:
+A. Chỉnh sửa thời gian hiện hành của máy tính
+B. Chèn ngày/giờ hiện hành của máy tính vào vị trí con trỏ
+C. Chèn ngày/giờ ở thời điểm bất kỳ vào vị trí con trỏ
+D. Chèn ngày giờ vào tiêu đề cuối trang văn bản
+ANSWER:B
+
+Khi đang soạn thảo văn bản bằng Microsoft Word, người dùng nhấn tổ hợp phím Ctrl + P, sau đó người dùng gõ 3 – 10 trong ô Pages của hộp thoại xuất hiện, người dùng này muốn:
+A. In trang 3 và trang 10 của văn bản này
+B. In toàn bộ các trang từ trang 3 đến trang 10
+C. In toàn bộ các trang trừ trang 3 và trang 10
+D. Bôi đen các đoạn từ dòng 3 tới dòng 10
+ANSWER:B
+
+Khi đang soạn thảo văn bản bằng Microsoft Word, người dùng chọn một đoạn văn bản và thực hiện các thao tác: Vào thẻ Layout, nhóm Page Setup, Column, Three, kết quả là:
+A. Đoạn văn bản được đưa vào một bảng biểu gồm 3 cột
+B. Đoạn văn bản được chia đều thành 3 cột
+C. Đoạn văn bản được đưa vào một bảng biểu gồm 3 hàng
+D. Đoạn văn bản được chia thành 3 đoạn khác nhau
+ANSWER:B
+
+Khi đang soạn thảo văn bản bằng Microsoft Word, người dùng gõ tổ hợp phím Ctrl+ F, hộp thoại xuất hiện cho phép:
+A. Tìm kiếm hình ảnh trong văn bản hiện hành
+B. Lưu văn bản đang soạn thảo.
+C. Tìm kiếm chuỗi kí tự trong văn bản hiện hành
+D. Định lề trang in
+ANSWER:C
+
+Hướng Landscape hiển thị văn bản theo:
+A. Hướng ngang
+B. Hướng nghiêng 45 độ
+C. Hướng dọc
+D. Hướng kết hợp giữa dọc và ngang
+ANSWER:A
+
+Hướng Portrait hiển thị văn bản theo:
+A. Hướng ngang
+B. Hướng nghiêng 45 độ
+C. Hướng dọc
+D. Hướng kết hợp giữa dọc và ngang
+ANSWER:C
+
+Hướng in mặc định trong Word là hướng gì?
+A. Hướng ngang
+B. Hướng nghiêng 45 độ
+C. Hướng dọc
+D. Hướng kết hợp giữa dọc và ngang
+ANSWER:C
+
+Giả sử trong văn bản đã được soạn thảo, ta muốn đổi một nhóm ký tự cũ bởi một nhóm ký tự mới, và muốn việc thay đổi phải được thực hiện ngay một lần cho tất cả mọi trường hợp có trong văn bản. Ta thực hiện các thao tác gì:
+A. Nhấn Crtl + H, gõ vào ô FIND WHAT nhóm ký tự cũ và gõ vào ô REPLACE WITH nhóm ký tự mới, sau đó nhấn REPLACE
+B. Nhấn Crtl + H, gõ vào ô FIND WHAT nhóm ký tự cũ và gõ vào ô REPLACE WITH nhóm ký tự mới, sau đó nhấn FIND NEXT
+C. Nhấn Crtl + H, gõ vào ô FIND WHAT nhóm ký tự cũ và gõ vào ô REPLACE WITH nhóm ký tự mới, sau đó nhấn REPLACE ALL
+D. Nhấn Crtl + H, gõ vào ô REPLACE WITH nhóm ký tự cũ và gõ vào ô FIND WHAT nhóm ký tự mới. Cuối cùng, ta bấm chuột vào nút REPLACE ALL
+ANSWER:C
+
+Giả sử đang có một Table trong màn hình Word đã có nội dung trong các ô, ta chọn 2 ô liền nhau rồi nhấn phím Delete, kết quả là:
+A. 2 ô đó bị xóa khỏi bảng, các ô bên trái dịch chuyển sang
+B. 2 ô đó bị xóa khỏi bảng, các ô bên phải dịch chuyển sang
+C. Nội dung trong 2 ô đó bị xóa, số lượng dòng và ô giữ nguyên
+D. Cả hàng (hoặc cột) chứa 2 ô đó sẽ bị xóa
+ANSWER:C
+
+Giả sử đang có một Table trong màn hình Word đã có nội dung trong các ô, ta chọn 3 ô liên tục nhau rồi nhấp chuột phải chọn Merge Cell, kết quả thu được:
+A. 3 ô đó bị xóa toàn bộ, các ô liền kề bên phải được dịch chuyển sang
+B. 3 ô đó được trộn chung thành một ô, nội dung trong 3 ô còn giữ lại
+C. 3 ô đó bị xóa toàn bộ, các ô liền kề bên trái được dịch chuyển sang
+D. 3 ô đó được trộn chung thành một ô, nội dung trong 3 ô bị xóa đi
+ANSWER:B
+
+Định dạng Bullets and Numbering có tác dụng gì?
+A. Chèn các ký tự không có trên bàn phím
+B. Căn lề trái, lề phải một đoạn văn bản
+C. Tạo các dòng kẻ gồm các ký hiệu dấu chấm (.), hay gọi là định vị bước nhảy của con trỏ trên dòng văn bản
+D. Tạo ra các số thứ tự, ký hiệu tự động ở đầu mỗi đoạn văn bản
+ANSWER:D
+
+Để thêm một dấu ngắt đoạn trong Word ta dùng phím nào?
+A. Ctrl + Enter
+B. Enter
+C. Shift + Enter
+D. Alt + Enter
+ANSWER:B
+
+Để đóng văn bản đang làm việc chúng ta thực hiện:
+A. File/Close
+B. File/Open
+C. File/Save
+D. File/Print
+ANSWER:A
+
+Để đánh số trang văn bản ta thực hiện:
+A. Vào thẻ References/ Page Number
+B. Vào thẻ Layout/ Page Number
+C. Vào thẻ Insert/ Page Number
+D. Vào thẻ Home/ Page Number
+ANSWER:C
+
+Để đánh số cho các trang trong văn bản, thứ tự các bước là:
+A. Vào thẻ Insert/ nhóm Header & Footer/ Page Number/ vị trí và định dạng cần chèn
+B. Vào thẻ Layout/ nhóm Header & Footer/ Page Number/ vị trí và định dạng cần chèn
+C. Vào thẻ Home/ nhóm Paragraph/ Insert Page Number/ vị trí và định dạng cần chèn
+D. Vào thẻ Insert/ nhóm Text/ Page Number/ vị trí và định dạng cần chèn
+ANSWER:A
+
+Để chuyển một đoạn văn bản từ cột thứ nhất sang cột thứ hai ta thực hiện:
+A. Vào Layout, Breaks, Continuous
+B. Vào Layout, Breaks, Column
+C. Vào Insert, Breaks, Continuous
+D. Vào Insert, Breaks, Column
+ANSWER:B
+
+Để cắt một đoạn văn bản từ file văn bản này sang file văn bản khác ta thực hiện:
+A. Chọn đoạn văn bản cần di chuyển, ấn phím Ctrl + C, sau đó mở file văn bản đích, ấn Ctrl + V
+B. Chọn đoạn văn bản cần di chuyển, ấn phím Ctrl + X, sau đó mở file văn bản đích, ấn Ctrl + V
+C. Chọn đoạn văn bản cần di chuyển, sau đó mở file văn bản đích, ấn Ctrl + V
+D. Chọn đoạn văn bản cần Copy, sau đó mở file văn bản đích, ấn Ctrl + V
+ANSWER:B
+
+Đang mở và soạn thảo văn bản bằng Microsoft Word, ta nhấn tổ hợp phím Ctrl + N thì sẽ thực hiện được việc:
+A. Cắt hẳn thông tin của dòng văn bản con trỏ đang đứng vào bộ nhớ tạm
+B. Mở ra hộp thoại cho phép định lề trang in, hướng in và khổ giấy của văn bản
+C. Mở mới một tập tin Microsoft Word và sẵn sàng cho soạn thảo
+D. Mở ra hộp hội thoại cho phép tùy chỉnh thông số trước khi in văn bản
+ANSWER:C
+
+Chức năng Lower Case có tác dụng?
+A. Viết thường ký tự đầu tiên và viết hoa các ký tự còn lại
+B. Viết thường toàn bộ đoạn văn được chọn
+C. Viết thường ký tự đầu tiên
+D. Viết hoa ký tự đầu tiên và viết thường các ký tự còn lại
+ANSWER:B
+
+Các công cụ định dạng trong văn bản như: Font, Paragraph, Styles, Format Painter,... nằm ở thẻ nào trong thanh ribbon?
+A. Home
+B. Insert
+C. Layout
+D. References
+ANSWER:A
+
+Bảng biểu trong Word, để tạo màu nền, ta chọn thực hiện:
+A. Vào Home/ Font color
+B. Vào Format/ Shape fill
+C. Vào Layout/ Shading
+D. Vào Table Design/ Shading
+ANSWER:D
+

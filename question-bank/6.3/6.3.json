@@ -1,0 +1,923 @@
+[
+    {
+        "question": "Website của Trường Đại học Đà lạt hiện tại cấp mấy trên mạng internet: http://www.dlu.edu.vn",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Cấp 1",
+                "isCorrect": false
+            },
+            {
+                "text": "Cấp 2",
+                "isCorrect": false
+            },
+            {
+                "text": "Cấp 3",
+                "isCorrect": true
+            },
+            {
+                "text": "Cấp 4",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Website của Khoa CNTT hiện tại cấp mấy trên mạng internet: http://cntt.dlu.edu.vn/",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Cấp 1",
+                "isCorrect": false
+            },
+            {
+                "text": "Cấp 2",
+                "isCorrect": false
+            },
+            {
+                "text": "Cấp 3",
+                "isCorrect": false
+            },
+            {
+                "text": "Cấp 4",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Tường lửa là gì? ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Một hệ thống được xây dựng để đảm bảo an ninh cho công ty",
+                "isCorrect": false
+            },
+            {
+                "text": "Một hệ thống báo cháy",
+                "isCorrect": false
+            },
+            {
+                "text": "Một hệ thống bảo mật thông tin",
+                "isCorrect": false
+            },
+            {
+                "text": "Tường lửa là một thiết bị phần cứng và/hoặc một phần mềm hoạt động trong một môi trường máy tính nối mạng có mục đích chống lại sự xâm nhập trái phép từ internet",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong quá trình sử dụng trình duyệt Chrome, muốn xóa toàn bộ lịch sử duyệt web, người dùng có thể thao tác như thế nào? ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào View, chọn Restore Tabs",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào History, chọn History, chọn Clear Browsing Data, chọn Clear Data",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào History, chọn Recently Closed Tab",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào History, chọn Restore Closed Tab",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong một trang web, Hyperlink là gì? ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Là nội dung được thể hiện trên Web Browser (văn bản, âm thanh, hình ảnh)",
+                "isCorrect": false
+            },
+            {
+                "text": "Là một thành phần trong một trang Web liên kết đến vị trí khác trên cùng trang Web đó hoặc liên kết đến một trang Web khác",
+                "isCorrect": true
+            },
+            {
+                "text": "Là địa chỉ của 1 trang Web",
+                "isCorrect": false
+            },
+            {
+                "text": "Chỉ là một thành phần trong một trang Web liên kết đến vị trí khác trên cùng trang Web đó",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong mạng máy tính, thuật ngữ LAN có ý nghĩa gì?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Mạng cục bộ",
+                "isCorrect": true
+            },
+            {
+                "text": "Mạng diện rộng",
+                "isCorrect": false
+            },
+            {
+                "text": "Mạng toàn cầu",
+                "isCorrect": false
+            },
+            {
+                "text": "Mạng không dây",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong hòm thư điện tử, biểu tượng hình kẹp giấy (ghim) có nghĩa là gì?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Thư có virus đính kèm",
+                "isCorrect": false
+            },
+            {
+                "text": "Thư có thông tin quan trọng",
+                "isCorrect": false
+            },
+            {
+                "text": "Bắt buộc phải trả lời ngay lập tức",
+                "isCorrect": false
+            },
+            {
+                "text": "Có tệp đính kèm",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Google Chrome phím tắt để thêm một Tab? ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Ctrl + N",
+                "isCorrect": false
+            },
+            {
+                "text": "Alt + N",
+                "isCorrect": false
+            },
+            {
+                "text": "Alt + H",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + T",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Chrome phím tắt chuyển đến Tab liền kề bên phải? ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Ctrl+Shift+Tab",
+                "isCorrect": false
+            },
+            {
+                "text": "Alt+Tab",
+                "isCorrect": false
+            },
+            {
+                "text": "Alt+Shift+Tab",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl+Tab",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Tin nhắn dạng pop-up có tác động ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Gây nguy hiểm cho hệ thống",
+                "isCorrect": false
+            },
+            {
+                "text": "Không gây nguy hiểm cho hệ thống nhưng gây khó chịu cho người dùng",
+                "isCorrect": true
+            },
+            {
+                "text": "Vừa gây nguy hiểm cho hệ thống vừa gây khó chịu cho người dùng",
+                "isCorrect": false
+            },
+            {
+                "text": "Hoàn toàn không gây nguy hiểm và khó chịu cho người dùng",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trình duyệt web không thể hiển thị trang web yêu cầu, có thể do: ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Địa chỉ truy cập không nằm trên máy chủ của Việt Nam",
+                "isCorrect": false
+            },
+            {
+                "text": "Địa chỉ truy cập không được lưu vào bộ nhớ đệm của trình duyệt",
+                "isCorrect": false
+            },
+            {
+                "text": "Địa chỉ truy cập là một trang web cá nhân",
+                "isCorrect": false
+            },
+            {
+                "text": "Địa chỉ truy cập không tồn tại hoặc địa chỉ truy cập bị nhà quản trị mạng ngăn không cho truy cập",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Tại sao cần thiết phải điền vào dòng chủ đề khi gửi thư? ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Để cung cấp cho người nhận nội dung ngắn gọn của thư",
+                "isCorrect": true
+            },
+            {
+                "text": "Vì bạn bắt buộc phải điền vào phần đó thì mới gửi thư được",
+                "isCorrect": false
+            },
+            {
+                "text": "Để người nhận có thể nhận được thư",
+                "isCorrect": false
+            },
+            {
+                "text": "Để thư của bạn không bị nhầm địa chỉ người nhận",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Sau khi hoàn thành một biểu mẫu trên web, cần thao tác thế nào để gửi biểu mẫu lên máy chủ?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Chọn Clear",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn Submit",
+                "isCorrect": true
+            },
+            {
+                "text": "Chọn Back",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn Next",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Phần mềm nào sau đây không phải là trình duyệt Web ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Microsoft Edge",
+                "isCorrect": false
+            },
+            {
+                "text": "Molliza Firefox",
+                "isCorrect": false
+            },
+            {
+                "text": "Google Chrome",
+                "isCorrect": false
+            },
+            {
+                "text": "Misa",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Phần History trong trình duyệt web dùng để:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Liệt kê các trang web đã truy cập trong quá khứ",
+                "isCorrect": true
+            },
+            {
+                "text": "Liệt kê tên các trang Web",
+                "isCorrect": false
+            },
+            {
+                "text": "Liệt kê các địa chỉ email đã dùng",
+                "isCorrect": false
+            },
+            {
+                "text": "Liệt kê số người đã sử dụng mạng Internet",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Nút Stop trên thanh công cụ của trình duyệt Web cho phép?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Đi đến một trang web khác",
+                "isCorrect": false
+            },
+            {
+                "text": "Dừng tải một trang web",
+                "isCorrect": true
+            },
+            {
+                "text": "Trở về trang chủ",
+                "isCorrect": false
+            },
+            {
+                "text": "Thoát khỏi trình duyệt web",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Nút nào trên thanh công cụ của trình duyệt web cho phép tải lại một trang web?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Home",
+                "isCorrect": false
+            },
+            {
+                "text": "Refresh",
+                "isCorrect": true
+            },
+            {
+                "text": "Back",
+                "isCorrect": false
+            },
+            {
+                "text": "Next",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Nơi cộng đồng mạng thường trao đổi gọi là gì? ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Blog",
+                "isCorrect": false
+            },
+            {
+                "text": "Community",
+                "isCorrect": false
+            },
+            {
+                "text": "Forum",
+                "isCorrect": true
+            },
+            {
+                "text": "Portal",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Muốn trao đổi trực tuyến với người dùng khác trên mạng, bạn sử dụng dịch vụ gì? ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Tải tệp tin (FTP)",
+                "isCorrect": false
+            },
+            {
+                "text": "Thư điện tử (Email)",
+                "isCorrect": false
+            },
+            {
+                "text": "Tán gẫu (Chat)",
+                "isCorrect": true
+            },
+            {
+                "text": "Tìm kiếm (Search)",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Muốn mở hộp thư đã lập bạn phải làm gì? ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Cung cấp chính xác User và Password đã đăng ký cho máy chủ thư điện tử",
+                "isCorrect": true
+            },
+            {
+                "text": "Đăng ký một tài khoản thư điện tử",
+                "isCorrect": false
+            },
+            {
+                "text": "Có chương trình nhận/gửi thư điện tử",
+                "isCorrect": false
+            },
+            {
+                "text": "Cung cấp tài khoản sử dụng Internet",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Mỗi thiết bị khi tham gia vào một mạng máy tính nào đó cũng đều có ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Địa chỉ IP",
+                "isCorrect": true
+            },
+            {
+                "text": "Địa chỉ nhà",
+                "isCorrect": false
+            },
+            {
+                "text": "Mã sản phẩm",
+                "isCorrect": false
+            },
+            {
+                "text": "GPS",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Máy chủ chứa web còn được gọi là?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Server web",
+                "isCorrect": true
+            },
+            {
+                "text": "Server mail",
+                "isCorrect": false
+            },
+            {
+                "text": "Server",
+                "isCorrect": false
+            },
+            {
+                "text": "Work Station",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Mạng lntranet là gì?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Là một máy tính cá nhân",
+                "isCorrect": false
+            },
+            {
+                "text": "Là sự kết nối các máy tính trong một cơ quan",
+                "isCorrect": true
+            },
+            {
+                "text": "Là sự kết nối các máy tính trên phạm vi toàn cầu",
+                "isCorrect": false
+            },
+            {
+                "text": "Là sự kết nối các máy tính trên phạm vi toàn cục",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Mạng internet thuộc loại mạng nào dưới đây?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Mạng diện rộng",
+                "isCorrect": false
+            },
+            {
+                "text": "Mạng khu vực",
+                "isCorrect": false
+            },
+            {
+                "text": "Mạng toàn cầu",
+                "isCorrect": true
+            },
+            {
+                "text": "Mạng miễn phí",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi kết nối thành một mạng máy tính cục bộ và các thiết bị, thiết bị nào sau đây có thể được chia sẻ để dùng chung:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Mouse",
+                "isCorrect": false
+            },
+            {
+                "text": "Loa",
+                "isCorrect": false
+            },
+            {
+                "text": "Webcam",
+                "isCorrect": false
+            },
+            {
+                "text": "Đĩa cứng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi kết nối thành một mạng máy tính cục bộ và các thiết bị, thiết bị nào sau đây có thể được chia sẻ để dùng chung:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Máy in",
+                "isCorrect": true
+            },
+            {
+                "text": "Mouse",
+                "isCorrect": false
+            },
+            {
+                "text": "Webcam",
+                "isCorrect": false
+            },
+            {
+                "text": "Đĩa mềm",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi dòng chủ đề trong thư bạn nhận được bắt đầu bằng chữ \"Re:\" thì thông thường thư đó là thư gì? ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Thư rác, thư quảng cáo",
+                "isCorrect": false
+            },
+            {
+                "text": "Thư mới",
+                "isCorrect": false
+            },
+            {
+                "text": "Thư trả lời cho thư mà bạn đã gửi cho người đó",
+                "isCorrect": true
+            },
+            {
+                "text": "Thư của nhà cung cấp dịch vụ Email mà bạn đang sử dụng",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi bạn xóa cookie trong trình duyệt, máy tính sẽ thực hiện điều gì?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Ngăn chặn các chương trình độc hại",
+                "isCorrect": false
+            },
+            {
+                "text": "Xóa đi bộ nhớ đệm",
+                "isCorrect": true
+            },
+            {
+                "text": "Xóa các tệp văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Xóa tất cả dữ liệu có trong máy",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khách nước ngoài muốn biết được thông tin về các khách sạn tại thành phố Đà Lạt. Dịch vụ nào dưới đây được sử dụng: ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Google mail",
+                "isCorrect": false
+            },
+            {
+                "text": "Trang web có hỗ trợ tìm kiếm thông tin internet miễn phí như www.google.com",
+                "isCorrect": true
+            },
+            {
+                "text": "Fax",
+                "isCorrect": false
+            },
+            {
+                "text": "Mobiphone",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "ISP là viết tắt của",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Internet Service Provider",
+                "isCorrect": true
+            },
+            {
+                "text": "Internet Server Provider",
+                "isCorrect": false
+            },
+            {
+                "text": "Internet Super Provider",
+                "isCorrect": false
+            },
+            {
+                "text": "Internet Sale Provider",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Hệ thống tên miền được tổ chức theo",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Ngang hàng",
+                "isCorrect": false
+            },
+            {
+                "text": "Phân cấp hình cây",
+                "isCorrect": true
+            },
+            {
+                "text": "Không có tổ chức rõ ràng",
+                "isCorrect": false
+            },
+            {
+                "text": "Theo các lớp",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Email là viết tắt của . ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Exchange Mail",
+                "isCorrect": false
+            },
+            {
+                "text": "Electronic Mail",
+                "isCorrect": true
+            },
+            {
+                "text": "Electrical Mail",
+                "isCorrect": false
+            },
+            {
+                "text": "Else Mail",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Email đang soạn thảo dở chưa được gửi đi sẽ được lưu tại đâu?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Trong thư mục Drafts",
+                "isCorrect": true
+            },
+            {
+                "text": "Trong thư mục Sent",
+                "isCorrect": false
+            },
+            {
+                "text": "Trong thư mục Inbox",
+                "isCorrect": false
+            },
+            {
+                "text": "Trong thư mục Bulk",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Email đã soạn thảo sẽ được lưu trữ trong mục nào sau đây nếu người dùng chưa bấm nút gửi thư? ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Spam",
+                "isCorrect": false
+            },
+            {
+                "text": "Inbox",
+                "isCorrect": false
+            },
+            {
+                "text": "Drafts",
+                "isCorrect": true
+            },
+            {
+                "text": "Sent",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Địa chỉ website nào sau đây là không hợp lệ:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "haiphong.fpt.vn",
+                "isCorrect": false
+            },
+            {
+                "text": "haiphong@fpt.vn",
+                "isCorrect": true
+            },
+            {
+                "text": "www.haiphong.gov.vn",
+                "isCorrect": false
+            },
+            {
+                "text": "haiphong.edu",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Địa chỉ nào không phải là địa chỉ trang web? ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "lamdong@gmail.com",
+                "isCorrect": true
+            },
+            {
+                "text": "www.laodong.com.vn",
+                "isCorrect": false
+            },
+            {
+                "text": "ngoisao.net",
+                "isCorrect": false
+            },
+            {
+                "text": "mail.gmail.com",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để chặn các Email không mong muốn, thực hiện thao tác chọn Email sau đó? ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Kích nút Spam",
+                "isCorrect": true
+            },
+            {
+                "text": "Kích nút Delete",
+                "isCorrect": false
+            },
+            {
+                "text": "Kích nút Reply",
+                "isCorrect": false
+            },
+            {
+                "text": "Kích nút Forward",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Đâu là định nghĩa siêu liên kết? ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Dùng liên kết các tài nguyên trên Internet qua các đường link trên trang Web",
+                "isCorrect": true
+            },
+            {
+                "text": "Dùng tải các ứng dụng trên Internet xuống",
+                "isCorrect": false
+            },
+            {
+                "text": "Dùng liên kết với các tài liệu trên Internet",
+                "isCorrect": false
+            },
+            {
+                "text": "Dùng liên kết các đường dẫn trong một website",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Đâu là định nghĩa đúng nhất về trang Web?",
+        "level": 3,
+        "answer": [
+           
+            {
+                "text": "Là trang siêu văn bản phối hợp giữa văn bản thông thường với hình ảnh, âm thanh, video và cả các mối liên kết đến các trang siêu văn bản khác",
+                "isCorrect": true
+            },
+            {
+                "text": "Là trang văn bản thông thường",
+                "isCorrect": false
+            },
+            {
+                "text": "Là trang văn bản chứa các liên kết cơ sở dữ liệu ở bên trong nó",
+                "isCorrect": false
+            },
+            {
+                "text": "Là trang văn bản chứa văn bản, hình ảnh",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Dấu hiệu nhận biết một website an toàn? ",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Giao diện đẹp, chức năng và menu có sắp thứ tự",
+                "isCorrect": false
+            },
+            {
+                "text": "Có logo chứng nhận bảo mật trên website",
+                "isCorrect": false
+            },
+            {
+                "text": "Có địa chỉ công ty xây dựng website",
+                "isCorrect": false
+            },
+            {
+                "text": "Sử dụng giao thức bảo mật để truyền tải nội dung",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    }
+]

@@ -1,0 +1,280 @@
+Trong Thẻ Transitions, chức năng Duration dùng để làm gì ?
+A. Thiết lập thời gian giữa các slide
+B. Thiết lập thời gian chạy âm thanh
+C. Khoảng thời gian chạy hiệu ứng
+D. Thiết lập thời gian click chuột
+ANSWER:C
+
+Vào Transition -> Trong mục Timing, nhập After 00:05 rồi bấm Apply to All sẽ thực hiện được lệnh trình chiếu:
+A. Mỗi slide được trình chiếu 00:05 giây bắt đầu từ slide hiện hành được trình chiếu
+B. Chỉ cần kích chuột một lần slide được trình chiếu 00:05 giây bắt đầu từ slide hiện hành được trình chiếu
+C. Các slide không tự động trình chiếu
+D. Các slide phải tuân thủ sự theo trình tự là trình chiếu lâu hơn 00:05 giây
+ANSWER:A
+
+Trong thẻ Insert của PowerPoint, chức năng Screen Recording dùng để làm gì?
+A. Quay các thao tác màn hình
+B. Quay lại các thao tác trên PowerPoint
+C. Chụp các thao tác màn hình
+D. Chụp lại các thao tác trên PowerPoint
+ANSWER:A
+
+Trong Thẻ Animation, chức năng Trigger dùng để làm gì?
+A. Tạo thêm hiệu ứng
+B. Tạo hình ảnh
+C. Tạo sự kiện
+D. Thoát hiệu ứng
+ANSWER:C
+
+Trong Thẻ Animation, chức năng Animation Pane dùng để làm gì?
+A. Tạo hiệu ứng cho đối tượng
+B. Hiện Pane bên phải để điều khiển hiệu ứng
+C. Làm hiệu ứng sinh động
+D. Tạo hiệu ứng quay
+ANSWER:B
+
+Trong Slide để vẽ một hình chữ nhật (Rectangle) ta chọn trong Drawing -> Chọn Rectangle -> sau đó bấm nút chuột phải vào hình chữ nhật, chọn Edit Text nhằm thực hiện:
+A. Xoá hình chữ nhật
+B. Đưa chữ vào hình chữ nhật
+C. Thêm hình chữ nhật
+D. Định dạng hình chữ nhật
+ANSWER:B
+
+Trong PowerPoint, người dùng muốn lưu thành tập tin dạng trình chiếu, thì chọn chức năng nào trong phần Save as Type?
+A. PowerPoint Presentation
+B. PowerPoint Presentater
+C. PowerPoint Showing
+D. PowerPoint Show
+ANSWER:D
+
+Trong PowerPoint 2019, vào Home/ nhóm Paragraph/ mục Line Spacing?
+A. Để quy định khoảng cách giữa các dòng
+B. Để quy định khoảng cách giữa các đoạn
+C. Để quy định khoảng cách giữa đoạn hiện hành và đoạn phía trước
+D. Để quy định khoảng cách giữa đoạn hiện hành và đoạn phía sau
+ANSWER:A
+
+Trong PowerPoint 2019, thao tác View/Slide Master dùng để làm gì?
+A. Định dạng cho từng các slide
+B. Định dạng chung cho toàn bộ các slide
+C. Định dạng cho văn bản cho từng slide
+D. Định dạng phông nền cho từng slide
+ANSWER:B
+
+Trong PowerPoint 2019, thanh công cụ truy cập nhanh có tên là?
+A. Customize Quick Access Toolbar
+B. Customize Quick Toolbar Access
+C. Customize Access Quick Toolbar
+D. Customize Toolbar Quick Access
+ANSWER:A
+
+Trong PowerPoint 2019, người dùng muốn xuất bản thành pdf thì vào đâu?
+A. Home\Export\Create pdf
+B. Insert\ Export\Create pdf
+C. Review\Export\Create pdf
+D. File\Export\Create pdf
+ANSWER:D
+
+Trong PowerPoint 2019, người dùng khi vào File\Print, chức năng Copies thể hiện điều gì?
+A. Số trang in
+B. Số lượng slide cần in
+C. Số bản in
+D. Không có chức năng này
+ANSWER:C
+
+Trong PowerPoint 2019, để tạo hiệu ứng biến mất ta làm như thế nào? 
+A. Vào thẻ Animations -> Exit
+B. Vào thẻ Transistion -> Chọn hiệu ứng
+C. Vào thẻ Animations -> Animation Panel
+D. Vào thẻ Animations –> Animation Painter
+ANSWER:A
+
+Trong PowerPoint 2019, cách nào để thay đổi màu nền của biểu đồ?
+A. Format/Shape Fill
+B. Design/Shape Fill
+C. Home/Theme Colors
+D. Format/Shape Styles
+ANSWER:A
+
+Trong PowerPoint 2019, cách nào để thay đổi kiểu ký hiệu Bullet?
+A. Insert/ Bullet
+B. Home/ Bullet
+C. Home/ Numbering
+D. Insert/ Symbol
+ANSWER:B
+
+Trong PowerPoint 2019, cách nào để sao chép 1 Slide đã được chọn?
+A. Kích chuột phải vào Slide/ Cut
+B. Kích chuột phải vào Slide/ Copy
+C. Kích chuột phải vào Slide/ Paste
+D. Kích chuột phải vào Slide/ Delete
+ANSWER:B
+
+Trong PowerPoint 2019, cách nào để mở 1 bản trình bày (Presentation) có sẵn trong máy tính?
+A. File/ Open
+B. File/ Close
+C. File/ Edit
+D. File/ Save
+ANSWER:A
+
+Trong PowerPoint 2019, cách nào để chèn hình vẽ vào slide?
+A. Insert/ Shapes
+B. Insert/ Equation
+C. Insert/ Audio
+D. Insert/ Video
+ANSWER:A
+
+Trong PowerPoint 2019, cách nào để chèn file ảnh có sẵn trong máy tính vào slide?
+A. Insert/ Picture
+B. Insert/ Word Art
+C. Insert/ SmartArt
+D. Insert/ Chart
+ANSWER:A
+
+Trong Powerpoint 2019, cách nào để chèn biểu đồ vào Slide?
+A. Insert/ Diagram
+B. Insert/ Chart
+C. Insert/ Picture
+D. Insert/ Video
+ANSWER:B
+
+Trong Microsoft PowerPoint, Slide Master là gì?
+A. Là Slide đầu tiên của các Slides
+B. Là mẫu Slide cho các Slides
+C. Là Slide sau Slide đầu tiên
+D. Không có chức năng đó
+ANSWER:B
+
+Trong Microsoft PowerPoint, sau khi vẽ đối tượng, để tô màu nền cho đối tượng, người dùng chọn chức năng nào?
+A. Vào View -> Shape Fill
+B. Vào Design -> Shape Fill
+C. Vào Format -> Shape Fill
+D. Vào Review -> Shape Fill
+ANSWER:C
+
+Trong Microsoft PowerPoint, sau khi vẽ đối tượng, để tô màu nền dạng pha trộn cho đối tượng, người dùng chọn chức năng nào?
+A. Vào View -> Shape Fill -> Gradient
+B. Vào Design -> Shape Fill -> Gradient
+C. Vào Insert -> Shape Fill -> Gradient
+D. Vào Format -> Shape Fill -> Gradient
+ANSWER:D
+
+Trong Microsoft PowerPoint, sau khi vẽ đối tượng, để tạo nét đứt cho đường viền của đối tượng, người dùng chọn chức năng nào?
+A. Vào View -> Shape Outline -> Dashes
+B. Vào Format -> Shape Outline -> Dashes
+C. Vào Insert -> Shape Outline -> Dashes
+D. Vào Design -> Shape Outline -> Dashes
+ANSWER:B
+
+Trong Microsoft PowerPoint, để đổ bóng cho đối tượng, sau khi chọn đối tượng, người dùng chọn chức năng nào?
+A. Vào Format -> Shape Effects -> Shadow
+B. Vào Format -> Shadow
+C. Vào Home -> Shape Effects -> Shadow
+D. Vào Design -> Shape Effects -> Shadow
+ANSWER:A
+
+Trong Microsoft PowerPoint , sau khi vẽ đối tượng, để tạo hình dáng 3D cho đối tượng, người dùng chọn chức năng nào?
+A. Vào View -> Shape Effects -> 3-D Rotation
+B. Vào Format -> Shape Effects -> 3-D Rotation
+C. Vào Insert -> Shape Effects -> 3-D Rotation
+D. Vào Design -> Shape Effects -> 3-D Rotation
+ANSWER:B
+
+Sau khi đã chèn một bảng biểu vào slide, muốn chia một ô nào đó thành 2 ô ta thực hiện:
+A. Click chuột phải vào ô đó và chọn Split Cells
+B. Click chuột phải vào ô đó và chọn Format Cells
+C. Click chuột trái vào ô đó và chọn Delete Cells
+D. Click chuột phải vào ô đó và chọn Merge Cells
+ANSWER:A
+
+PowerPoint cho phép người sử dụng thiết kế một slide chủ chứa các định dạng chung của toàn bộ các slide trong bài trình diễn. Để thực hiện điều này, người dùng phải?
+A. Vào Insert -> Master Slide
+B. Vào Insert -> Slide Master
+C. Vào View -> Slide Master
+D. Vào View -> Slide Master -> Master
+ANSWER:C
+
+Muốn quay các thao tác màn hình trong PowerPoint, người dùng phải vào đâu?
+A. Home\Screen Recoding
+B. Insert\PowerPoint Recoding
+C. Insert\Screen Recoding
+D. Không thực hiện được
+ANSWER:C
+
+Muốn dùng một hình ảnh nào đó đã có trong ổ cứng để làm nền cho các slide, sau khi chọn Format Background -> Fill ta chọn
+A. Picture or Texture fill
+B. Solid fill
+C. Pattern fill
+D. Gradient fill
+ANSWER:A
+
+Muốn cho một đối tượng có hiệu ứng chuyển động từ nơi này đến nơi khác thì chọn chức năng thuộc nhóm nào trong Add Animation?
+A. Entrance
+B. Emphasis
+C. Motion Path
+D. Exit
+ANSWER:C
+
+Mẫu thiết kế có sẵn (design template) trong PowerPoint dùng để làm gì?
+A. Tạo một slide mới
+B. Thay đổi mẫu giao diện cho bài thuyết trình
+C. Tạo một màu nền cho bài thuyết trình
+D. Tạo một hiệu ứng động cho bài thuyết trình
+ANSWER:B
+
+Khi tạo hiệu ứng động cho 2 đối tượng A và B trong một Slide, người thiết kế đã xác lập thời gian để B tự động xuất hiện sau A là 5 giây. Vậy khi trình chiếu:
+A. Khi A đã xuất hiện, 5 giây sau thì B xuất hiện
+B. Sau khi A xuất hiện cho dù có nhấp chuột thì B vẫn không xuất hiện
+C. Khi A xuất hiện, 5 giây sau A biến mất thì B mới xuất hiện
+D. Khi A đã xuất hiện nếu người sử dụng nhấp chuột thì 5 giây sau B mới xuất hiện
+ANSWER:A
+
+Khi đang trình chiếu (Slide Show) một bài trình diễn, muốn chuyển sang màn hình của một chương trình ứng dụng khác (đã mở trước) để minh họa mà không kết thúc việc trình chiếu, ta phải
+A. Nhấn tổ hợp phím Ctrl + Tab
+B. Nhấn tổ hợp phím Shift + Tab
+C. Nhấn tổ hợp phím Alt + Tab
+D. Nhấn tổ hợp phím Esc + Tab
+ANSWER:C
+
+Để trình bày nội dung dưới dạng danh sách có thứ tự theo số, ta thực hiện:
+A. Vào Insert → Numbering
+B. Vào Design → Numbering
+C. Vào Home → Numbering
+D. Vào File → Numbering
+ANSWER:C
+
+Để trình bày nội dung dưới dạng danh sách liệt kê, ta thực hiện:
+A. Vào Insert → Bullets
+B. Vào Home → Bullets
+C. Vào Design → Bullets
+D. Vào File → Bullets
+ANSWER:B
+
+Để thay đổi hình vẽ về phía sau một hình vẽ khác, ta thực hiện:
+A. Click phải lên hình, chọn Bring to Front
+B. Click phải lên hình, chọn Send to Back
+C. Click phải lên hình, chọn Paste Options
+D. Click phải lên hình, chọn Change Picture
+ANSWER:B
+
+Để đưa hình vẽ lên thứ tự phía trước, ta thực hiện:
+A. Click phải lên hình, chọn Bring to Front
+B. Click phải lên hình, chọn Send to Back
+C. Click phải lên hình, chọn Paste Options
+D. Click phải lên hình, chọn Change Picture
+ANSWER:A
+
+Để chọn một mẫu thiết kế cho trước, chọn mục nào sau đây:
+A. Vào Insert -> New Template
+B. Vào Design -> Themes
+C. Vào Design -> New Template
+D. Vào View -> Template
+ANSWER:B
+
+Chọn câu sai trong các câu sau: Trong khi thiết kế bài trình chiếu bằng PowerPoint
+A. Không thể tạo chỉ số trên (ví dụ số 2 trong X2) như trong MS Word
+B. Có thể sao chép (copy/paste) một đoạn văn bản từ tập tin Word sang
+C. Có thể dùng WordArt để tạo chữ nghệ thuật trang trí cho giáo án
+D. Có thể chèn các biểu đồ vào giáo án điện tử
+ANSWER:A
+

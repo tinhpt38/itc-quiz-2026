@@ -1,0 +1,922 @@
+[
+    {
+        "question": "Để chèn công thức toán học vào trong văn bản, người sử dụng phải thực hiện các bước:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào thẻ Insert/ nhóm Symbol/ Symbol/ mẫu công thức",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Insert/ nhóm Symbol/ Equation/ mẫu công thức",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào thẻ Insert/ nhóm Text/ Object/ Bitmap Image/ mẫu công thức",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Insert/ nhóm Text/ Text Box/ nhập công thức",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong hộp thoại Find and Replace, phần Find what dùng để:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Điền từ cần thay thế",
+                "isCorrect": false
+            },
+            {
+                "text": "Điền từ cần tìm kiếm",
+                "isCorrect": true
+            },
+            {
+                "text": "Tùy chọn nâng cao tìm kiếm",
+                "isCorrect": false
+            },
+            {
+                "text": "Đảm bảo tìm kiếm chính xác",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong soạn thảo Microsoft Word, muốn định dạng lại trang giấy in, ta thực hiện",
+        "level": 3,
+        "answer": [
+            {
+                "text": "File/ Properties",
+                "isCorrect": false
+            },
+            {
+                "text": "File/ Print",
+                "isCorrect": false
+            },
+            {
+                "text": "Page Layout/ Page Setup",
+                "isCorrect": true
+            },
+            {
+                "text": "File/ Print Preview",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong soạn thảo Microsoft Word, công dụng của tổ hợp phím Ctrl+H là?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Mở hộp thoại Font",
+                "isCorrect": false
+            },
+            {
+                "text": "Mở hộp thoại tìm kiếm và thay thế văn bản",
+                "isCorrect": true
+            },
+            {
+                "text": "Mở hộp thoại Paragraph",
+                "isCorrect": false
+            },
+            {
+                "text": "Mở hộp thoại Tab",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong soạn thảo Microsoft Word, công dụng của tổ hợp phím Ctrl + O là?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Mở một file mới",
+                "isCorrect": false
+            },
+            {
+                "text": "Đóng file đang mở",
+                "isCorrect": false
+            },
+            {
+                "text": "Lưu file",
+                "isCorrect": false
+            },
+            {
+                "text": "Mở một file đã có",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong soạn thảo Microsoft Word, công dụng của tổ hợp Ctrl + F là?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Mở chức năng trợ giúp",
+                "isCorrect": false
+            },
+            {
+                "text": "Mở chức năng tìm kiếm văn bản",
+                "isCorrect": true
+            },
+            {
+                "text": "Mở chức năng thay thế",
+                "isCorrect": false
+            },
+            {
+                "text": "Mở chức năng tạo AutoCorrect",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Microsoft Word, sử dụng tổ hợp phím nào để phóng lớn cửa sổ?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Ấn tổ hợp phím Crtl + [",
+                "isCorrect": false
+            },
+            {
+                "text": "Ấn tổ hợp phím Ctrl + F10",
+                "isCorrect": true
+            },
+            {
+                "text": "Ấn tổ hợp phím Shift + F3",
+                "isCorrect": false
+            },
+            {
+                "text": "Ấn tổ hợp phím Crtl + =",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Microsoft Word 2019, để bỏ phần kiểm tra chính tả và ngữ pháp, ta thực hiện:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Chọn File/ Options/ Advanced/ bỏ các dấu check trong phần Spelling and Grammar",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn File/ Options/ Proofing/ bỏ các dấu check trong phần When correcting spelling and grammar in Word",
+                "isCorrect": true
+            },
+            {
+                "text": "Chọn Review/ Options/ Advanced/ bỏ các dấu check trong phần Spelling and Grammar",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn File/ Save as/ Advanced/ bỏ các dấu check trong phần Spelling and Grammar",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong bảng biểu, để đổi hướng chữ, ta sử dụng chức năng nào sau đây:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Cell Alignment",
+                "isCorrect": false
+            },
+            {
+                "text": "Text Direction",
+                "isCorrect": true
+            },
+            {
+                "text": "Split Cells",
+                "isCorrect": false
+            },
+            {
+                "text": "Merge Cells",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Phím tắt dùng để chuyển đổi nhanh chữ hoa sang chữ thường và ngược lại là:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Ctrl + F3",
+                "isCorrect": false
+            },
+            {
+                "text": "Shift + F3",
+                "isCorrect": true
+            },
+            {
+                "text": "Ctrl + F2",
+                "isCorrect": false
+            },
+            {
+                "text": "Shift + F2",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Phím tắt Ctrl + Shift + \"=\" có tác dụng gì?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Tạo chỉ số dưới",
+                "isCorrect": false
+            },
+            {
+                "text": "Tạo chỉ số trên",
+                "isCorrect": true
+            },
+            {
+                "text": "Căn phải",
+                "isCorrect": false
+            },
+            {
+                "text": "Căn trái",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Nhấn tổ hợp phím Ctrl + N có chức năng gì:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Mở một tài liệu mới",
+                "isCorrect": true
+            },
+            {
+                "text": "Mở một tài liệu có sẵn trong đĩa",
+                "isCorrect": false
+            },
+            {
+                "text": "Lưu một tài liệu",
+                "isCorrect": false
+            },
+            {
+                "text": "Đóng chương trình Microsoft Word",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Muốn tách ô trong các bảng biểu, ta thực hiện:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào thẻ Layout/ Split Table",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Layout/ Split Cells",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào thẻ Layout/ Sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Layout/ Merge Cells",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Lệnh nào cho phép lưu tài liệu vào trong máy tính:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "File/Save",
+                "isCorrect": true
+            },
+            {
+                "text": "File/New",
+                "isCorrect": false
+            },
+            {
+                "text": "File/Close",
+                "isCorrect": false
+            },
+            {
+                "text": "File/Save as wizard",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Lề trang tài liệu là gì?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Là khoảng cách trong tài liệu",
+                "isCorrect": false
+            },
+            {
+                "text": "Là khoảng cách được tạo do người trình bày văn bản thiết lập",
+                "isCorrect": false
+            },
+            {
+                "text": "Là khoảng cách giữa cạnh giấy và văn bản trong tài liệu",
+                "isCorrect": true
+            },
+            {
+                "text": "Là khoảng cách ảo được đo bằng thước ngang",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi đang soạn thảo văn bản trong Microsoft Word chỉ có 1 trang, thao tác nào sau đây kẻ đường biên cho toàn bộ trang đó:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào thẻ Home/ nhóm Paragraph/ Borders/ Borders and Shading/ Borders",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Design/ nhóm Page Background/ Page Borders",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào thẻ Home/ nhóm Editing/ Borders/ Borders and Shading/ thẻ Page Border",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Layout/ nhóm Paragraph/ Borders/ Borders and Shading/ thẻ Page Border",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi đang soạn thảo văn bản trong Microsoft Word chỉ có một trang, người dùng muốn ngắt 1 phần trang sang trang khác, thứ tự các thao tác như sau:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Đặt con trỏ chuột vào trang đó, Vào thẻ Layout, Nhóm Page Setup, Breaks, Page",
+                "isCorrect": false
+            },
+            {
+                "text": "Đặt con trỏ chuột vào vị trí cần ngắt trang, Vào thẻ Layout, Nhóm Page Setup, Breaks, Column",
+                "isCorrect": false
+            },
+            {
+                "text": "Đặt con trỏ chuột vào vị trí cần ngắt trang, Vào thẻ Insert, trong nhóm Pages/ Page Break",
+                "isCorrect": true
+            },
+            {
+                "text": "Đặt con trỏ chuột vào trang đó, Vào thẻ Insert, Nhóm Pages, Page Break",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để xem tài liệu ở chế độ Full Screen Reading ta thực hiện:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Thẻ View/ nhóm Views/ mục Read Mode",
+                "isCorrect": true
+            },
+            {
+                "text": "Thẻ View/ nhóm Views/ mục Web Layout",
+                "isCorrect": false
+            },
+            {
+                "text": "Thẻ View/ nhóm Views/ mục Print Layout",
+                "isCorrect": false
+            },
+            {
+                "text": "Thẻ View/ nhóm Views/ mục Outline",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong soạn thảo Microsoft Word, để thay đổi hướng giấy in ta thực hiện",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào thẻ Design/ trong nhóm Page Setup/ Orientation",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Layout/ trong nhóm Page Setup/ Portrait",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Layout/ trong nhóm Page Setup/ Orientation",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào thẻ Design/ trong nhóm Page Setup/ Landscape",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để tạo mục lục tự động trong Microsoft Word, ta phải thực hiện:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Tùy chỉnh các Headings/ Sao chép định dạng Heading tương ứng cho các tiêu đề. Sau đó vào thẻ References/ Tables of Contents",
+                "isCorrect": true
+            },
+            {
+                "text": "Tùy chỉnh các Headings/ Sao chép định dạng Heading tương ứng cho các tiêu đề. Sau đó vào thẻ References/ Insert Captions",
+                "isCorrect": false
+            },
+            {
+                "text": "Đánh Bullet and Numbering cho các tiêu đề. Sau đó vào thẻ References/ Tables of Contents",
+                "isCorrect": false
+            },
+            {
+                "text": "Đánh Bullet and Numbering cho các tiêu đề. Sau đó vào thẻ References/ Insert Captions",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để tạo một tài liệu mới từ mẫu có sẵn ta thực hiện:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào File/ New/ một mẫu đã cài",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào File/ Open/ một mẫu đã cài",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào File/ Save/ Installed Templates/ Sau đó chọn một mẫu đã cài",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào File/ New/ Installed Templates/ Sau đó chọn một mẫu đã cài",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để phóng lớn, thu nhỏ tài liệu ta thực hiện bằng cách nào?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Giữ phím Ctrl và di chuyển con xoay trên con chuột",
+                "isCorrect": true
+            },
+            {
+                "text": "Điều khiển thanh trượt zoom ở góc trái màn hình",
+                "isCorrect": false
+            },
+            {
+                "text": "Giữ phím Shift và di chuyển con xoay trên con chuột",
+                "isCorrect": false
+            },
+            {
+                "text": "Giữ phím Ctrl và nhấn phím ]",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để ngắt trang, tại vị trí con trỏ nhấn tổ hợp phím:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Ctrl + Page Down",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + Enter",
+                "isCorrect": true
+            },
+            {
+                "text": "Shift + Enter",
+                "isCorrect": false
+            },
+            {
+                "text": "Shift + Page Down",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để loại bỏ các hiệu ứng điều chỉnh tự động (autocorrect), ta thực hiện:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào File/ Options/ Proofing/ AutoCorrect Options…/ cụm từ bị điều chỉnh tự động/ Delete",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào File/ Options/ Advanced/ Auto Correct Options/ cụm từ bị điều chỉnh tự động/ Delete",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào View/ Auto Correct Options/ cụm từ bị điều chỉnh tự động/ Delete",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Layout/ Auto Correct Options/ cụm từ bị điều chỉnh tự động/ Delete",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để loại bỏ các đường gạch chân màu đỏ hoặc màu xanh xuất hiện trong văn bản tiếng Việt ta làm như sau:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào File/ Options/ trong mục When correcting spelling and Gramma in Word bỏ tích chọn tất cả các lựa chọn",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào File/ Options/ Proofing/ trong mục When correcting spelling and Gramma in Word bỏ tích chọn tất cả các lựa chọn",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào File/ Proofing/ trong mục When correcting spelling and Gramma in Word bỏ tích chọn tất cả các lựa chọn",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Home/ Options/ Proofing/ trong mục When correcting spelling and Gramma in Word bỏ tích chọn tất cả các lựa chọn",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để in tài liệu ra máy in, ta sử dụng tổ hợp phím nào?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Nhấn tổ hợp phím Ctrl + B",
+                "isCorrect": false
+            },
+            {
+                "text": "Nhấn tổ hợp phím Ctrl + O",
+                "isCorrect": false
+            },
+            {
+                "text": "Nhấn tổ hợp phím Ctrl + P",
+                "isCorrect": true
+            },
+            {
+                "text": "Nhấn tổ hợp phím Ctrl + K",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để điều chỉnh chế độ giãn dòng, ta thực hiện các thao tác nào?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào thẻ Home/ nhóm Styles/ Line and Paragraph Spacing",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Layout/ nhóm Paragraph/ Indents and Spacing/ Line Spacing",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào thẻ Home/ nhóm Font/ Line and Paragraph Spacing",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Design/ Line Spacing",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để đặt mật khẩu khi mở một tập tin Microsoft Word, ta thực hiện:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Chọn File/ Options/ Advanced, gõ vào mật khẩu trong phần Password to open",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn File/ Options/ Proofing, gõ vào mật khẩu trong phần Password to open",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn File/ Options/ General, gõ vào mật khẩu trong phần Password to open",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn File/ Info/ Protect Document/ Encrypt with Password, gõ vào mật khẩu trong phần Password",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để chuyển đổi giữa các file văn bản đang mở trong Word ta thực hiện:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào thẻ View, trong nhóm Show chọn Side to Side",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ View, trong nhóm Window chọn Split",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ View, trong nhóm Window chọn Arrange All",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ View, trong nhóm Window chọn Switch Windows",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để chọn tất cả các đối tượng Shapes trong văn bản, ta thực hiện:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Nhấn tổ hợp phím Ctrl + A",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Format, Select, Select Object, Click chọn từng đối tượng",
+                "isCorrect": false
+            },
+            {
+                "text": "Giữ phím Ctrl, Click chọn từng đối tượng",
+                "isCorrect": true
+            },
+            {
+                "text": "Giữ phím Alt, Click chọn từng đối tượng",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để chỉnh đơn vị đo của thước trong Word, ta sử dụng chức năng Measurement units trong menu:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào File/ Options/ Advanced/ nhóm Display",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào File/ Options/ Proofing/ nhóm Display",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào View/ Options/ Advanced/ nhóm Display",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào View/ Options/ Proofing/ nhóm Display",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để chèn Tab vào trong văn bản, người dùng có thể thực hiện như sau:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào thẻ Home/ nhóm Paragraph/ Tabs…",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào thẻ Layout/ nhóm Paragraph/ Paragraph Settings/ Tabs…",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Layout/ nhóm Page Setup/ Paragraph Settings/ Tabs…",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Insert/ nhóm Pages/ Tabs…",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để chèn một hàng vào phía bên trên hàng hiện tại (hàng chứa con trỏ), người dùng cần thực hiện thao tác",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào thẻ Layout/ nhóm Rows & Columns/ Insert Below",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Layout/ nhóm Rows & Columns/ Insert Above",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào thẻ Design/ nhóm Rows & Columns/ Insert Below",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Insert/ nhóm Rows & Columns/ Insert Above",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để chèn hình mũi tên, nét đứt trong Microsoft Word, ta phải thực hiện các bước:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào Insert/ Shapes/ chọn mũi tên. Sau đó vào Format/ Shape outline/ chọn Dashes",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào Insert/ Shapes/ chọn mũi tên. Sau đó vào Format/ Shape effects/ chọn Glow",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Insert/ Shapes/ chọn mũi tên. Sau đó vào Format/ Shape outline/ chọn Weight",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Insert/ Shapes/ chọn mũi tên. Sau đó vào Format/ Shape effects/ chọn Shadow",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để chèn ghi chú cuối trang văn bản, ta thực hiện khối chọn cụm từ cần tạo ghi chú, sau đó:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào thẻ References/ nhóm Footnotes/ Insert Footnote",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào thẻ References/ nhóm Footnotes/ Insert Endnote",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ References/ nhóm Captions/ Insert Endnote",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ References/ nhóm Captions/ Insert Footnote",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để ẩn thanh Ribbon, ta thực hiện:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Vào menu View, Auto-hide Ribbon",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào File, Options, Customize the Ribbon, Auto-hide Ribbon",
+                "isCorrect": false
+            },
+            {
+                "text": "Click biểu tượng Ribbon Display Options trên thanh tiêu đề/ Auto-hide Ribbon",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào File, Options, Advanced, Auto-hide Ribbon",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Đâu là thao tác đúng khi thực hiện thụt đoạn văn bản về bên phải với thông số xác định?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Mở hộp thoại Paragraph, thiết đặt thông số Right trong Indentation",
+                "isCorrect": true
+            },
+            {
+                "text": "Mở hộp thoại Paragraph, thiết đặt thông số Left trong Indentation",
+                "isCorrect": false
+            },
+            {
+                "text": "Mở hộp thoại Paragraph, thiết đặt thông số Right trong Spacing",
+                "isCorrect": false
+            },
+            {
+                "text": "Mở hộp thoại Paragraph, thiết đặt thông số Left trong Spacing",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Đâu là thao tác đúng khi thực hiện thụt đoạn văn bản về bên trái với thông số xác định?",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Mở hộp thoại Paragraph, thiết đặt thông số Right trong Indentation",
+                "isCorrect": false
+            },
+            {
+                "text": "Mở hộp thoại Paragraph, thiết đặt thông số Left trong Indentation",
+                "isCorrect": true
+            },
+            {
+                "text": "Mở hộp thoại Paragraph, thiết đặt thông số Right trong Spacing",
+                "isCorrect": false
+            },
+            {
+                "text": "Mở hộp thoại Paragraph, thiết đặt thông số Left trong Spacing",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Đâu không phải là chức năng của trình soạn thảo văn bản:",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Cho phép thể hiện nhiều kiểu chữ (font), cỡ chữ, màu sắc khác nhau",
+                "isCorrect": false
+            },
+            {
+                "text": "Soạn thảo các văn bản điện tử",
+                "isCorrect": false
+            },
+            {
+                "text": "Có thể kèm hình ảnh trong văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Có thể tạo hiệu ứng xuất hiện của chữ trong văn bản",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Các chức năng Text Box và Object đồng thời có mặt trên mục nào của thanh Ribbon",
+        "level": 3,
+        "answer": [
+            {
+                "text": "Insert",
+                "isCorrect": true
+            },
+            {
+                "text": "Edit",
+                "isCorrect": false
+            },
+            {
+                "text": "File",
+                "isCorrect": false
+            },
+            {
+                "text": "View",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    }
+]

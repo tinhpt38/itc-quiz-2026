@@ -1,0 +1,876 @@
+[
+    {
+        "question": "WWW là viết tắt của? ",
+        "level": 2,
+        "answer": [
+            {
+                "text": "World Wide Web",
+                "isCorrect": true
+            },
+            {
+                "text": "Word Wide Wed",
+                "isCorrect": false
+            },
+            {
+                "text": "Word Wide Website",
+                "isCorrect": false
+            },
+            {
+                "text": "Word Wild Web",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Ưu điểm của hệ thống thư điện tử là:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Có thể gửi cho nhiều người cùng lúc, tiết kiệm thời gian và chi phí",
+                "isCorrect": true
+            },
+            {
+                "text": "Có thể nhận thư điện tử mà không cần kết nối internet",
+                "isCorrect": false
+            },
+            {
+                "text": "Độ bảo mật cao",
+                "isCorrect": false
+            },
+            {
+                "text": "Có thể gửi kèm nhiều loại tài liệu với dung lượng không hạn chế",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Ứng dụng của internet là:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Học qua mạng",
+                "isCorrect": false
+            },
+            {
+                "text": "Trao đổi thông tin qua thư điện tử",
+                "isCorrect": false
+            },
+            {
+                "text": "Mua bán qua mạng",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong trình duyệt Microsoft Edge, để lưu một bức ảnh về máy tính, ta làm như sau:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Nhấn chuột phải vào ảnh, chọn Save Image As",
+                "isCorrect": true
+            },
+            {
+                "text": "Kích đúp vào ảnh rồi chọn Download",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn Tools/ Save Picture As",
+                "isCorrect": false
+            },
+            {
+                "text": "Nhấn chuột phải vào ảnh, chọn Copy Image",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Microsoft Edge, để nạp lại trang web hiện đang mở, ta thực hiện:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Nhấn nút Home",
+                "isCorrect": false
+            },
+            {
+                "text": "Nhấn phím F5",
+                "isCorrect": true
+            },
+            {
+                "text": "Nhấn Alt + R",
+                "isCorrect": false
+            },
+            {
+                "text": "Nhấn Alt + F4",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong các câu sau đây, câu nào sai? ",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Thương mại điện tử giúp doanh nghiệp giảm chi phí và tăng hiệu quả trong quảng cáo",
+                "isCorrect": false
+            },
+            {
+                "text": "Thương mại điện tử giúp doanh nghiệp vươn ra thị trường thế giới",
+                "isCorrect": false
+            },
+            {
+                "text": "Thương mại điện tử hoàn toàn độc lập với các hoạt động thương mại truyền thống",
+                "isCorrect": true
+            },
+            {
+                "text": "Thương mại điện tử là một khái niệm mới mẻ ở Việt Nam",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trang web nào cho phép đọc hay gửi thư điện tử:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "www.edu.net.vn",
+                "isCorrect": false
+            },
+            {
+                "text": "mail.google.com",
+                "isCorrect": true
+            },
+            {
+                "text": "www.mail.com .",
+                "isCorrect": false
+            },
+            {
+                "text": "www.email.com",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trang tìm kiếm Google có thể cho ra kết quả tìm kiếm theo? ",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Hình ảnh",
+                "isCorrect": false
+            },
+            {
+                "text": "Video",
+                "isCorrect": false
+            },
+            {
+                "text": "Website",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả các đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Phát biểu nào dưới đây là đúng về tường lửa:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Tường lửa (Firewall) là một kỹ thuật được tích hợp vào hệ thống mạng để chống sự truy cập trái phép",
+                "isCorrect": false
+            },
+            {
+                "text": "Tường lửa (Firewall) là một kỹ thuật được tích hợp vào hệ thống mạng để nhằm bảo vệ các nguồn thông tin nội bộ",
+                "isCorrect": false
+            },
+            {
+                "text": "Tường lửa (Firewall) là một kỹ thuật được tích hợp vào hệ thống mạng để hạn chế sự xâm nhập không mong muốn vào hệ thống",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Phát biểu nào dưới đây là đúng về FileZilla Client:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "FileZilla Client là chương trình hỗ trợ truyền tải tập tin thông qua mạng Internet sử dụng giao thức FTP (File Transfer Protocol)",
+                "isCorrect": false
+            },
+            {
+                "text": "FileZilla Client là chương trình miễn phí, có giao diện thân thiện, dễ sử dụng và tốc độ nhanh nên được nhiều người sử dụng",
+                "isCorrect": false
+            },
+            {
+                "text": "FileZilla Client là giải pháp dùng để truyền tải dữ liệu giữa máy tính cá nhân và các máy chủ web",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Phát biểu nào dưới đây là đúng về Banner:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Banner là nội dung được trình bày trong một giới hạn kích thước (nội dung có thể là tĩnh hoặc động)",
+                "isCorrect": false
+            },
+            {
+                "text": "Banner nhằm giới thiệu, thu hút người dùng internet chú ý đến",
+                "isCorrect": false
+            },
+            {
+                "text": "Trong phương diện internet, banner là hình thức quảng cáo rất phổ biến trên các trang web hiện nay",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Phát biểu nào dưới đây là đúng đối với trình duyệt Opera?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Opera là một hệ điều hành",
+                "isCorrect": false
+            },
+            {
+                "text": "Opera là một trình duyệt web",
+                "isCorrect": true
+            },
+            {
+                "text": "Opera là một phần mềm trò chuyện trực tuyến",
+                "isCorrect": false
+            },
+            {
+                "text": "Opera là hệ quản trị cơ sở dữ liệu",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "\"Offline\" có nghĩa là:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Đang tải",
+                "isCorrect": false
+            },
+            {
+                "text": "Không tải",
+                "isCorrect": false
+            },
+            {
+                "text": "Trực tuyến",
+                "isCorrect": false
+            },
+            {
+                "text": "Ngoại tuyến",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Nút Home trên trang web có nghĩa là",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Đi đến trang trước",
+                "isCorrect": false
+            },
+            {
+                "text": "Đi đến trang chủ",
+                "isCorrect": true
+            },
+            {
+                "text": "Đi đến nhà",
+                "isCorrect": false
+            },
+            {
+                "text": "Không có ý nghĩa gì, chỉ để trang trí",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Nội dung các trang tin cá nhân (blog) bao gồm những loại dữ liệu gì? ",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Chỉ chứa văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Chỉ chứa hình ảnh",
+                "isCorrect": false
+            },
+            {
+                "text": "Đa phương tiện",
+                "isCorrect": true
+            },
+            {
+                "text": "Chỉ chứa video, ảnh động",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Mục đích chính của việc đưa ra tên miền?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Dễ nhớ",
+                "isCorrect": true
+            },
+            {
+                "text": "Tên miền đẹp hơn địa chỉ IP",
+                "isCorrect": false
+            },
+            {
+                "text": "Thiếu địa chỉ IP",
+                "isCorrect": false
+            },
+            {
+                "text": "Tên miền dễ xử lý bởi máy tính hơn",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Một người đang sử dụng dịch vụ thư điện tử miễn phí của Gmail. Địa chỉ nào dưới đây được viết đúng? ",
+        "level": 2,
+        "answer": [
+            {
+                "text": "dalatspecial01@gmail.com",
+                "isCorrect": true
+            },
+            {
+                "text": "dalatspecial01",
+                "isCorrect": false
+            },
+            {
+                "text": "dalatspecial01@gmail",
+                "isCorrect": false
+            },
+            {
+                "text": "gmail.com@ dalatspecial01",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi bạn di chuyển con trỏ qua một liên kết trên trang web, mũi tên của con trỏ sẽ biến thành:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Hình bàn tay",
+                "isCorrect": true
+            },
+            {
+                "text": "Hình con chuột",
+                "isCorrect": false
+            },
+            {
+                "text": "Hình chữ thập",
+                "isCorrect": false
+            },
+            {
+                "text": "Hình mũi tên",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "HTTP là gì? ",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Là giao thức truyền tải siêu văn bản",
+                "isCorrect": true
+            },
+            {
+                "text": "Là ngôn ngữ để soạn thảo nội dung các trang Web",
+                "isCorrect": false
+            },
+            {
+                "text": "Là tên của trang Web",
+                "isCorrect": false
+            },
+            {
+                "text": "Là địa chỉ của trang Web",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Hãy chọn phát biểu đúng:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Diễn đàn trực tuyến, hay được gọi là forum",
+                "isCorrect": false
+            },
+            {
+                "text": "Forum là nơi để cho người dùng Internet trao đổi thảo luận",
+                "isCorrect": false
+            },
+            {
+                "text": "Forum là nơi để cho người dùng Internet hỏi đáp",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Hãy chọn phát biểu đúng:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Mạng xã hội, hay gọi là mạng xã hội ảo",
+                "isCorrect": false
+            },
+            {
+                "text": "Mạng xã hội có Tiếng Anh là social network",
+                "isCorrect": false
+            },
+            {
+                "text": "Facebook là mạng xã hội nối kết các thành viên cùng sở thích trên Internet lại với nhau với nhiều mục đích khác nhau không phân biệt không gian và thời gian.",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Điều nào sau đây là lợi thế của thư điện tử so với thư tín gửi qua đường bưu điện:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Có thể chuyển được lượng văn bản lớn hơn với chức năng gắn kèm",
+                "isCorrect": false
+            },
+            {
+                "text": "Thư điện tử luôn có độ an toàn dữ liệu cao hơn",
+                "isCorrect": false
+            },
+            {
+                "text": "Tốc độ chuyển thư nhanh",
+                "isCorrect": true
+            },
+            {
+                "text": "Thư điện tử luôn luôn được phân phát",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để xem một trang Web, ta cần gõ địa chỉ của trang đó vào đâu?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Thanh địa chỉ của trình duyệt",
+                "isCorrect": true
+            },
+            {
+                "text": "Thanh công cụ chuẩn của trình duyệt",
+                "isCorrect": false
+            },
+            {
+                "text": "Thanh liên kết của trình duyệt",
+                "isCorrect": false
+            },
+            {
+                "text": "Thanh trạng thái của trình duyệt",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để xem lại lịch sử duyệt web ta dùng tổ hợp phím trên trình duyệt Microsoft Edge ",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Ctrl + L",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + H",
+                "isCorrect": true
+            },
+            {
+                "text": "Ctrl + P",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + M",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để truy cập vào một website ta phải biết:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Website đó được đặt tại đâu",
+                "isCorrect": false
+            },
+            {
+                "text": "Tên miền của website đó",
+                "isCorrect": true
+            },
+            {
+                "text": "IP của của máy chủ chứa website đó",
+                "isCorrect": false
+            },
+            {
+                "text": "Địa chỉ nhà của website đó",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để truy cập vào một trang Web chúng ta cần phải biết: ",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Hệ điều hành đang sử dụng",
+                "isCorrect": false
+            },
+            {
+                "text": "Trang web đó của nước nào",
+                "isCorrect": false
+            },
+            {
+                "text": "Trang web đó đặt ở đâu",
+                "isCorrect": false
+            },
+            {
+                "text": "Địa chỉ của trang web",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để truy cập Internet, người ta dùng chương trình nào sau đây?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Microsoft Word",
+                "isCorrect": false
+            },
+            {
+                "text": "Microsoft Excel",
+                "isCorrect": false
+            },
+            {
+                "text": "Mozilla FireFox",
+                "isCorrect": true
+            },
+            {
+                "text": "Wordpad",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để soạn một thư điện tử mới, bạn chọn nút nào? ",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Compose",
+                "isCorrect": true
+            },
+            {
+                "text": "Attach files",
+                "isCorrect": false
+            },
+            {
+                "text": "Inbox",
+                "isCorrect": false
+            },
+            {
+                "text": "Reply",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để mở thêm một cửa sổ trình duyệt Microsoft Edge, ta thực hiện lệnh:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Ctrl + B",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + L",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + N",
+                "isCorrect": true
+            },
+            {
+                "text": "Alt + F4",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để gửi kèm một tệp với thư điện tử, bạn chọn nút nào? ",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Attach files",
+                "isCorrect": true
+            },
+            {
+                "text": "Inbox",
+                "isCorrect": false
+            },
+            {
+                "text": "Reply",
+                "isCorrect": false
+            },
+            {
+                "text": "Compose",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để đóng cửa sổ hiện hành của trình duyệt Microsoft Edge, ta thực hiện lệnh:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Ctrl + B",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + L",
+                "isCorrect": false
+            },
+            {
+                "text": "Alt + F4",
+                "isCorrect": true
+            },
+            {
+                "text": "Ctrl + N",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để có được trang Web trên Internet cho người khác truy cập vào thì cần phải có:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Một tên miền truy cập (hay domain) hoặc IP máy chủ",
+                "isCorrect": false
+            },
+            {
+                "text": "Một máy chủ là nơi để chứa nội dung trang Web, hay còn gọi là hosting",
+                "isCorrect": false
+            },
+            {
+                "text": "Kết nối tên miền đến máy chủ hosting chứa trang Web",
+                "isCorrect": false
+            },
+            {
+                "text": "Cả 3 điều kiện trên",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để chuyển tiếp thư tới người khác, bạn sử dụng nút nào? ",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Forward",
+                "isCorrect": true
+            },
+            {
+                "text": "Reply",
+                "isCorrect": false
+            },
+            {
+                "text": "Compose",
+                "isCorrect": false
+            },
+            {
+                "text": "Attach files",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Dịch vụ thư điện tử được dùng để làm gì? ",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Hội thoại trực tuyến",
+                "isCorrect": false
+            },
+            {
+                "text": "Trao đổi thư thông qua môi trường Internet",
+                "isCorrect": true
+            },
+            {
+                "text": "Trao đổi thông tin trực tuyến",
+                "isCorrect": false
+            },
+            {
+                "text": "Tìm kiếm thông tin",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Dịch vụ Ineternet được chính thức cung cấp tại Việt Nam vào năm nào?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "1986",
+                "isCorrect": false
+            },
+            {
+                "text": "1990",
+                "isCorrect": false
+            },
+            {
+                "text": "1997",
+                "isCorrect": true
+            },
+            {
+                "text": "2000",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Chương trình được sử dụng để truy cập các trang Web được gọi là gì?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Trình duyệt Web",
+                "isCorrect": true
+            },
+            {
+                "text": "Bộ duyệt Web",
+                "isCorrect": false
+            },
+            {
+                "text": "Chương trình xem Web",
+                "isCorrect": false
+            },
+            {
+                "text": "Phần mềm xem Web",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Cách nhận thư điện tử đã đọc và thư điện tử chưa đọc trong hộp thư đến (Inbox) là gì? ",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Thư đã đọc in đậm, thư chưa đọc in thường",
+                "isCorrect": false
+            },
+            {
+                "text": "Thư đã đọc in đậm, thư chưa đọc in nghiêng",
+                "isCorrect": false
+            },
+            {
+                "text": "Thư đã đọc in thường, thư chưa đọc in đậm",
+                "isCorrect": true
+            },
+            {
+                "text": "Thư đã đọc in nghiêng, thư chưa đọc in đậm",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Bạn sẽ làm gì nếu muốn tìm kiếm trả về các kết quả chứa nội dung tìm kiếm chính xác?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Đặt nội dung tìm kiếm trong nháy đơn",
+                "isCorrect": false
+            },
+            {
+                "text": "Đặt nội dung tìm kiếm trong ngoặc tròn",
+                "isCorrect": false
+            },
+            {
+                "text": "Đặt nội dung tìm kiếm trong ngoặc vuông",
+                "isCorrect": false
+            },
+            {
+                "text": "Đặt nội dung tìm kiếm trong dấu nháy kép",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    }
+]

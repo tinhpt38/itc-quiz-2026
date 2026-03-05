@@ -1,0 +1,266 @@
+WWW là viết tắt của? 
+A. World Wide Web
+B. Word Wide Wed
+C. Word Wide Website
+D. Word Wild Web
+ANSWER:A
+
+Ưu điểm của hệ thống thư điện tử là:
+A. Có thể gửi cho nhiều người cùng lúc, tiết kiệm thời gian và chi phí
+B. Có thể nhận thư điện tử mà không cần kết nối internet
+C. Độ bảo mật cao
+D. Có thể gửi kèm nhiều loại tài liệu với dung lượng không hạn chế
+ANSWER:A
+
+Ứng dụng của internet là:
+A. Học qua mạng
+B. Trao đổi thông tin qua thư điện tử
+C. Mua bán qua mạng
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Trong trình duyệt Microsoft Edge, để lưu một bức ảnh về máy tính, ta làm như sau:
+A. Nhấn chuột phải vào ảnh, chọn Save Image As
+B. Kích đúp vào ảnh rồi chọn Download
+C. Chọn Tools/ Save Picture As
+D. Nhấn chuột phải vào ảnh, chọn Copy Image
+ANSWER:A
+
+Trong Microsoft Edge, để nạp lại trang web hiện đang mở, ta thực hiện:
+A. Nhấn nút Home
+B. Nhấn phím F5
+C. Nhấn Alt + R
+D. Nhấn Alt + F4
+ANSWER:B
+
+Trong các câu sau đây, câu nào sai? 
+A. Thương mại điện tử giúp doanh nghiệp giảm chi phí và tăng hiệu quả trong quảng cáo
+B. Thương mại điện tử giúp doanh nghiệp vươn ra thị trường thế giới
+C. Thương mại điện tử hoàn toàn độc lập với các hoạt động thương mại truyền thống
+D. Thương mại điện tử là một khái niệm mới mẻ ở Việt Nam
+ANSWER:C
+
+Trang web nào cho phép đọc hay gửi thư điện tử:
+A. www.edu.net.vn
+B. mail.google.com
+C. www.mail.com .
+D. www.email.com
+ANSWER:B
+
+Trang tìm kiếm Google có thể cho ra kết quả tìm kiếm theo? 
+A. Hình ảnh
+B. Video
+C. Website
+D. Tất cả các đáp án đều đúng
+ANSWER:D
+
+Phát biểu nào dưới đây là đúng về tường lửa:
+A. Tường lửa (Firewall) là một kỹ thuật được tích hợp vào hệ thống mạng để chống sự truy cập trái phép
+B. Tường lửa (Firewall) là một kỹ thuật được tích hợp vào hệ thống mạng để nhằm bảo vệ các nguồn thông tin nội bộ
+C. Tường lửa (Firewall) là một kỹ thuật được tích hợp vào hệ thống mạng để hạn chế sự xâm nhập không mong muốn vào hệ thống
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Phát biểu nào dưới đây là đúng về FileZilla Client:
+A. FileZilla Client là chương trình hỗ trợ truyền tải tập tin thông qua mạng Internet sử dụng giao thức FTP (File Transfer Protocol)
+B. FileZilla Client là chương trình miễn phí, có giao diện thân thiện, dễ sử dụng và tốc độ nhanh nên được nhiều người sử dụng
+C. FileZilla Client là giải pháp dùng để truyền tải dữ liệu giữa máy tính cá nhân và các máy chủ web
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Phát biểu nào dưới đây là đúng về Banner:
+A. Banner là nội dung được trình bày trong một giới hạn kích thước (nội dung có thể là tĩnh hoặc động)
+B. Banner nhằm giới thiệu, thu hút người dùng internet chú ý đến
+C. Trong phương diện internet, banner là hình thức quảng cáo rất phổ biến trên các trang web hiện nay
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Phát biểu nào dưới đây là đúng đối với trình duyệt Opera?
+A. Opera là một hệ điều hành
+B. Opera là một trình duyệt web
+C. Opera là một phần mềm trò chuyện trực tuyến
+D. Opera là hệ quản trị cơ sở dữ liệu
+ANSWER:B
+
+"Offline" có nghĩa là:
+A. Đang tải
+B. Không tải
+C. Trực tuyến
+D. Ngoại tuyến
+ANSWER:D
+
+Nút Home trên trang web có nghĩa là
+A. Đi đến trang trước
+B. Đi đến trang chủ
+C. Đi đến nhà
+D. Không có ý nghĩa gì, chỉ để trang trí
+ANSWER:B
+
+Nội dung các trang tin cá nhân (blog) bao gồm những loại dữ liệu gì? 
+A. Chỉ chứa văn bản
+B. Chỉ chứa hình ảnh
+C. Đa phương tiện
+D. Chỉ chứa video, ảnh động
+ANSWER:C
+
+Mục đích chính của việc đưa ra tên miền?
+A. Dễ nhớ
+B. Tên miền đẹp hơn địa chỉ IP
+C. Thiếu địa chỉ IP
+D. Tên miền dễ xử lý bởi máy tính hơn
+ANSWER:A
+
+Một người đang sử dụng dịch vụ thư điện tử miễn phí của Gmail. Địa chỉ nào dưới đây được viết đúng? 
+A. dalatspecial01@gmail.com
+B. dalatspecial01
+C. dalatspecial01@gmail
+D. gmail.com@ dalatspecial01
+ANSWER:A
+
+Khi bạn di chuyển con trỏ qua một liên kết trên trang web, mũi tên của con trỏ sẽ biến thành:
+A. Hình bàn tay
+B. Hình con chuột
+C. Hình chữ thập
+D. Hình mũi tên
+ANSWER:A
+
+HTTP là gì? 
+A. Là giao thức truyền tải siêu văn bản
+B. Là ngôn ngữ để soạn thảo nội dung các trang Web
+C. Là tên của trang Web
+D. Là địa chỉ của trang Web
+ANSWER:A
+
+Hãy chọn phát biểu đúng:
+A. Diễn đàn trực tuyến, hay được gọi là forum
+B. Forum là nơi để cho người dùng Internet trao đổi thảo luận
+C. Forum là nơi để cho người dùng Internet hỏi đáp
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Hãy chọn phát biểu đúng:
+A. Mạng xã hội, hay gọi là mạng xã hội ảo
+B. Mạng xã hội có Tiếng Anh là social network
+C. Facebook là mạng xã hội nối kết các thành viên cùng sở thích trên Internet lại với nhau với nhiều mục đích khác nhau không phân biệt không gian và thời gian.
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Điều nào sau đây là lợi thế của thư điện tử so với thư tín gửi qua đường bưu điện:
+A. Có thể chuyển được lượng văn bản lớn hơn với chức năng gắn kèm
+B. Thư điện tử luôn có độ an toàn dữ liệu cao hơn
+C. Tốc độ chuyển thư nhanh
+D. Thư điện tử luôn luôn được phân phát
+ANSWER:C
+
+Để xem một trang Web, ta cần gõ địa chỉ của trang đó vào đâu?
+A. Thanh địa chỉ của trình duyệt
+B. Thanh công cụ chuẩn của trình duyệt
+C. Thanh liên kết của trình duyệt
+D. Thanh trạng thái của trình duyệt
+ANSWER:A
+
+Để xem lại lịch sử duyệt web ta dùng tổ hợp phím trên trình duyệt Microsoft Edge 
+A. Ctrl + L
+B. Ctrl + H
+C. Ctrl + P
+D. Ctrl + M
+ANSWER:B
+
+Để truy cập vào một website ta phải biết:
+A. Website đó được đặt tại đâu
+B. Tên miền của website đó
+C. IP của của máy chủ chứa website đó
+D. Địa chỉ nhà của website đó
+ANSWER:B
+
+Để truy cập vào một trang Web chúng ta cần phải biết: 
+A. Hệ điều hành đang sử dụng
+B. Trang web đó của nước nào
+C. Trang web đó đặt ở đâu
+D. Địa chỉ của trang web
+ANSWER:D
+
+Để truy cập Internet, người ta dùng chương trình nào sau đây?
+A. Microsoft Word
+B. Microsoft Excel
+C. Mozilla FireFox
+D. Wordpad
+ANSWER:C
+
+Để soạn một thư điện tử mới, bạn chọn nút nào? 
+A. Compose
+B. Attach files
+C. Inbox
+D. Reply
+ANSWER:A
+
+Để mở thêm một cửa sổ trình duyệt Microsoft Edge, ta thực hiện lệnh:
+A. Ctrl + B
+B. Ctrl + L
+C. Ctrl + N
+D. Alt + F4
+ANSWER:C
+
+Để gửi kèm một tệp với thư điện tử, bạn chọn nút nào? 
+A. Attach files
+B. Inbox
+C. Reply
+D. Compose
+ANSWER:A
+
+Để đóng cửa sổ hiện hành của trình duyệt Microsoft Edge, ta thực hiện lệnh:
+A. Ctrl + B
+B. Ctrl + L
+C. Alt + F4
+D. Ctrl + N
+ANSWER:C
+
+Để có được trang Web trên Internet cho người khác truy cập vào thì cần phải có:
+A. Một tên miền truy cập (hay domain) hoặc IP máy chủ
+B. Một máy chủ là nơi để chứa nội dung trang Web, hay còn gọi là hosting
+C. Kết nối tên miền đến máy chủ hosting chứa trang Web
+D. Cả 3 điều kiện trên
+ANSWER:D
+
+Để chuyển tiếp thư tới người khác, bạn sử dụng nút nào? 
+A. Forward
+B. Reply
+C. Compose
+D. Attach files
+ANSWER:A
+
+Dịch vụ thư điện tử được dùng để làm gì? 
+A. Hội thoại trực tuyến
+B. Trao đổi thư thông qua môi trường Internet
+C. Trao đổi thông tin trực tuyến
+D. Tìm kiếm thông tin
+ANSWER:B
+
+Dịch vụ Ineternet được chính thức cung cấp tại Việt Nam vào năm nào?
+A. 1986
+B. 1990
+C. 1997
+D. 2000
+ANSWER:C
+
+Chương trình được sử dụng để truy cập các trang Web được gọi là gì?
+A. Trình duyệt Web
+B. Bộ duyệt Web
+C. Chương trình xem Web
+D. Phần mềm xem Web
+ANSWER:A
+
+Cách nhận thư điện tử đã đọc và thư điện tử chưa đọc trong hộp thư đến (Inbox) là gì? 
+A. Thư đã đọc in đậm, thư chưa đọc in thường
+B. Thư đã đọc in đậm, thư chưa đọc in nghiêng
+C. Thư đã đọc in thường, thư chưa đọc in đậm
+D. Thư đã đọc in nghiêng, thư chưa đọc in đậm
+ANSWER:C
+
+Bạn sẽ làm gì nếu muốn tìm kiếm trả về các kết quả chứa nội dung tìm kiếm chính xác?
+A. Đặt nội dung tìm kiếm trong nháy đơn
+B. Đặt nội dung tìm kiếm trong ngoặc tròn
+C. Đặt nội dung tìm kiếm trong ngoặc vuông
+D. Đặt nội dung tìm kiếm trong dấu nháy kép
+ANSWER:D
+

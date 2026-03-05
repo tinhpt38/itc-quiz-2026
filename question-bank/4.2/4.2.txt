@@ -1,0 +1,280 @@
+Xóa biểu đồ khỏi trang tính thực hiện:
+A. Chọn Biểu đồ → nhấn phím Delete
+B. Click phải chuột → chọn Move chart
+C. Chọn menu Home, nhấn nút Clear
+D. Click phải chuột → Copy
+ANSWER:A
+
+Tùy chọn Copies trong hộp thoại Print của bảng tính có chức năng gì?
+A. Chọn trang in
+B. Chọn máy in
+C. Chọn số lượng bản in
+D. Chọn kiểu in dọc hay in ngang
+ANSWER:C
+
+Trong Microsoft Excel, cách nào để mở một tệp Excel đã có trên máy tính?
+A. Ctrl + O
+B. Ctrl + M
+C. Ctrl + N
+D. Ctrl + W
+ANSWER:A
+
+Trong Microsoft Excel phương án nào dưới đây là địa chỉ không hợp lệ?
+A. $A12
+B. $A$12
+C. A12$
+D. A12
+ANSWER:C
+
+Tổ hợp phím tắt nào cho phép thực hiện hủy thao tác và khôi phục thao tác khi thực hiện với bảng tính?
+A. Ctrl+Z và Ctrl+Y
+B. Ctrl+X và Ctrl+V
+C. Ctrl+Z và Ctrl+R
+D. Ctrl+G và Ctrl+H
+ANSWER:A
+
+Tổ hợp phím Shift + một trong bốn phím mũi tên thực hiện chức năng gì?
+A. Di chuyển con trỏ
+B. Không thực hiện chức năng nào
+C. Xóa dữ liệu
+D. Bôi đen (Chọn)
+ANSWER:D
+
+Tổ hợp phím nào dùng để di chuyển biểu đồ từ bảng tính này sang bảng tính khác?
+A. Ctrl + Shift + K
+B. Ctrl + X
+C. Shift + F3
+D. Ctrl + Shift + F3
+ANSWER:B
+
+Phát biểu tùy chọn hộp thoại Paste Special nào sau đây là sai?
+A. Mục None: Không kèm theo việc tính toán nào trên dữ liệu sắp dán vào
+B. Mục Add: Cộng các giá trị của vùng nguồn vào các ô tương ứng ở vùng đích
+C. Mục Subtract: Các ô mang giá trị của vùng nguồn sẽ trừ đi các ô tương ứng của vùng đích
+D. Multiply: Các ô mang giá trị của vùng đích sẽ nhân với các ô tương ứng của vùng nguồn
+ANSWER:C
+
+Nếu thí sinh có điểm thi từ 5 điểm trở lên thì được xếp loại Đạt, ngược lại nếu dưới 5 điểm thì xếp loại Không đạt. Công thức nào dưới đây thể hiện điều này (Giả sử ô G6 chứa điểm thi)
+A. =IF(G6<5,"Không đạt","Đạt")
+B. =IF(G6>=5,"Đạt") ELSE ("Không đạt")
+C. =IF(G6=<5,"Đạt", "Không đạt")
+D. REF!
+ANSWER:A
+
+Muốn tính tổng của vùng E2:E8 với điều kiện là "Computer" trong vùng dữ liệu A2:A8, ta có công thức:
+A. =SUMIF(E2:E8, A2:A8, "Computer")
+B. =SUMIF(A2:A8, "Computer", E2:E8)
+C. =SUMIF(A2:A8, E2:E8, "Computer")
+D. =SUMIF("Computer", A2:A8, E2:E8)
+ANSWER:B
+
+Khi muốn lặp lại việc in tiêu đề cột ở mỗi trang in trong bảng tính, ta cần thực hiện như thế nào?
+A. Trong Excel luôn mặc định sẵn khi in lặp lại tiêu đề
+B. Vào thẻ File, chọn mục Page Setup, chọn thẻ Sheet, tích vào mục Row and column headings
+C. Sẽ cài đặt trong hộp thoại Print khi chọn lệnh in
+D. Không có chức năng này trong bảng tính Excel
+ANSWER:B
+
+Khi gõ công thức xong, rồi nhấn Enter, kết quả trả về là #REF!. Điều đó có nghĩa là gì?
+A. Không tìm thấy tên hàm
+B. Không tìm thấy giá trị
+C. Không tìm thấy giá trị tham chiếu
+D. Tập hợp rỗng
+ANSWER:C
+
+Khi dữ liệu trên một ô chuyển thành dãy các ký hiệu dấu ##### cho ta biết điều gì?
+A. Tên hàm trong công thức bị sai
+B. Xảy ra lỗi khi tham chiếu dữ liệu
+C. Độ rộng của cột không đủ rộng để hiển thị
+D. Địa chỉ tham chiếu không có thực
+ANSWER:C
+
+Khi dán dữ liệu sử dụng hộp thoại Paste Special, nếu chọn mục Formats thì Excel sẽ thực hiện:
+A. Dán toàn bộ dữ liệu, định dạng của vùng nguồn
+B. Chỉ dán giá trị và công thức, không dán định dạng của vùng nguồn
+C. Chỉ dán định dạng, không dán giá trị và công thức của vùng nguồn
+D. Không dán công thức, chỉ dán giá trị và định dạng của vùng nguồn
+ANSWER:C
+
+Khi dán dữ liệu sử dụng hộp thoại Paste Special, nếu chọn mục Formulas thì kết quả:
+A. Chỉ dán giá trị và công thức, không dán định dạng
+B. Chỉ dán giá trị và kết quả của công thức, không dán định dạng
+C. Chỉ dán vào định dạng, bỏ qua tất cả giá trị và công thức
+D. Dán cả giá trị và định dạng của vùng nguồn
+ANSWER:A
+
+Hãy cho biết hàm dò tìm là hàm nào?
+A. VLOOKUP
+B. PRODUCT
+C. SUMIF
+D. COUNTA
+ANSWER:A
+
+Giải thích về kiểu đường viền trong phần Preset dùng để áp dụng cho thao tác chọn vùng ô:
+A. None: Vùng ô đó không có đường viền
+B. Outline: Vùng ô đó chỉ có đường viền ngoài
+C. Inside: Vùng ô đó chỉ có đường kẻ bên trong
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Để xem tài liệu của bảng tính trước khi in ra giấy, ta chọn lệnh nào?
+A. Print Demo
+B. Print Preview
+C. Print Test
+D. Print Layout
+ANSWER:B
+
+Để thêm, sửa xóa nội dung Header/ Footer của trang tính thực hiện:
+A. Vào Insert/ Text / Header & Footer
+B. Vào Insert/ Text Box
+C. Vào Insert / Header
+D. Vào Insert/ Text / Text Box
+ANSWER:A
+
+Để thêm tiêu đề cho biểu đồ trong Chart Elements chọn:
+A. Axes
+B. Axis Title
+C. Chart Title
+D. Data Table
+ANSWER:C
+
+Để thêm tiêu đề các trục của biểu đồ trong Chart Elements chọn:
+A. Axes
+B. Axis Title
+C. Chart Title
+D. Data Table
+ANSWER:B
+
+Để thay đổi màu cột dữ liệu trong biểu đồ thực hiện:
+A. Click chuột phải và chọn Fill
+B. Click chuột phải và chọn Outline
+C. Click chuột phải và chọn Change series chart type
+D. Click chuột phải và chọn Select data
+ANSWER:A
+
+Để thay đổi lề trang cho bảng tính, ta thực hiện thao tác như thế nào?
+A. Chọn Page Layout/ nhóm Page Setup/ Customs
+B. Chọn Page Design/ nhóm Page Setup/ Margins
+C. Chọn Design/ nhóm Page Setup/ Customs
+D. Chọn Page Layout/ nhóm Page Setup/ Margins
+ANSWER:D
+
+Để thay đổi kiểu biểu đồ (ví dụ đang là biểu đồ hình cột chuyển sang biểu đồ hình tròn), ta chọn tùy chọn?
+A. Thẻ Design/ nhóm Type/ Change Chart Styles
+B. Thẻ Design/ nhóm Design/ Change Chart Type
+C. Thẻ Design/ nhóm Design/ Change Chart Styles
+D. Thẻ Design/ nhóm Type/ Change Chart Type
+ANSWER:D
+
+Để tạo biểu đồ, ta thực hiện thao tác:
+A. Thẻ Home/ nhóm Charts
+B. Thẻ Insert/ nhóm Charts
+C. Thẻ Page Layout/ nhóm Charts
+D. Thẻ Data/ nhóm Charts
+ANSWER:B
+
+Để sao chép định dạng từ một ô/ dãy ô tới một ô khác/dãy ô khác ta thực hiện:
+A. Insert\Clipboard\Format Paint
+B. Page Layout\Clipboard\Format Paint
+C. Home\Clipboard\Format Paint
+D. Data\Clipboard\Format Paint
+ANSWER:C
+
+Để sao chép định dạng từ một ô, một dãy ô đến ô khác, dãy ô khác ta có thể dùng chức năng nào của Excel:
+A. Dùng Format Painter
+B. Dùng Paste Special
+C. Dùng Paste
+D. Dùng Copy as Picture…
+ANSWER:A
+
+Để lọc tách và tô màu các dữ liệu thỏa mãn một điều kiện nào đó, ta thực hiện lệnh:
+A. Filter
+B. Sort
+C. Advanced Filter
+D. Conditional Formatting
+ANSWER:D
+
+Để in một trang bảng tính nằm ngang hoặc thẳng đứng, ta chọn thao tác nào?
+A. Vào Web Page Preview - Chọn kiểu đứng hoặc nằm ngang
+B. Vào Borders and Shading - Chọn kiểu đứng hoặc nằm ngang
+C. Vào Page Setup - Chọn kiểu đứng hoặc nằm ngang
+D. Vào Page Number - Chọn kiểu đứng hoặc nằm ngang
+ANSWER:C
+
+Để định dạng được màu khác nhau đối với nội dung ô, nền của ô ta chọn công cụ nào sau đây:
+A. Format as Table
+B. Cell Style
+C. Conditional Formatting
+D. Format Cell
+ANSWER:C
+
+Để định dạng các thành phần như: số thập phân, tỷ lệ phần trăm, đơn vị tiền tệ, kiểu ngày tháng ta thực hiện thao tác như thế nào sau khi đã chọn khối ô cần định dạng?
+A. Nhấp chuột phải -> Format Cells
+B. Nhấp chuột phải -> Format Cells/ Alignment
+C. Nhấp chuột phải -> Format Cells/ Number/ General
+D. Nhấp chuột phải ->Format Cells/ Number/ Custom
+ANSWER:D
+
+Để di chuyển vùng dữ liệu từ nơi này sang nơi khác ta nhấn:
+A. Ctrl + P
+B. Ctrl + V
+C. Ctrl + C
+D. Ctrl + X
+ANSWER:D
+
+Để chèn số trang vào nội dung Footer của trang tính thực hiện:
+A. Trong phần Footer chọn nút Insert Date
+B. Trong phần Footer chọn nút Insert Time
+C. Trong phần Footer chọn nút Insert Page number
+D. Trong phần Footer chọn nút Insert File Name
+ANSWER:C
+
+Để chèn giờ vào nội dung Footer của trang tính thực hiện:
+A. Trong phần Footer chọn nút Insert Date
+B. Trong phần Footer chọn nút Insert Time
+C. Trong phần Footer chọn nút Insert Page number
+D. Trong phần Footer chọn nút Insert Number of pages
+ANSWER:B
+
+Để biểu diễn số liệu dạng phần trăm, sử dụng biểu đồ kiểu nào dưới đây là hợp lý nhất từ hộp thoại Chart Wizard?
+A. Biểu đồ cột đứng (Column)
+B. Biểu đồ phân tán XY (XY Scatter)
+C. Biểu đồ dạng quạt tròn (Pie)
+D. Biểu đồ đường gấp khúc (Line)
+ANSWER:C
+
+Chọn phát biểu đúng về các tùy chọn trong định dạng dữ liệu có điều kiện (Conditional Formatting)
+A. Data Bars: vùng dữ liệu sẽ xuất hiện cột màu đánh giá mức độ dữ liệu. Cột màu càng dài thì số liệu của bạn càng có giá trị cao, ngược lại là những ô giá trị thấp
+B. Color Scales: kiểu đánh giá này sẽ tô màu cho các ô dữ liệu theo 3 màu khác nhau, ứng với mỗi màu là mức độ thấp, trung bình và mức độ cao. Đồng thời có thể tạo quy luật màu theo ý thích bằng cách chọn Color Scales > More Rules
+C. Icon Sets: bấm chọn Icon Sets, chọn một nhóm biểu tượng mong muốn, chương trình sẽ tự động đặt các biểu tượng trước ô dữ liệu
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Cách hiển / ẩn ô lưới trong Excel:
+A. Vào thẻ View - Ruler
+B. Vào thẻ View - Gridlines
+C. Vào thẻ View - Headings
+D. Vào thẻ View – Formulas bar
+ANSWER:B
+
+Biểu đồ được liên kết với dữ liệu của nó trong bảng tính, do đó khi thay đổi dữ liệu của nó trong bảng tính thì lập tức biểu đồ sẽ:
+A. Thay đổi tương ứng theo
+B. Không thay đổi tương ứng theo
+C. Thay đổi khi nhấn Ctrl+S
+D. Chỉ thay đổi một lần đầu
+ANSWER:A
+
+Bạn đã bôi đen một nhóm cột trong Excel 2019. Để thay đổi độ rộng nhóm cột đó ta làm như thế nào?
+A. Nhấp chuột phải và chọn row height
+B. Nhấp chuột phải và chọn column width
+C. Nhấp chuột phải và chọn format cells
+D. Nhấp chuột phải và chọn hide
+ANSWER:B
+
+Bạn đã bôi đen một hàng trong Excel. Lệnh nào sau đây cho phép chèn thêm một hàng vào phía trên hàng đã chọn trong bảng tính?
+A. Nhấp chuột phải và chọn insert -> Shift cells down
+B. Nhấp chuột phải và chọn delete
+C. Nhấp chuột phải và chọn clear contents
+D. Nhấp chuột phải và chọn hide
+ANSWER:A
+

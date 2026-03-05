@@ -1,0 +1,280 @@
+Một máy tính phải xử lý được các phép toán cơ bản nào?
+A. Cộng, trừ
+B. Nhân, chia
+C. Cộng, trừ, nhân, chia
+D. Cộng, nhân
+ANSWER:C
+
+URL chứa những thành phần nào?
+A. Giao thức
+B. World Wide Web
+C. Tên miền
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+URL (Uniform Resource Locator) là gì?
+A. Tham chiếu tài nguyên trên Internet
+B. Đường dẫn đến một website trên Internet
+C. Là địa chỉ của tài nguyên trên Internet
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Trong mạng máy tính, thuật ngữ Share có ý nghĩa gì?
+A. Chia sẻ tài nguyên
+B. Nhãn hiệu của một thiết bị kết nối mạng
+C. Thực hiện lệnh in trong mạng cục bộ
+D. Một phần mềm hỗ trợ sử dụng mạng cục bộ
+ANSWER:A
+
+Trang chủ là gì?
+A. Là trang đầu tiên khi người dùng truy cập vào website
+B. Tập các trang web liên quan đến nhau
+C. Địa chỉ của website
+D. Là trang thông tin có chứa nội dung dạng văn bản, chữ số
+ANSWER:A
+
+Thuật ngữ mua và bán hàng qua mạng Internet là gì?
+A. Hệ thống điện tử ( E-System)
+B. Mạng điện tử (E- Network)
+C. Thương mại điện tử ( E-Commerce)
+D. Thương mại Internet ( I- Commerce)
+ANSWER:C
+
+Thiết bị xuất để đưa ra kết quả đã xử lý cho người sử dụng. Các thiết bị xuất thông dụng hiện nay là?
+A. Màn hình, màn hình cảm ứng, máy in, loa, tai nghe
+B. Màn hình, ổ cứng
+C. Máy in, ổ mềm
+D. Màn hình, ổ mềm
+ANSWER:A
+
+Thiết bị ngoại vi của máy tính là thiết bị nào?
+A. Máy in
+B. Máy nghe nhạc Mp3
+C. Máy tính bảng
+D. Sách điện tử
+ANSWER:A
+
+Thiết bị nào thực hiện thao tác xuất ra dữ liệu trong số các thiết bị sau: Màn hình, máy in, bàn phím, máy chiếu, ổ đĩa mềm, chuột, loa, máy quét?
+A. Màn hình, Máy in, máy chiếu, loa
+B. Bàn phím, chuột, máy quét, máy in
+C. Máy in, màn hình, máy quét, chuột
+D. Màn hình, ổ đĩa cứng, ổ đĩa mềm, bàn phím
+ANSWER:A
+
+Thiết bị nào thực hiện thao tác nhập dữ liệu trong số các thiết bị sau: Màn hình, máy in, máy vẽ, bàn phím, ổ đĩa cứng, ổ đĩa mềm, chuột, loa, máy quét?
+A. Bàn phím, chuột, máy quét
+B. Máy in, màn hình, máy quét, chuột
+C. Máy vẽ, ổ đĩa cứng, ổ đĩa mềm, bàn phím
+D. Máy quét, Loa, chuột, màn hình
+ANSWER:A
+
+Thiết bị nào sau đây dùng xử lý tính toán?
+A. Bàn phím
+B. Màn hình
+C. Ram
+D. CPU
+ANSWER:D
+
+Thiết bị nào sau đây dùng lưu trữ chương trình máy tính đang thực thi?
+A. Đĩa cứng
+B. Ram
+C. CPU
+D. Màn hình
+ANSWER:B
+
+Thiết bị nào không thể thiếu trong một máy tính?
+A. CPU
+B. Ổ đĩa mềm
+C. Ổ đĩa CD
+D. Máy in
+ANSWER:A
+
+Thiết bị lưu trữ nào thích hợp cho việc lưu trữ và khôi phục thông tin:
+A. DVD-ROM
+B. CD-ROM
+C. RAM
+D. USB
+ANSWER:D
+
+Phần mềm ứng dụng là gì?
+A. Là chương trình được viết ra cho một hay nhiều mục đích khác nhau
+B. Là hệ điều hành
+C. Là cơ sở dữ liệu
+D. Là dữ liệu
+ANSWER:A
+
+Phần mềm nào gọi phần mềm ứng dụng?
+A. Windows 10
+B. Unix
+C. Microsoft Office
+D. MS-DOS
+ANSWER:C
+
+Phần cứng máy tính là gì?
+A. Các bộ phận cụ thể của máy tính về mặt vật lý như màn hình, chuột, bàn phím,...
+B. Cấu tạo của phần mềm về mặt logic
+C. Cấu tạo của phần mềm về mặt vật lý
+D. Cấu tạo của phần mềm hệ thống
+ANSWER:A
+
+Những thiết bị nào sau đây được xếp vào nhóm thiết bị ngoại vi?
+A. Bàn phím, chuột, màn hình, máy in
+B. Mainboard, CPU, CD-ROM Drive, Chuột
+C. HDD, CD- ROM Drive, FDD, bàn phím
+D. Màn hình, CPU, RAM, Main
+ANSWER:A
+
+Những thành phần nào gọi là phần mềm?
+A. Windows 10
+B. Mainboard, CPU, Ram
+C. CDROM, HDD, Nguồn
+D. Rom, Thanh ghi
+ANSWER:A
+
+Một loại máy tính có màn hình cảm ứng, khi sử dụng người dùng có thể dùng ngón tay để lựa chọn một đối tượng nào đó hoặc có thể nhập thông tin qua bàn phím ảo là máy?
+A. Máy tính bảng
+B. Máy chủ
+C. Máy tính để bàn
+D. Máy tính FX500
+ANSWER:A
+
+Máy tính cũ không còn sử dụng bạn sẽ làm gì để bảo vệ môi trường?
+A. Đem tặng
+B. Nâng cấp
+C. Biến thành máy chủ để in, chia sẻ tệp tin hay máy chủ web
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Khi sử dụng máy tính, ghế ngồi đúng tư thế như thế nào?
+A. Điều chỉnh chiều cao của bàn và ghế cho phù hợp để cánh tay khi đặt bàn tay lên gõ phím bấm sẽ tạo thành một góc vuông ở khuỷu tay trong khi ngồi làm việc
+B. Điều chỉnh chiều cao của ghế để gót chân thoải mái đặt trên sàn nhà
+C. Điều chỉnh chỗ lưng ghế tựa để giữ cho thắt lưng thẳng trong khi ngồi trước máy tính
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Khi sử dụng máy tính, tư thế vị trí đúng của tay như thế nào?
+A. Luôn giữ cho cánh tay tạo thành góc vuông ở khuỷu tay trong toàn bộ thời gian sử dụng bàn phím và chuột
+B. Không để lòng bàn tay chạm vào bàn phím trong khi đánh máy
+C. Dùng bàn tay giữ trọn vẹn chuột máy tính trong khi di chuyển nó làm việc
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Khi sử dụng máy tính, vị trí màn hình như thế nào phù hợp với góc nhìn của mắt?
+A. Không đặt màn hình quá gần
+B. Điều chỉnh độ cao màn hình phù hợp
+C. Điều chỉnh độ sáng màn hình phù hợp
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Khi soạn thảo e-mail nếu muốn gởi kèm tập tin thì chọn nút?
+A. Send
+B. Copy
+C. Save
+D. Attach files
+ANSWER:D
+
+Hệ điều hành chạy khi nào?
+A. Sau khi bật máy tính
+B. Khi người sử dụng click chuột
+C. Khi tắt máy
+D. Khi người sử dụng Enter
+ANSWER:A
+
+Hãy chọn nhóm có thiết bị không cùng nhóm với những thiết bị còn lại?
+A. Màn hình, máy in, loa
+B. Màn hình, máy in, bàn phím
+C. Máy in, bàn phím, chuột
+D. Máy in, máy scan, usb
+ANSWER:A
+
+Để máy tính kết nối Internet người ta dùng phương pháp nào?
+A. Kết nối Dial-up
+B. Kết nối ADSL
+C. Kết nối không dây
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Đầu nối nào cho phép máy in có thể kết nối với máy tính:
+A. USB
+B. PS2
+C. Com
+D. Vga
+ANSWER:A
+
+Đâu là thiết bị lưu trữ dữ liệu?
+A. USB
+B. Máy in
+C. Webcam
+D. Cần điểu khiển
+ANSWER:A
+
+Đâu là một ví dụ của chính sách mật khẩu tốt?
+A. Chọn một mật khẩu có ít hơn 6 mẫu tự
+B. Mật khẩu là ngày tháng năm sinh người sử dụng
+C. Không bao giờ cho người khác biết mật khẩu của bạn
+D. Chỉ thay đổi mật khẩu sau thời gian dài
+ANSWER:C
+
+CPU làm những công việc chủ yếu nào?
+A. Xử lý dữ liệu
+B. Lưu trữ dữ liệu
+C. Nhập dữ liệu
+D. Xuất dữ liệu
+ANSWER:A
+
+Các thiết bị nào thông dụng nhất hiện nay dùng để cung cấp dữ liệu cho máy xử lý?
+A. Bàn phím, Chuột, Máy in
+B. Máy quét ảnh
+C. Bàn phím, Chuột và Máy quét ảnh
+D. Máy quét ảnh, Chuột
+ANSWER:C
+
+Các thiết bị nào có thể thiếu trong một bộ máy tính?
+A. Ổ đĩa mềm
+B. Bộ nguồn
+C. Bộ nhớ RAM
+D. Màn hình
+ANSWER:A
+
+Các thiết bị dùng để nhập dữ liệu vào máy tính là? 
+A. Bàn phím, máy ghi hình trực tiếp, chuột, máy quét
+B. Loa máy tính
+C. Máy fax
+D. Máy in
+ANSWER:A
+
+Các phép toán nào là phép toán logic?
+A. Cộng, trừ
+B. Nhân, chia
+C. And, or, not, xor
+D. Cộng, trừ, nhân, chia
+ANSWER:C
+
+Các mật khẩu nào sau đây là khó phá nhất đối với hacker?
+A. password
+B. 123456
+C. p@ssWord123
+D. h3llo
+ANSWER:C
+
+Các chứng bệnh gây ra cho con người khi sử dụng máy tính là gì?
+A. Giảm thị lực
+B. Mỏi bắp thịt
+C. Đau đầu
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Bộ nhớ trong bao gồm:
+A. Ram, Rom
+B. Đĩa cứng
+C. USB
+D. Đĩa quang
+ANSWER:A
+
+Bộ nhớ ngoài bao gồm:
+A. Ram
+B. Rom
+C. CPU
+D. Đĩa cứng
+ANSWER:D
+

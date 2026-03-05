@@ -1,0 +1,922 @@
+[
+    {
+        "question": "Trong Microsoft Excel, cách nào để đóng một tệp?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Ctrl + F4",
+                "isCorrect": false
+            },
+            {
+                "text": "Alt + F4",
+                "isCorrect": true
+            },
+            {
+                "text": "Shift + F4",
+                "isCorrect": false
+            },
+            {
+                "text": "F4",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Microsoft Excel hàm SUM dùng để làm gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Tìm giá trị lớn nhất trong các giá trị được chọn",
+                "isCorrect": false
+            },
+            {
+                "text": "Tính tổng các giá trị số trong vùng được chọn",
+                "isCorrect": true
+            },
+            {
+                "text": "Tìm giá trị nhỏ nhất trong các giá trị được chọn",
+                "isCorrect": false
+            },
+            {
+                "text": "Tính giá trị trung bình trong các vùng được chọn",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Microsoft Excel hàm nào để tìm số nhỏ nhất trong các giá trị được chọn?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "MINUTE12",
+                "isCorrect": false
+            },
+            {
+                "text": "MIN",
+                "isCorrect": true
+            },
+            {
+                "text": "MINUM",
+                "isCorrect": false
+            },
+            {
+                "text": "MINIMUM",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong khi làm việc với Excel, để nhập vào công thức tính toán cho một ô, trước hết ta phải gõ:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Dấu $",
+                "isCorrect": false
+            },
+            {
+                "text": "Dấu =",
+                "isCorrect": true
+            },
+            {
+                "text": "Dấu ?",
+                "isCorrect": false
+            },
+            {
+                "text": "Dấu :",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel, muốn sao chép định dạng từ một ô, một dãy ô tới ô hoặc dãy ô khác ta thực hiện như thế nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Nhấn chuột vào biểu tượng copy",
+                "isCorrect": false
+            },
+            {
+                "text": "Nhấn chuột vào biểu tượng Format Painter",
+                "isCorrect": true
+            },
+            {
+                "text": "Nhấn chuột vào biểu tượng dán và chọn dán đặc biệt",
+                "isCorrect": false
+            },
+            {
+                "text": "Không thể sao chép định dạng của dòng văn bản",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel, muốn nhờ chương trình giúp đỡ về một vấn đề gì đó, ta nhấn phím:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "F1",
+                "isCorrect": true
+            },
+            {
+                "text": "F2",
+                "isCorrect": false
+            },
+            {
+                "text": "F3",
+                "isCorrect": false
+            },
+            {
+                "text": "F4",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel, hàm HLOOKUP và VLOOKUP thuộc nhóm hàm nào sau đây?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Nhóm hàm thời gian",
+                "isCorrect": false
+            },
+            {
+                "text": "Nhóm hàm dò tìm và tham chiếu",
+                "isCorrect": true
+            },
+            {
+                "text": "Nhóm hàm thống kê",
+                "isCorrect": false
+            },
+            {
+                "text": "Nhóm hàm logic",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel, giả sử ô A1 của bảng tính lưu trị ngày 15/10/1970. Kết quả hàm =MONTH(A1) là bao nhiêu?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "10",
+                "isCorrect": true
+            },
+            {
+                "text": "15",
+                "isCorrect": false
+            },
+            {
+                "text": "#VALUE!",
+                "isCorrect": false
+            },
+            {
+                "text": "1970",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel, để chọn những vùng chứa các ô rời rạc nhau, ta giữ phím:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Ctrl + Shift",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl",
+                "isCorrect": true
+            },
+            {
+                "text": "Shift",
+                "isCorrect": false
+            },
+            {
+                "text": "Tab",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel, để chèn tiêu đề trang (đầu trang và chân trang), ta thực hiện:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Page Layout - Page Setup - Header/Footer",
+                "isCorrect": false
+            },
+            {
+                "text": "Print Preview - Page Setup - Header/Footer",
+                "isCorrect": false
+            },
+            {
+                "text": "View - Page Layout -Header/ Footer",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel, công thức =MAX(30,10,65,5) nhận được kết quả là bao nhiêu?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "110",
+                "isCorrect": false
+            },
+            {
+                "text": "65",
+                "isCorrect": true
+            },
+            {
+                "text": "120",
+                "isCorrect": false
+            },
+            {
+                "text": "135",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel, công thức =COUNT(19,11,4) sẽ trả về kết quả là bao nhiêu?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "19",
+                "isCorrect": false
+            },
+            {
+                "text": "3",
+                "isCorrect": true
+            },
+            {
+                "text": "34",
+                "isCorrect": false
+            },
+            {
+                "text": "0",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel, cho ô A1 có giá trị số 30, ô A2 có giá trị số 35, ô A3 có giá trị số 35. Tại ô A4 thực hiện phép tính: =ROUND(AVERAGE(A1:A3),1). Kết quả tại ô A4 là:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "33.33333",
+                "isCorrect": false
+            },
+            {
+                "text": "33.3",
+                "isCorrect": true
+            },
+            {
+                "text": "34",
+                "isCorrect": false
+            },
+            {
+                "text": "30",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel hàm TODAY() trả về:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Trả về giá trị ngày tháng năm hiện tại của hệ thống",
+                "isCorrect": true
+            },
+            {
+                "text": "Trả về giá trị ngày hiện tại",
+                "isCorrect": false
+            },
+            {
+                "text": "Trả về giá trị tháng hiện tại",
+                "isCorrect": false
+            },
+            {
+                "text": "Trả về giá trị năm hiện tại",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel có các dạng biểu đồ nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Cột",
+                "isCorrect": false
+            },
+            {
+                "text": "Đường",
+                "isCorrect": false
+            },
+            {
+                "text": "Hình tròn",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel biểu thức =SUM(9,1,MAX(3,5,7)) sẽ trả về kết quả là bao nhiêu?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "9",
+                "isCorrect": false
+            },
+            {
+                "text": "10",
+                "isCorrect": false
+            },
+            {
+                "text": "17",
+                "isCorrect": true
+            },
+            {
+                "text": "25",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Excel 2019, để ghép 2 xâu ký tự \"DA\" và \"LAT\" thành xâu ký tự mới là \"DA LAT\", ta sử dụng công thức:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "=\"DA\" + \"LAT\"",
+                "isCorrect": false
+            },
+            {
+                "text": "=\"DA\" & \" \" & \"LAT\"",
+                "isCorrect": true
+            },
+            {
+                "text": "=\"DA\" AND \"LAT\"",
+                "isCorrect": false
+            },
+            {
+                "text": "Không ghép được",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong bảng tính Excel, ô A5 chứa “DAI HOC” và ô B5 chứa “DA LAT”. Để ô D5 cho kết quả là “DAI HOC DA LAT”, ta thực hiện công thức như sau:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "= A5 + “ “ + B5",
+                "isCorrect": false
+            },
+            {
+                "text": "= A5 &“ “& B5",
+                "isCorrect": true
+            },
+            {
+                "text": "= A5 + B5",
+                "isCorrect": false
+            },
+            {
+                "text": "= A5 & B5",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong bảng tính Excel, khối ô là tập hợp nhiều ô kế cận tạo thành hình chữ nhật, địa chỉ khối ô được thể hiện như nào sau đây là đúng?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "B1::H15",
+                "isCorrect": false
+            },
+            {
+                "text": "B1:B1",
+                "isCorrect": false
+            },
+            {
+                "text": "B1-H15",
+                "isCorrect": false
+            },
+            {
+                "text": "B1:H15",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong bảng tính Excel, hàm nào sau đây làm hàm tính tổng các giá trị cho trước:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "SUMIF",
+                "isCorrect": false
+            },
+            {
+                "text": "COUNTIF",
+                "isCorrect": false
+            },
+            {
+                "text": "COUNT",
+                "isCorrect": false
+            },
+            {
+                "text": "SUM",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong bảng tính Excel, công thức =Mid(“m1234”, 2, 3) cho kết quả:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Số 123",
+                "isCorrect": false
+            },
+            {
+                "text": "Chuỗi “123”",
+                "isCorrect": true
+            },
+            {
+                "text": "Số 12",
+                "isCorrect": false
+            },
+            {
+                "text": "Số 23",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong bảng tính Excel, công thức =COUNTA(19,\"S\",\"n01\",\"n02\") sẽ trả về kết quả là bao nhiêu?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "19",
+                "isCorrect": false
+            },
+            {
+                "text": "4",
+                "isCorrect": true
+            },
+            {
+                "text": "3",
+                "isCorrect": false
+            },
+            {
+                "text": "0",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong bảng tính Excel 2019, hàm nào sau đây cho phép đếm các giá trị thỏa mãn một điều kiện cho trước:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "SUMIF",
+                "isCorrect": false
+            },
+            {
+                "text": "COUNTIF",
+                "isCorrect": true
+            },
+            {
+                "text": "COUNT",
+                "isCorrect": false
+            },
+            {
+                "text": "SUM",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Theo mặc định, bảng tính Excel 2019 được lưu với phần mở rộng của tệp là gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "xls",
+                "isCorrect": false
+            },
+            {
+                "text": "xslx",
+                "isCorrect": false
+            },
+            {
+                "text": "xml",
+                "isCorrect": false
+            },
+            {
+                "text": "xlsx",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Nhóm định dạng nào được hỗ trợ trong hộp Format Cells:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Alignment: Nhóm các thao tác căn lề theo cột và theo dòng, định hướng hiển thị dữ liệu…",
+                "isCorrect": false
+            },
+            {
+                "text": "Font: Nhóm các thao tác chọn phông chữ, kiểu chữ, cỡ chữ…",
+                "isCorrect": false
+            },
+            {
+                "text": "Border: Nhóm các thao tác tạo đường viền",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi vào Page Layout/ Page setup để làm gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Chỉnh cỡ giấy khi in",
+                "isCorrect": false
+            },
+            {
+                "text": "Chỉnh hướng giấy in",
+                "isCorrect": false
+            },
+            {
+                "text": "Căn chỉnh lề đoạn văn cần in",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi nhập dữ liệu vào bảng tính Excel thì phát biểu nào sau đây sai?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Dữ liệu kiểu số sẽ mặc định căn lề trái",
+                "isCorrect": true
+            },
+            {
+                "text": "Dữ liệu kiểu ký tự sẽ mặc định căn lề trái",
+                "isCorrect": false
+            },
+            {
+                "text": "Dữ liệu kiểu thời gian sẽ mặc định căn lề phải",
+                "isCorrect": false
+            },
+            {
+                "text": "Dữ liệu kiểu ngày tháng sẽ mặc định căn lề phải",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Hộp thoại Format Cells ngoài việc định dạng các dữ liệu trong Excel thì còn có chức năng gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Định dạng font và hiển thị văn bản trong bảng tính: kiểu chữ, cỡ chữ, đậm, nghiêng, gạch chân",
+                "isCorrect": false
+            },
+            {
+                "text": "Định dạng khunng nền cho bảng tính",
+                "isCorrect": false
+            },
+            {
+                "text": "Định dạng màu nền cho bảng tính và màu cho văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Hàm Month có nghĩa là?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Trả về giá trị là tháng",
+                "isCorrect": true
+            },
+            {
+                "text": "Trả về giá trị là ngày",
+                "isCorrect": false
+            },
+            {
+                "text": "Trả về giá trị là năm",
+                "isCorrect": false
+            },
+            {
+                "text": "Trả về giá trị là giờ",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Excel 2019 là công cụ dùng để:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Tính toán",
+                "isCorrect": true
+            },
+            {
+                "text": "Soạn thảo",
+                "isCorrect": false
+            },
+            {
+                "text": "Trình chiếu",
+                "isCorrect": false
+            },
+            {
+                "text": "Gửi thư",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Excel 2019 hỗ trợ bạn vẽ những kiểu biểu đồ gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Column, Bar, Pie, Line",
+                "isCorrect": false
+            },
+            {
+                "text": "XY, Radar",
+                "isCorrect": false
+            },
+            {
+                "text": "Box & Whisker, Column",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để tách hoặc ghép các ô trong Excel ta thực hiện như thế nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Nhấp chuột vào biểu tượng Format Painter trên thẻ Home",
+                "isCorrect": false
+            },
+            {
+                "text": "Nhấp chuột vào biểu tượng Merge & Center trên thẻ Home",
+                "isCorrect": true
+            },
+            {
+                "text": "Nhấp chuột vào biểu tượng Wrap Text trên thẻ Home",
+                "isCorrect": false
+            },
+            {
+                "text": "Không thực hiện được",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để mở chương trình bảng tính Excel, ta thực hiện thao tác như thế nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Ấn biểu tượng Windows ở góc trái màn hình, tìm chương trình Excel sau đó click mở chương trình",
+                "isCorrect": false
+            },
+            {
+                "text": "Nháy đúp trên một tệp bảng tính bất kì",
+                "isCorrect": false
+            },
+            {
+                "text": "Nháy đúp chuột tại biểu tượng Excel trên màn hình Desktop của Windows",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Đâu là chương trình bảng tính?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Microsoft Excel",
+                "isCorrect": false
+            },
+            {
+                "text": "LibreOffice Calc",
+                "isCorrect": false
+            },
+            {
+                "text": "OpenOffice Calc",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Chọn câu trả lời đúng nhất về bảng tính mẫu (Template) trong Excel:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Template là một bảng tính đã được thiết kế sẵn",
+                "isCorrect": false
+            },
+            {
+                "text": "Sử dụng Template nếu bạn thường xuyên tạo những bảng tính có thiết kế giống nhau (như bảng lương, bảng chấm công, báo giá...)",
+                "isCorrect": false
+            },
+            {
+                "text": "Template lưu lại tất cả: từ cấu trúc, công thức, hàm…của bảng tính",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Các kiểu dữ liệu thông dụng của Excel là gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Kiểu chuỗi, kiểu văn bản, kiểu ngày tháng",
+                "isCorrect": false
+            },
+            {
+                "text": "Kiểu chuỗi, kiểu số, kiểu lôgic, kiểu ngày tháng, kiểu công thức",
+                "isCorrect": true
+            },
+            {
+                "text": "Kiểu số, kiểu lôgic, kiểu ngày tháng",
+                "isCorrect": false
+            },
+            {
+                "text": "Kiểu công thức, kiểu hàm, kiểu số, kiểu ngày tháng",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Các địa chỉ sau đây, địa chỉ nào là địa chỉ tuyệt đối?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "$A$1:$D$10",
+                "isCorrect": true
+            },
+            {
+                "text": "A1:D10",
+                "isCorrect": false
+            },
+            {
+                "text": "A1:$D$10",
+                "isCorrect": false
+            },
+            {
+                "text": "A$1:D$10",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Biểu thức trong Excel có thể có các thành phần nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Các tham số về địa chỉ",
+                "isCorrect": false
+            },
+            {
+                "text": "Các hằng số và toán tử",
+                "isCorrect": false
+            },
+            {
+                "text": "Các hàm",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Bạn hiểu công dụng của việc trình bày dữ liệu dạng bảng tính là gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Cô đọng, dễ hiểu và dễ so sánh, dễ thao tác",
+                "isCorrect": false
+            },
+            {
+                "text": "Thực hiện các nhu cầu về tính toán (tính tổng, trung bình cộng, xác định giá trị lớn nhất, nhỏ nhất, ...)",
+                "isCorrect": false
+            },
+            {
+                "text": "Có thể tạo biểu đồ, phân tích dữ liệu, dự báo từ dữ liệu dạng bảng để đánh giá một cách trực quan, nhanh chóng",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Bạn hiểu chương trình bảng tính là gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Là phần mềm dùng để tính toán dữ liệu số",
+                "isCorrect": false
+            },
+            {
+                "text": "Là phần mềm có thể thực hiện tính toán tự động trên các bảng tính thực hiện bằng tay",
+                "isCorrect": false
+            },
+            {
+                "text": "Là phần mềm vừa tính toán dữ liệu, vừa thực hiện trình bày văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Là phần mềm được thiết kế để giúp ghi lại và trình bày thông tin dưới dạng bảng, thực hiện các tính toán cũng như xây dựng các biểu đồ biểu diễn một cách trực quan các số liệu có trong bảng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    }
+]

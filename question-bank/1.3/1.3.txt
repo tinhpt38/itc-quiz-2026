@@ -1,0 +1,280 @@
+Xử lý thông tin bao gồm các quá trình nào?
+A. Thu nhận, truy xuất, biến đổi, truyền thông, giải thích
+B. Truy xuất, thu nhận, biến đổi, truyền thông, giải thích
+C. Thu nhận, Truy xuất, truyền thông, biến đổi, truyền thông
+D. Truy xuất, biến đổi, truyền thông, giải thích
+ANSWER:A
+
+Web server là gì?
+A. Là máy chủ đặt trang web trên Internet
+B. Là máy tính đang được xem nội dung trang web
+C. Là một dịch vụ Internet
+D. Là máy tính tìm kiếm thông tin
+ANSWER:A
+
+Trong các phát biểu sau về địa chỉ IP sau, phát biểu nào đúng?
+A. Địa chỉ IP cho biết loại máy tính kết nối vào mạng
+B. Mỗi máy tính tham gia mạng Internet phải có một địa chỉ duy nhất được gọi là địa chỉ IP
+C. Các máy tính tham gia vào mạng Internet có thể có cùng địa chỉ IP
+D. Các máy tính tham gia váo mạng Internet không cần địa chỉ IP
+ANSWER:B
+
+Trên bo mạch chủ, chip cầu nam đảm nhiệm liên lạc giữa các thiết bị nào?
+A. Thiết bị nhập, xuất, Rom
+B. Ram, Đĩa cứng
+C. CPU, Ram
+D. Ram, Rom
+ANSWER:A
+
+Trên bo mạch chủ, chip cầu bắc đảm nhiệm liên lạc giữa các thiết bị nào?
+A. CPU, Ram, AGP
+B. Ram, Đĩa cứng
+C. Đĩa cứng, thiết bị nhập, xuất
+D. Ram, Rom
+ANSWER:A
+
+Tốc độ kết nối Internet được tính bằng đơn vị nào?
+A. KB
+B. MB
+C. Gbps
+D. Ghzs
+ANSWER:C
+
+Tốc độ CPU được tính bằng đơn vị?
+A. Ghz
+B. MB
+C. GB
+D. Byte
+ANSWER:A
+
+Thuật ngữ “RAM” là từ viết tắt của cụm từ?
+A. Random Access Memory
+B. Read Access Memory
+C. Recent Access Memory
+D. Read And Modify
+ANSWER:A
+
+Thành phần nào của máy tính có thể ngăn máy tính khởi động, nếu nó bị hư hỏng hoặc kết nối không đúng cách?
+A. Ổ đĩa cứng
+B. Chuột
+C. Bàn phím
+D. Máy in
+ANSWER:A
+
+Tại sao máy tính xách tay có thể rủi ro về an ninh của công ty
+A. Bởi vì chúng dễ bị hỏng hơn máy tính bàn
+B. Bởi vì dữ liệu không được mã hóa
+C. Bởi vì dữ liệu không được bảo vệ bằng phần mềm Virus
+D. Bởi vì người không được phép có thể đọc những thông tin mật nếu như máy tính xách tay bị đánh cắp
+ANSWER:D
+
+ROM là viết tắt của từ gì?
+A. Read Only Memory
+B. Random Only Memory
+C. Read One Memory
+D. Random One Memory
+ANSWER:A
+
+Phát biểu về Trojan nào đúng?
+A. Khi được cài vào máy tính, Trojan tự sao chép trong ổ cứng máy tính và làm đẩy ồ cứng
+B. Khi được cài vào máy tính, Trojan giúp Hacker xâm nhập vào hệ điều hành của người sử dụng
+C. Là loại virus cũ hiện nay không còn sử dụng nữa
+D. Trojan cũng giống như virus tự sao chép vào các chương trình khác
+ANSWER:B
+
+Phát biểu về Worm nào đúng?
+A. Là sâu máy tính làm hỏng phần mềm
+B. Sâu máy tính là phần mềm có giao diện giống phần mềm nó lây vào
+C. Sâu máy tính là kỹ thuật bẻ khóa phần mềm
+D. Sâu máy tính là một phần mềm độc lập có mục đích tự sao chép từ máy này sang máy kia trong môi trường mạng
+ANSWER:D
+
+Phát biểu về virus nào đúng?
+A. Phần lớn virus chạy trên Windows, có rất ít virus cho các hệ điều hành khác
+B. Virus là đoại chương trình được gắn vào một chương trình hay dữ liệu với mục đích kích hoạt để tự sao chép vào các chương trình khác
+C. Những phần mềm diệt virus chỉ diệt được diệt được các virus đã biết
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Phát biểu nào là đúng khi nói đến bộ nhớ RAM và ROM?
+A. Bộ nhớ RAM là bộ nhớ đọc và ghi, trong khi ROM là bộ nhớ chỉ đọc
+B. Bộ nhớ ROM thường được dùng bởi các chương trình ứng dụng để lưu trữ tạm thời. Bộ nhớ RAM được dùng để lưu các file dữ liệu
+C. Bộ nhớ RAM không bị xoá khi máy tính đã tắt. Bộ nhớ ROM bị xoá khi máy tính tắt
+D. RAM và ROM là hai bộ nhớ truy cập ngẫu nhiên
+ANSWER:A
+
+Phát biểu nào là đúng khi nói đến CPU?
+A. CPU là viết tắt của Center Processing Unit, là đơn vị xử lý trung tâm được tích hợp trong một chip được gọi là một vi xử lý, để xử lý dữ liệu và dịch các lệnh của chương trình
+B. CPU được tạo bởi bộ nhớ RAM và ROM
+C. CPU lưu trữ các phần mềm người sử dụng
+D. CPU thường được tích hợp với một chip gọi là vi xử lý
+ANSWER:A
+
+Phần mềm được cài đặt trên:
+A. Đĩa cứng
+B. Ram
+C. Rom
+D. CPU
+ANSWER:A
+
+Nhóm nào sau đây bao gồm các thiết bị được xếp vào cùng loại?
+A. Đĩa cứng, thẻ nhớ, ổ nhớ di động
+B. Đĩa cứng, máy in, thẻ nhớ, ổ nhớ di động
+C. Đĩa cứng, thẻ nhớ, máy scan, ổ nhớ di động
+D. Máy in, máy scan, màn hình, loa
+ANSWER:A
+
+Máy tính xách tay có lợi thế gì hơn so với máy tính để bàn?
+A. Máy tính xách tay có thể mang đi bất kì đâu
+B. Một máy tính xách tay có thể tái sử dụng các thành phần của nó có thể được sử dụng cho máy tính xách tay khác
+C. Sửa máy tính xách tay ít tốn kém hơn
+D. Máy tính xách tay thường có kích thước lớn hơn máy tính để bàn
+ANSWER:A
+
+Mạng WAN là viết tắt của?
+A. Winde Area Network
+B. Wide Area Network
+C. Wide are network
+D. Wide area networks
+ANSWER:B
+
+Mạng WAN dung để kết nối các máy tính
+A. Ở cách nhau một khoảng cách lớn
+B. Cùng một hệ điều hành
+C. Ở gần nhau
+D. Không dùng chung một giao thức
+ANSWER:A
+
+Mạng máy tính được phân thành:
+A. Mạng cục bộ, mạng toàn cục, mạng toàn cầu
+B. Mạng toàn cục, mạng diện rộng, mạng toàn cầu
+C. Mạng cục bộ, mạng diện rộng, mạng toàn cầu
+D. Mạng cục bộ, mạng toàn cục, mạng diện rộng
+ANSWER:C
+
+Mạng LAN dùng để kết nối các máy tính
+A. Ở cách nhau một khoảng cách lớn
+B. Cùng một hệ điều hành
+C. Ở gần nhau
+D. Không dùng chung một giao thức
+ANSWER:C
+
+Khi một tổ chức mua một chương trình phần mềm, thì phần mềm này được cài trên tất cả máy tính nội trong tổ chức đó trong trường hợp nào?
+A. Tổ chức đó dưới 10 nhân viên
+B. Khi có sự đồng ý bản quyền cho phép điều này
+C. Khi chương trình có giá trị dưới 100 nghìn đồng
+D. Khi nó được sử dụng tối đa 3 máy tính
+ANSWER:B
+
+Khi đọc các thông số cấu hình của một máy tính thông thường: 2GHZ-320GB-4.00GB, con số 4.00GB chỉ điều gì?
+A. Chỉ dung lượng bộ nhớ truy cập ngẫu nhiên RAM
+B. Chỉ tốc độ của bộ vi xử lý
+C. Chỉ dung lượng của đĩa cứng
+D. Chỉ dung lượng của bộ nhớ chỉ đọc ROM
+ANSWER:A
+
+Khái niệm hệ điều hành là gì?
+A. Cung cấp và xử lý các phần cứng và phần mềm
+B. Nghiên cứu phương pháp, kỹ thuật xử lý thông tin bằng máy tính điện tử
+C. Nghiên cứu về công nghệ phần cứng và phần mềm
+D. Là một phần mềm chạy trên máy tính, dùng để điều hành, quản lý các thiết bị phần cứng và các tài nguyên phần mềm trên máy tính
+ANSWER:D
+
+Kể tên các loại bộ nhớ trong?
+A. Bộ nhớ truy cập ngẫu nhiên (RAM) và bộ nhớ chỉ đọc (ROM)
+B. Bộ nhớ truy cập ngẫu nhiên (RAM)
+C. Bộ nhớ chỉ đọc (ROM)
+D. Đĩa cứng (Hard disk)
+ANSWER:A
+
+Hệ thống nhớ của máy tính bao gồm:
+A. Bộ nhớ trong, Bộ nhớ ngoài
+B. Cache, Bộ nhớ ngoài
+C. Bộ nhớ ngoài, ROM
+D. Đĩa quang, Bộ nhớ trong
+ANSWER:A
+
+Hệ điều hành nào sau đây là đơn nhiệm?
+A. MS-DOS
+B. Windows XP
+C. Windows 10
+D. Linux
+ANSWER:A
+
+Hệ điều hành là
+A. Phần mềm ứng dụng
+B. Phần mềm hệ thống
+C. Phần mềm tiện ích
+D. Phần mềm cơ sở dữ liệu
+ANSWER:B
+
+Hệ điều hành là gì?
+A. Chương trình trung gian giữa người sử dụng máy tính và phần cứng máy tính
+B. Chương trình quản lý cơ sở dữ liệu
+C. Chương trình quản lý kết nối mạng máy tính
+D. Chương trình soạn thảo văn bản
+ANSWER:A
+
+Hệ điều hành cài đặt trên:
+A. Đĩa cứng
+B. Ram
+C. Rom
+D. CPU
+ANSWER:A
+
+Đơn vị nào sau đây dùng để biểu thị dung lượng thông tin của tập tin?
+A. Bps
+B. Kilobit
+C. Pixel
+D. Byte
+ANSWER:D
+
+Để tiết kiệm năng lượng khi không còn sử dụng máy tính?
+A. Cài đặt chế độ ngủ đông
+B. Hẹn giờ tắt máy
+C. Tắt máy ngay khi kết thúc việc sử dụng máy tính
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+CPU là gì?
+A. Bộ xử lý trung tâm của máy tính
+B. Thiết bị lưu trữ của máy tính
+C. Thiết bị nhập liệu của máy tính
+D. Thiết bị hiển thị của máy tính
+ANSWER:A
+
+Chỉ ra yếu tố không phải lợi ích của Thương mại điện tử
+A. Giảm chi phí, tăng lợi nhuận
+B. Dịch vụ khách hàng tốt hơn
+C. Giao dịch an toàn hơn
+D. Tăng thêm cơ hội mua bán
+ANSWER:C
+
+Cấu trúc chung của máy tính gồm có những khối chức năng nào?
+A. Bộ xử lý trung tâm, bộ nhớ, thiết bị nhập/xuất
+B. Bộ xử lý trung tâm, bộ nhớ
+C. Bộ nhớ, thiết bị nhập/xuất, màn hình
+D. Bộ xử lý trung tâm, bộ nhớ, thiết bị nhập
+ANSWER:A
+
+Cách đặt mật khẩu như thế nào được coi là mạnh, ít bị xâm nhập?
+A. Mật khẩu gồm chữ
+B. Mật khẩu gồm cả chữ và số
+C. Mật khẩu chỉ gồm số
+D. Mật khẩu gồm có chữ, số, các kí tự đặc biệt và ít nhất là 6 kí tự
+ANSWER:D
+
+Các thành phần cơ bản của 1 máy tính?
+A. CPU, các thiết bị lưu trữ, bộ nhớ, các thiết bị nhập và các thiết bị xuất dữ liệu
+B. CPU, các thiết bị lưu trữ, bộ nhớ
+C. CPU, bộ nhớ, các thiết bị nhập dữ liệu
+D. Bộ nhớ, các thiết bị nhập, thiết bị xuất dữ liệu và con người
+ANSWER:A
+
+Băng thông tối đa của chuẩn USB 2.0 là:
+A. 200 Mb/s
+B. 12 Mb/s
+C. 150 Mb/s
+D. 480 Mb/s
+ANSWER:D
+

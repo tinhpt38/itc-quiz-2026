@@ -1,0 +1,280 @@
+Trong Microsoft Excel, cách nào để đóng một tệp?
+A. Ctrl + F4
+B. Alt + F4
+C. Shift + F4
+D. F4
+ANSWER:B
+
+Trong Microsoft Excel hàm SUM dùng để làm gì?
+A. Tìm giá trị lớn nhất trong các giá trị được chọn
+B. Tính tổng các giá trị số trong vùng được chọn
+C. Tìm giá trị nhỏ nhất trong các giá trị được chọn
+D. Tính giá trị trung bình trong các vùng được chọn
+ANSWER:B
+
+Trong Microsoft Excel hàm nào để tìm số nhỏ nhất trong các giá trị được chọn?
+A. MINUTE12
+B. MIN
+C. MINUM
+D. MINIMUM
+ANSWER:B
+
+Trong khi làm việc với Excel, để nhập vào công thức tính toán cho một ô, trước hết ta phải gõ:
+A. Dấu $
+B. Dấu =
+C. Dấu ?
+D. Dấu :
+ANSWER:B
+
+Trong Excel, muốn sao chép định dạng từ một ô, một dãy ô tới ô hoặc dãy ô khác ta thực hiện như thế nào?
+A. Nhấn chuột vào biểu tượng copy
+B. Nhấn chuột vào biểu tượng Format Painter
+C. Nhấn chuột vào biểu tượng dán và chọn dán đặc biệt
+D. Không thể sao chép định dạng của dòng văn bản
+ANSWER:B
+
+Trong Excel, muốn nhờ chương trình giúp đỡ về một vấn đề gì đó, ta nhấn phím:
+A. F1
+B. F2
+C. F3
+D. F4
+ANSWER:A
+
+Trong Excel, hàm HLOOKUP và VLOOKUP thuộc nhóm hàm nào sau đây?
+A. Nhóm hàm thời gian
+B. Nhóm hàm dò tìm và tham chiếu
+C. Nhóm hàm thống kê
+D. Nhóm hàm logic
+ANSWER:B
+
+Trong Excel, giả sử ô A1 của bảng tính lưu trị ngày 15/10/1970. Kết quả hàm =MONTH(A1) là bao nhiêu?
+A. 10
+B. 15
+C. #VALUE!
+D. 1970
+ANSWER:A
+
+Trong Excel, để chọn những vùng chứa các ô rời rạc nhau, ta giữ phím:
+A. Ctrl + Shift
+B. Ctrl
+C. Shift
+D. Tab
+ANSWER:B
+
+Trong Excel, để chèn tiêu đề trang (đầu trang và chân trang), ta thực hiện:
+A. Page Layout - Page Setup - Header/Footer
+B. Print Preview - Page Setup - Header/Footer
+C. View - Page Layout -Header/ Footer
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Trong Excel, công thức =MAX(30,10,65,5) nhận được kết quả là bao nhiêu?
+A. 110
+B. 65
+C. 120
+D. 135
+ANSWER:B
+
+Trong Excel, công thức =COUNT(19,11,4) sẽ trả về kết quả là bao nhiêu?
+A. 19
+B. 3
+C. 34
+D. 0
+ANSWER:B
+
+Trong Excel, cho ô A1 có giá trị số 30, ô A2 có giá trị số 35, ô A3 có giá trị số 35. Tại ô A4 thực hiện phép tính: =ROUND(AVERAGE(A1:A3),1). Kết quả tại ô A4 là:
+A. 33.33333
+B. 33.3
+C. 34
+D. 30
+ANSWER:B
+
+Trong Excel hàm TODAY() trả về:
+A. Trả về giá trị ngày tháng năm hiện tại của hệ thống
+B. Trả về giá trị ngày hiện tại
+C. Trả về giá trị tháng hiện tại
+D. Trả về giá trị năm hiện tại
+ANSWER:A
+
+Trong Excel có các dạng biểu đồ nào?
+A. Cột
+B. Đường
+C. Hình tròn
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Trong Excel biểu thức =SUM(9,1,MAX(3,5,7)) sẽ trả về kết quả là bao nhiêu?
+A. 9
+B. 10
+C. 17
+D. 25
+ANSWER:C
+
+Trong Excel 2019, để ghép 2 xâu ký tự "DA" và "LAT" thành xâu ký tự mới là "DA LAT", ta sử dụng công thức:
+A. ="DA" + "LAT"
+B. ="DA" & " " & "LAT"
+C. ="DA" AND "LAT"
+D. Không ghép được
+ANSWER:B
+
+Trong bảng tính Excel, ô A5 chứa “DAI HOC” và ô B5 chứa “DA LAT”. Để ô D5 cho kết quả là “DAI HOC DA LAT”, ta thực hiện công thức như sau:
+A. = A5 + “ “ + B5
+B. = A5 &“ “& B5
+C. = A5 + B5
+D. = A5 & B5
+ANSWER:B
+
+Trong bảng tính Excel, khối ô là tập hợp nhiều ô kế cận tạo thành hình chữ nhật, địa chỉ khối ô được thể hiện như nào sau đây là đúng?
+A. B1::H15
+B. B1:B1
+C. B1-H15
+D. B1:H15
+ANSWER:D
+
+Trong bảng tính Excel, hàm nào sau đây làm hàm tính tổng các giá trị cho trước:
+A. SUMIF
+B. COUNTIF
+C. COUNT
+D. SUM
+ANSWER:D
+
+Trong bảng tính Excel, công thức =Mid(“m1234”, 2, 3) cho kết quả:
+A. Số 123
+B. Chuỗi “123”
+C. Số 12
+D. Số 23
+ANSWER:B
+
+Trong bảng tính Excel, công thức =COUNTA(19,"S","n01","n02") sẽ trả về kết quả là bao nhiêu?
+A. 19
+B. 4
+C. 3
+D. 0
+ANSWER:B
+
+Trong bảng tính Excel 2019, hàm nào sau đây cho phép đếm các giá trị thỏa mãn một điều kiện cho trước:
+A. SUMIF
+B. COUNTIF
+C. COUNT
+D. SUM
+ANSWER:B
+
+Theo mặc định, bảng tính Excel 2019 được lưu với phần mở rộng của tệp là gì?
+A. xls
+B. xslx
+C. xml
+D. xlsx
+ANSWER:D
+
+Nhóm định dạng nào được hỗ trợ trong hộp Format Cells:
+A. Alignment: Nhóm các thao tác căn lề theo cột và theo dòng, định hướng hiển thị dữ liệu…
+B. Font: Nhóm các thao tác chọn phông chữ, kiểu chữ, cỡ chữ…
+C. Border: Nhóm các thao tác tạo đường viền
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Khi vào Page Layout/ Page setup để làm gì?
+A. Chỉnh cỡ giấy khi in
+B. Chỉnh hướng giấy in
+C. Căn chỉnh lề đoạn văn cần in
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Khi nhập dữ liệu vào bảng tính Excel thì phát biểu nào sau đây sai?
+A. Dữ liệu kiểu số sẽ mặc định căn lề trái
+B. Dữ liệu kiểu ký tự sẽ mặc định căn lề trái
+C. Dữ liệu kiểu thời gian sẽ mặc định căn lề phải
+D. Dữ liệu kiểu ngày tháng sẽ mặc định căn lề phải
+ANSWER:A
+
+Hộp thoại Format Cells ngoài việc định dạng các dữ liệu trong Excel thì còn có chức năng gì?
+A. Định dạng font và hiển thị văn bản trong bảng tính: kiểu chữ, cỡ chữ, đậm, nghiêng, gạch chân
+B. Định dạng khunng nền cho bảng tính
+C. Định dạng màu nền cho bảng tính và màu cho văn bản
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Hàm Month có nghĩa là?
+A. Trả về giá trị là tháng
+B. Trả về giá trị là ngày
+C. Trả về giá trị là năm
+D. Trả về giá trị là giờ
+ANSWER:A
+
+Excel 2019 là công cụ dùng để:
+A. Tính toán
+B. Soạn thảo
+C. Trình chiếu
+D. Gửi thư
+ANSWER:A
+
+Excel 2019 hỗ trợ bạn vẽ những kiểu biểu đồ gì?
+A. Column, Bar, Pie, Line
+B. XY, Radar
+C. Box & Whisker, Column
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Để tách hoặc ghép các ô trong Excel ta thực hiện như thế nào?
+A. Nhấp chuột vào biểu tượng Format Painter trên thẻ Home
+B. Nhấp chuột vào biểu tượng Merge & Center trên thẻ Home
+C. Nhấp chuột vào biểu tượng Wrap Text trên thẻ Home
+D. Không thực hiện được
+ANSWER:B
+
+Để mở chương trình bảng tính Excel, ta thực hiện thao tác như thế nào?
+A. Ấn biểu tượng Windows ở góc trái màn hình, tìm chương trình Excel sau đó click mở chương trình
+B. Nháy đúp trên một tệp bảng tính bất kì
+C. Nháy đúp chuột tại biểu tượng Excel trên màn hình Desktop của Windows
+D. Tất cả đều đúng
+ANSWER:D
+
+Đâu là chương trình bảng tính?
+A. Microsoft Excel
+B. LibreOffice Calc
+C. OpenOffice Calc
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Chọn câu trả lời đúng nhất về bảng tính mẫu (Template) trong Excel:
+A. Template là một bảng tính đã được thiết kế sẵn
+B. Sử dụng Template nếu bạn thường xuyên tạo những bảng tính có thiết kế giống nhau (như bảng lương, bảng chấm công, báo giá...)
+C. Template lưu lại tất cả: từ cấu trúc, công thức, hàm…của bảng tính
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Các kiểu dữ liệu thông dụng của Excel là gì?
+A. Kiểu chuỗi, kiểu văn bản, kiểu ngày tháng
+B. Kiểu chuỗi, kiểu số, kiểu lôgic, kiểu ngày tháng, kiểu công thức
+C. Kiểu số, kiểu lôgic, kiểu ngày tháng
+D. Kiểu công thức, kiểu hàm, kiểu số, kiểu ngày tháng
+ANSWER:B
+
+Các địa chỉ sau đây, địa chỉ nào là địa chỉ tuyệt đối?
+A. $A$1:$D$10
+B. A1:D10
+C. A1:$D$10
+D. A$1:D$10
+ANSWER:A
+
+Biểu thức trong Excel có thể có các thành phần nào?
+A. Các tham số về địa chỉ
+B. Các hằng số và toán tử
+C. Các hàm
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Bạn hiểu công dụng của việc trình bày dữ liệu dạng bảng tính là gì?
+A. Cô đọng, dễ hiểu và dễ so sánh, dễ thao tác
+B. Thực hiện các nhu cầu về tính toán (tính tổng, trung bình cộng, xác định giá trị lớn nhất, nhỏ nhất, ...)
+C. Có thể tạo biểu đồ, phân tích dữ liệu, dự báo từ dữ liệu dạng bảng để đánh giá một cách trực quan, nhanh chóng
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Bạn hiểu chương trình bảng tính là gì?
+A. Là phần mềm dùng để tính toán dữ liệu số
+B. Là phần mềm có thể thực hiện tính toán tự động trên các bảng tính thực hiện bằng tay
+C. Là phần mềm vừa tính toán dữ liệu, vừa thực hiện trình bày văn bản
+D. Là phần mềm được thiết kế để giúp ghi lại và trình bày thông tin dưới dạng bảng, thực hiện các tính toán cũng như xây dựng các biểu đồ biểu diễn một cách trực quan các số liệu có trong bảng
+ANSWER:D
+

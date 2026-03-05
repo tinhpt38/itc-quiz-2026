@@ -1,0 +1,280 @@
+Để chèn công thức toán học vào trong văn bản, người sử dụng phải thực hiện các bước:
+A. Vào thẻ Insert/ nhóm Symbol/ Symbol/ mẫu công thức
+B. Vào thẻ Insert/ nhóm Symbol/ Equation/ mẫu công thức
+C. Vào thẻ Insert/ nhóm Text/ Object/ Bitmap Image/ mẫu công thức
+D. Vào thẻ Insert/ nhóm Text/ Text Box/ nhập công thức
+ANSWER:B
+
+Trong hộp thoại Find and Replace, phần Find what dùng để:
+A. Điền từ cần thay thế
+B. Điền từ cần tìm kiếm
+C. Tùy chọn nâng cao tìm kiếm
+D. Đảm bảo tìm kiếm chính xác
+ANSWER:B
+
+Trong soạn thảo Microsoft Word, muốn định dạng lại trang giấy in, ta thực hiện
+A. File/ Properties
+B. File/ Print
+C. Page Layout/ Page Setup
+D. File/ Print Preview
+ANSWER:C
+
+Trong soạn thảo Microsoft Word, công dụng của tổ hợp phím Ctrl+H là?
+A. Mở hộp thoại Font
+B. Mở hộp thoại tìm kiếm và thay thế văn bản
+C. Mở hộp thoại Paragraph
+D. Mở hộp thoại Tab
+ANSWER:B
+
+Trong soạn thảo Microsoft Word, công dụng của tổ hợp phím Ctrl + O là?
+A. Mở một file mới
+B. Đóng file đang mở
+C. Lưu file
+D. Mở một file đã có
+ANSWER:D
+
+Trong soạn thảo Microsoft Word, công dụng của tổ hợp Ctrl + F là?
+A. Mở chức năng trợ giúp
+B. Mở chức năng tìm kiếm văn bản
+C. Mở chức năng thay thế
+D. Mở chức năng tạo AutoCorrect
+ANSWER:B
+
+Trong Microsoft Word, sử dụng tổ hợp phím nào để phóng lớn cửa sổ?
+A. Ấn tổ hợp phím Crtl + [
+B. Ấn tổ hợp phím Ctrl + F10
+C. Ấn tổ hợp phím Shift + F3
+D. Ấn tổ hợp phím Crtl + =
+ANSWER:B
+
+Trong Microsoft Word 2019, để bỏ phần kiểm tra chính tả và ngữ pháp, ta thực hiện:
+A. Chọn File/ Options/ Advanced/ bỏ các dấu check trong phần Spelling and Grammar
+B. Chọn File/ Options/ Proofing/ bỏ các dấu check trong phần When correcting spelling and grammar in Word
+C. Chọn Review/ Options/ Advanced/ bỏ các dấu check trong phần Spelling and Grammar
+D. Chọn File/ Save as/ Advanced/ bỏ các dấu check trong phần Spelling and Grammar
+ANSWER:B
+
+Trong bảng biểu, để đổi hướng chữ, ta sử dụng chức năng nào sau đây:
+A. Cell Alignment
+B. Text Direction
+C. Split Cells
+D. Merge Cells
+ANSWER:B
+
+Phím tắt dùng để chuyển đổi nhanh chữ hoa sang chữ thường và ngược lại là:
+A. Ctrl + F3
+B. Shift + F3
+C. Ctrl + F2
+D. Shift + F2
+ANSWER:B
+
+Phím tắt Ctrl + Shift + "=" có tác dụng gì?
+A. Tạo chỉ số dưới
+B. Tạo chỉ số trên
+C. Căn phải
+D. Căn trái
+ANSWER:B
+
+Nhấn tổ hợp phím Ctrl + N có chức năng gì:
+A. Mở một tài liệu mới
+B. Mở một tài liệu có sẵn trong đĩa
+C. Lưu một tài liệu
+D. Đóng chương trình Microsoft Word
+ANSWER:A
+
+Muốn tách ô trong các bảng biểu, ta thực hiện:
+A. Vào thẻ Layout/ Split Table
+B. Vào thẻ Layout/ Split Cells
+C. Vào thẻ Layout/ Sort
+D. Vào thẻ Layout/ Merge Cells
+ANSWER:B
+
+Lệnh nào cho phép lưu tài liệu vào trong máy tính:
+A. File/Save
+B. File/New
+C. File/Close
+D. File/Save as wizard
+ANSWER:A
+
+Lề trang tài liệu là gì?
+A. Là khoảng cách trong tài liệu
+B. Là khoảng cách được tạo do người trình bày văn bản thiết lập
+C. Là khoảng cách giữa cạnh giấy và văn bản trong tài liệu
+D. Là khoảng cách ảo được đo bằng thước ngang
+ANSWER:C
+
+Khi đang soạn thảo văn bản trong Microsoft Word chỉ có 1 trang, thao tác nào sau đây kẻ đường biên cho toàn bộ trang đó:
+A. Vào thẻ Home/ nhóm Paragraph/ Borders/ Borders and Shading/ Borders
+B. Vào thẻ Design/ nhóm Page Background/ Page Borders
+C. Vào thẻ Home/ nhóm Editing/ Borders/ Borders and Shading/ thẻ Page Border
+D. Vào thẻ Layout/ nhóm Paragraph/ Borders/ Borders and Shading/ thẻ Page Border
+ANSWER:B
+
+Khi đang soạn thảo văn bản trong Microsoft Word chỉ có một trang, người dùng muốn ngắt 1 phần trang sang trang khác, thứ tự các thao tác như sau:
+A. Đặt con trỏ chuột vào trang đó, Vào thẻ Layout, Nhóm Page Setup, Breaks, Page
+B. Đặt con trỏ chuột vào vị trí cần ngắt trang, Vào thẻ Layout, Nhóm Page Setup, Breaks, Column
+C. Đặt con trỏ chuột vào vị trí cần ngắt trang, Vào thẻ Insert, trong nhóm Pages/ Page Break
+D. Đặt con trỏ chuột vào trang đó, Vào thẻ Insert, Nhóm Pages, Page Break
+ANSWER:C
+
+Để xem tài liệu ở chế độ Full Screen Reading ta thực hiện:
+A. Thẻ View/ nhóm Views/ mục Read Mode
+B. Thẻ View/ nhóm Views/ mục Web Layout
+C. Thẻ View/ nhóm Views/ mục Print Layout
+D. Thẻ View/ nhóm Views/ mục Outline
+ANSWER:A
+
+Trong soạn thảo Microsoft Word, để thay đổi hướng giấy in ta thực hiện
+A. Vào thẻ Design/ trong nhóm Page Setup/ Orientation
+B. Vào thẻ Layout/ trong nhóm Page Setup/ Portrait
+C. Vào thẻ Layout/ trong nhóm Page Setup/ Orientation
+D. Vào thẻ Design/ trong nhóm Page Setup/ Landscape
+ANSWER:C
+
+Để tạo mục lục tự động trong Microsoft Word, ta phải thực hiện:
+A. Tùy chỉnh các Headings/ Sao chép định dạng Heading tương ứng cho các tiêu đề. Sau đó vào thẻ References/ Tables of Contents
+B. Tùy chỉnh các Headings/ Sao chép định dạng Heading tương ứng cho các tiêu đề. Sau đó vào thẻ References/ Insert Captions
+C. Đánh Bullet and Numbering cho các tiêu đề. Sau đó vào thẻ References/ Tables of Contents
+D. Đánh Bullet and Numbering cho các tiêu đề. Sau đó vào thẻ References/ Insert Captions
+ANSWER:A
+
+Để tạo một tài liệu mới từ mẫu có sẵn ta thực hiện:
+A. Vào File/ New/ một mẫu đã cài
+B. Vào File/ Open/ một mẫu đã cài
+C. Vào File/ Save/ Installed Templates/ Sau đó chọn một mẫu đã cài
+D. Vào File/ New/ Installed Templates/ Sau đó chọn một mẫu đã cài
+ANSWER:A
+
+Để phóng lớn, thu nhỏ tài liệu ta thực hiện bằng cách nào?
+A. Giữ phím Ctrl và di chuyển con xoay trên con chuột
+B. Điều khiển thanh trượt zoom ở góc trái màn hình
+C. Giữ phím Shift và di chuyển con xoay trên con chuột
+D. Giữ phím Ctrl và nhấn phím ]
+ANSWER:A
+
+Để ngắt trang, tại vị trí con trỏ nhấn tổ hợp phím:
+A. Ctrl + Page Down
+B. Ctrl + Enter
+C. Shift + Enter
+D. Shift + Page Down
+ANSWER:B
+
+Để loại bỏ các hiệu ứng điều chỉnh tự động (autocorrect), ta thực hiện:
+A. Vào File/ Options/ Proofing/ AutoCorrect Options…/ cụm từ bị điều chỉnh tự động/ Delete
+B. Vào File/ Options/ Advanced/ Auto Correct Options/ cụm từ bị điều chỉnh tự động/ Delete
+C. Vào View/ Auto Correct Options/ cụm từ bị điều chỉnh tự động/ Delete
+D. Vào Layout/ Auto Correct Options/ cụm từ bị điều chỉnh tự động/ Delete
+ANSWER:A
+
+Để loại bỏ các đường gạch chân màu đỏ hoặc màu xanh xuất hiện trong văn bản tiếng Việt ta làm như sau:
+A. Vào File/ Options/ trong mục When correcting spelling and Gramma in Word bỏ tích chọn tất cả các lựa chọn
+B. Vào File/ Options/ Proofing/ trong mục When correcting spelling and Gramma in Word bỏ tích chọn tất cả các lựa chọn
+C. Vào File/ Proofing/ trong mục When correcting spelling and Gramma in Word bỏ tích chọn tất cả các lựa chọn
+D. Vào Home/ Options/ Proofing/ trong mục When correcting spelling and Gramma in Word bỏ tích chọn tất cả các lựa chọn
+ANSWER:B
+
+Để in tài liệu ra máy in, ta sử dụng tổ hợp phím nào?
+A. Nhấn tổ hợp phím Ctrl + B
+B. Nhấn tổ hợp phím Ctrl + O
+C. Nhấn tổ hợp phím Ctrl + P
+D. Nhấn tổ hợp phím Ctrl + K
+ANSWER:C
+
+Để điều chỉnh chế độ giãn dòng, ta thực hiện các thao tác nào?
+A. Vào thẻ Home/ nhóm Styles/ Line and Paragraph Spacing
+B. Vào thẻ Layout/ nhóm Paragraph/ Indents and Spacing/ Line Spacing
+C. Vào thẻ Home/ nhóm Font/ Line and Paragraph Spacing
+D. Vào thẻ Design/ Line Spacing
+ANSWER:B
+
+Để đặt mật khẩu khi mở một tập tin Microsoft Word, ta thực hiện:
+A. Chọn File/ Options/ Advanced, gõ vào mật khẩu trong phần Password to open
+B. Chọn File/ Options/ Proofing, gõ vào mật khẩu trong phần Password to open
+C. Chọn File/ Options/ General, gõ vào mật khẩu trong phần Password to open
+D. Chọn File/ Info/ Protect Document/ Encrypt with Password, gõ vào mật khẩu trong phần Password
+ANSWER:D
+
+Để chuyển đổi giữa các file văn bản đang mở trong Word ta thực hiện:
+A. Vào thẻ View, trong nhóm Show chọn Side to Side
+B. Vào thẻ View, trong nhóm Window chọn Split
+C. Vào thẻ View, trong nhóm Window chọn Arrange All
+D. Vào thẻ View, trong nhóm Window chọn Switch Windows
+ANSWER:D
+
+Để chọn tất cả các đối tượng Shapes trong văn bản, ta thực hiện:
+A. Nhấn tổ hợp phím Ctrl + A
+B. Vào Format, Select, Select Object, Click chọn từng đối tượng
+C. Giữ phím Ctrl, Click chọn từng đối tượng
+D. Giữ phím Alt, Click chọn từng đối tượng
+ANSWER:C
+
+Để chỉnh đơn vị đo của thước trong Word, ta sử dụng chức năng Measurement units trong menu:
+A. Vào File/ Options/ Advanced/ nhóm Display
+B. Vào File/ Options/ Proofing/ nhóm Display
+C. Vào View/ Options/ Advanced/ nhóm Display
+D. Vào View/ Options/ Proofing/ nhóm Display
+ANSWER:A
+
+Để chèn Tab vào trong văn bản, người dùng có thể thực hiện như sau:
+A. Vào thẻ Home/ nhóm Paragraph/ Tabs…
+B. Vào thẻ Layout/ nhóm Paragraph/ Paragraph Settings/ Tabs…
+C. Vào thẻ Layout/ nhóm Page Setup/ Paragraph Settings/ Tabs…
+D. Vào thẻ Insert/ nhóm Pages/ Tabs…
+ANSWER:A
+
+Để chèn một hàng vào phía bên trên hàng hiện tại (hàng chứa con trỏ), người dùng cần thực hiện thao tác
+A. Vào thẻ Layout/ nhóm Rows & Columns/ Insert Below
+B. Vào thẻ Layout/ nhóm Rows & Columns/ Insert Above
+C. Vào thẻ Design/ nhóm Rows & Columns/ Insert Below
+D. Vào thẻ Insert/ nhóm Rows & Columns/ Insert Above
+ANSWER:B
+
+Để chèn hình mũi tên, nét đứt trong Microsoft Word, ta phải thực hiện các bước:
+A. Vào Insert/ Shapes/ chọn mũi tên. Sau đó vào Format/ Shape outline/ chọn Dashes
+B. Vào Insert/ Shapes/ chọn mũi tên. Sau đó vào Format/ Shape effects/ chọn Glow
+C. Vào Insert/ Shapes/ chọn mũi tên. Sau đó vào Format/ Shape outline/ chọn Weight
+D. Vào Insert/ Shapes/ chọn mũi tên. Sau đó vào Format/ Shape effects/ chọn Shadow
+ANSWER:A
+
+Để chèn ghi chú cuối trang văn bản, ta thực hiện khối chọn cụm từ cần tạo ghi chú, sau đó:
+A. Vào thẻ References/ nhóm Footnotes/ Insert Footnote
+B. Vào thẻ References/ nhóm Footnotes/ Insert Endnote
+C. Vào thẻ References/ nhóm Captions/ Insert Endnote
+D. Vào thẻ References/ nhóm Captions/ Insert Footnote
+ANSWER:A
+
+Để ẩn thanh Ribbon, ta thực hiện:
+A. Vào menu View, Auto-hide Ribbon
+B. Vào File, Options, Customize the Ribbon, Auto-hide Ribbon
+C. Click biểu tượng Ribbon Display Options trên thanh tiêu đề/ Auto-hide Ribbon
+D. Vào File, Options, Advanced, Auto-hide Ribbon
+ANSWER:C
+
+Đâu là thao tác đúng khi thực hiện thụt đoạn văn bản về bên phải với thông số xác định?
+A. Mở hộp thoại Paragraph, thiết đặt thông số Right trong Indentation
+B. Mở hộp thoại Paragraph, thiết đặt thông số Left trong Indentation
+C. Mở hộp thoại Paragraph, thiết đặt thông số Right trong Spacing
+D. Mở hộp thoại Paragraph, thiết đặt thông số Left trong Spacing
+ANSWER:A
+
+Đâu là thao tác đúng khi thực hiện thụt đoạn văn bản về bên trái với thông số xác định?
+A. Mở hộp thoại Paragraph, thiết đặt thông số Right trong Indentation
+B. Mở hộp thoại Paragraph, thiết đặt thông số Left trong Indentation
+C. Mở hộp thoại Paragraph, thiết đặt thông số Right trong Spacing
+D. Mở hộp thoại Paragraph, thiết đặt thông số Left trong Spacing
+ANSWER:B
+
+Đâu không phải là chức năng của trình soạn thảo văn bản:
+A. Cho phép thể hiện nhiều kiểu chữ (font), cỡ chữ, màu sắc khác nhau
+B. Soạn thảo các văn bản điện tử
+C. Có thể kèm hình ảnh trong văn bản
+D. Có thể tạo hiệu ứng xuất hiện của chữ trong văn bản
+ANSWER:D
+
+Các chức năng Text Box và Object đồng thời có mặt trên mục nào của thanh Ribbon
+A. Insert
+B. Edit
+C. File
+D. View
+ANSWER:A
+

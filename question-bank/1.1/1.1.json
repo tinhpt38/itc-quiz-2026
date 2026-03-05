@@ -1,0 +1,922 @@
+[
+    {
+        "question": "Việc tải dữ liệu xuống từ Internet được gọi là gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Upload",
+                "isCorrect": false
+            },
+            {
+                "text": "Download",
+                "isCorrect": true
+            },
+            {
+                "text": "Share",
+                "isCorrect": false
+            },
+            {
+                "text": "Copy",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Việc tải dữ liệu lên Internet được gọi là gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Upload",
+                "isCorrect": true
+            },
+            {
+                "text": "Download",
+                "isCorrect": false
+            },
+            {
+                "text": "Share",
+                "isCorrect": false
+            },
+            {
+                "text": "Copy",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong máy tính, đơn vị đo thông tin nhỏ nhất là gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Byte",
+                "isCorrect": false
+            },
+            {
+                "text": "Char",
+                "isCorrect": false
+            },
+            {
+                "text": "Bit",
+                "isCorrect": true
+            },
+            {
+                "text": "KB",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Thiết bị nào sau đây dùng nhập dữ liệu vào máy tính?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Bàn phím, màn hình",
+                "isCorrect": false
+            },
+            {
+                "text": "Máy in",
+                "isCorrect": false
+            },
+            {
+                "text": "Bàn phím, chuột (mouse)",
+                "isCorrect": true
+            },
+            {
+                "text": "CPU",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Thiết bị nào sau đây dùng lưu trữ dữ liệu?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Đĩa cứng",
+                "isCorrect": true
+            },
+            {
+                "text": "Màn hình",
+                "isCorrect": false
+            },
+            {
+                "text": "Máy in",
+                "isCorrect": false
+            },
+            {
+                "text": "CPU",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Thiết bị nào sau đây dùng đưa thông tin ra ngoài (xuất)?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Bàn phím",
+                "isCorrect": false
+            },
+            {
+                "text": "Màn hình, máy in",
+                "isCorrect": true
+            },
+            {
+                "text": "Chuột (mouse)",
+                "isCorrect": false
+            },
+            {
+                "text": "CPU",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Tác hại khi ngồi lâu trước máy tính",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Mỏi mắt",
+                "isCorrect": false
+            },
+            {
+                "text": "Đau lưng",
+                "isCorrect": false
+            },
+            {
+                "text": "Căng thẳng thần kinh",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả các đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Phương tiện truyền dẫn Internet được dùng phổ biến hiện nay?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Cáp điện thoại",
+                "isCorrect": false
+            },
+            {
+                "text": "Cáp quang",
+                "isCorrect": false
+            },
+            {
+                "text": "Sóng điện thoại",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Phần mềm nào gọi là hệ điều hành?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Windows 10",
+                "isCorrect": true
+            },
+            {
+                "text": "Unikey",
+                "isCorrect": false
+            },
+            {
+                "text": "Microsoft Office",
+                "isCorrect": false
+            },
+            {
+                "text": "Photoshop",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Phần cứng máy tính cơ bản bao gồm thành phần nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Bộ xử lý (CPU)",
+                "isCorrect": false
+            },
+            {
+                "text": "Bộ nhớ",
+                "isCorrect": false
+            },
+            {
+                "text": "Thiết bị nhập, xuất",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Phần cứng là gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Là một bộ các chỉ thị ra lệnh cho máy tính",
+                "isCorrect": false
+            },
+            {
+                "text": "Là hệ điều hành",
+                "isCorrect": false
+            },
+            {
+                "text": "Là cơ sở dữ liệu",
+                "isCorrect": false
+            },
+            {
+                "text": "Là các thiết bị điện tử cấu thành máy tính",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Một ký tự thông thường được lưu trữ trong:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "1 hoặc 2 byte",
+                "isCorrect": true
+            },
+            {
+                "text": "1 hoặc 2 KB",
+                "isCorrect": false
+            },
+            {
+                "text": "1 hoặc 2 MB",
+                "isCorrect": false
+            },
+            {
+                "text": "1 hoặc 2 GB",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Máy tính cá nhân PC là chữ viết tắt của từ nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Personal Computer",
+                "isCorrect": true
+            },
+            {
+                "text": "Performance Computer",
+                "isCorrect": false
+            },
+            {
+                "text": "Personnal Connector",
+                "isCorrect": false
+            },
+            {
+                "text": "Printing Computer",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Máy Scanner được kết nối với máy tính thông qua cổng nào sau đây?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "USB",
+                "isCorrect": true
+            },
+            {
+                "text": "RJ 45",
+                "isCorrect": false
+            },
+            {
+                "text": "Jack 3. 5",
+                "isCorrect": false
+            },
+            {
+                "text": "RJ 11",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Máy in và máy quét, thiết bị nào là thiết bị nhập thông tin vào máy tính?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Máy quét",
+                "isCorrect": true
+            },
+            {
+                "text": "Máy in",
+                "isCorrect": false
+            },
+            {
+                "text": "Cả hai",
+                "isCorrect": false
+            },
+            {
+                "text": "Không cái nào",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Máy điện tử dùng để thu và lưu giữ hình ảnh một cách tự động thay vì phải dùng phim ảnh là máy gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Máy ảnh kỹ thuật số",
+                "isCorrect": true
+            },
+            {
+                "text": "Máy ảnh thường",
+                "isCorrect": false
+            },
+            {
+                "text": "Webcam",
+                "isCorrect": false
+            },
+            {
+                "text": "Máy quét ảnh",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Mạng xã hội là gì ?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Kết nối mọi người khắp nơi thông quan Internet",
+                "isCorrect": false
+            },
+            {
+                "text": "Giúp con người liên lạc với nhau ở bất cứ đâu",
+                "isCorrect": false
+            },
+            {
+                "text": "Quảng cáo, bán hàng",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Hãy chỉ ra đâu là thiết bị nhập?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Máy quét",
+                "isCorrect": true
+            },
+            {
+                "text": "Máy in",
+                "isCorrect": false
+            },
+            {
+                "text": "Loa",
+                "isCorrect": false
+            },
+            {
+                "text": "Màn hình",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Đơn vị tính nhỏ nhất của máy tính là gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Bit",
+                "isCorrect": true
+            },
+            {
+                "text": "Byte",
+                "isCorrect": false
+            },
+            {
+                "text": "Megabyte",
+                "isCorrect": false
+            },
+            {
+                "text": "Terabyte",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Đơn vị đo thông tin bit có giá trị nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "0 hoặc 1",
+                "isCorrect": true
+            },
+            {
+                "text": "2",
+                "isCorrect": false
+            },
+            {
+                "text": "8",
+                "isCorrect": false
+            },
+            {
+                "text": "16",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Điện thoại thông minh là gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Điện thoại tích hợp một hệ điều hành",
+                "isCorrect": true
+            },
+            {
+                "text": "Hỗ trợ tất cả các kiểu hệ điều hành",
+                "isCorrect": false
+            },
+            {
+                "text": "Bền hơn so với điện thoại di động khác",
+                "isCorrect": false
+            },
+            {
+                "text": "Điện thoại chỉ có chức năng nghe và gọi",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Điện thoại thông minh có lợi thế gì hơn so với máy tính xách tay",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Có kích thước nhỏ gọn nhưng có chức năng điện thoại và sử dụng được các phần mềm tiện ích",
+                "isCorrect": true
+            },
+            {
+                "text": "Sử dụng được các phần mềm",
+                "isCorrect": false
+            },
+            {
+                "text": "Sử dụng được Internet",
+                "isCorrect": false
+            },
+            {
+                "text": "Gọi điện bằng phần mềm kết nối Internet",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Đĩa cứng SSD có các đặc tính nào vượt trội so với HDD?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Nhanh hơn",
+                "isCorrect": true
+            },
+            {
+                "text": "Dung lượng lớn hơn",
+                "isCorrect": false
+            },
+            {
+                "text": "Rẻ hơn",
+                "isCorrect": false
+            },
+            {
+                "text": "Kích thước lớn hơn",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để nhập thông tin cho máy tính, ta sử dụng thiết bị nào:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "RAM",
+                "isCorrect": false
+            },
+            {
+                "text": "Màn hình",
+                "isCorrect": false
+            },
+            {
+                "text": "Bàn phím",
+                "isCorrect": true
+            },
+            {
+                "text": "CPU",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để kết nối Internet người ta dùng bằng cách nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Sử dụng Modem và đường dây điện thoại",
+                "isCorrect": false
+            },
+            {
+                "text": "Sử dụng thiết bị kết nối không dây",
+                "isCorrect": false
+            },
+            {
+                "text": "Sử dụng cáp quang",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Đâu là mạng xã hội ?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Facebook",
+                "isCorrect": false
+            },
+            {
+                "text": "Twitter",
+                "isCorrect": false
+            },
+            {
+                "text": "Zalo",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Các ứng dụng nào giúp con người trao đổi thông tin với nhau trên mạng Internet?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "E-mail",
+                "isCorrect": false
+            },
+            {
+                "text": "Chat",
+                "isCorrect": false
+            },
+            {
+                "text": "Hội nghị trực tuyến",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Các ứng dụng dịch vụ Internet phổ biến hiện nay là gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Thương mại điện tử",
+                "isCorrect": false
+            },
+            {
+                "text": "Ngân hàng điện tử",
+                "isCorrect": false
+            },
+            {
+                "text": "Chính phủ điện tử",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Các thiết bị: Màn hình, loa, máy in, thuộc khối chức năng nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Thiết bị xuất",
+                "isCorrect": true
+            },
+            {
+                "text": "Thiết bị nhập",
+                "isCorrect": false
+            },
+            {
+                "text": "Khối xử lý",
+                "isCorrect": false
+            },
+            {
+                "text": "Các thiết bị lưu trữ",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Các thiết bị: chuột, bàn phím, máy quét, thuộc khối chức năng nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Thiết bị nhập",
+                "isCorrect": true
+            },
+            {
+                "text": "Thiết bị xuất",
+                "isCorrect": false
+            },
+            {
+                "text": "Khối xử lý",
+                "isCorrect": false
+            },
+            {
+                "text": "Các thiết bị lưu trữ",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Các thiết bị sau đây, thiết bị nào dùng để lưu trữ dữ liệu?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "CD-ROM, DVD-ROM",
+                "isCorrect": false
+            },
+            {
+                "text": "HDD, USB",
+                "isCorrect": false
+            },
+            {
+                "text": "Flash disk, thẻ nhớ",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Các thành phần: RAM, CPU, thiết bị nhập xuất là?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Phần cứng máy tính",
+                "isCorrect": true
+            },
+            {
+                "text": "Phần mềm máy tính",
+                "isCorrect": false
+            },
+            {
+                "text": "Thiết bị lưu trữ",
+                "isCorrect": false
+            },
+            {
+                "text": "Thiết bị mạng và truyền thông",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Bộ xử lý bao gồm các thành phần nào sau đây?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Khối xử lý.",
+                "isCorrect": false
+            },
+            {
+                "text": "Khối tính toán số học và logic",
+                "isCorrect": true
+            },
+            {
+                "text": "Các thanh ghi",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Bit là gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Là đơn vị nhỏ nhất của thông tin được sử dụng trong máy tính",
+                "isCorrect": false
+            },
+            {
+                "text": "Là một phần tử nhỏ mang một trong 2 giá trị 0 và 1",
+                "isCorrect": false
+            },
+            {
+                "text": "Là một đơn vị đo thông tin",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả các đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Bàn phím máy tính là thiết bị nào trong các thiết bị sau?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Thiết bị nhập thông tin",
+                "isCorrect": true
+            },
+            {
+                "text": "Thiết bị xuất thông tin",
+                "isCorrect": false
+            },
+            {
+                "text": "Thiết bị lưu trữ thông tin",
+                "isCorrect": false
+            },
+            {
+                "text": "Thiết bị thoát thông tin",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "1 TB bằng:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "100 GB",
+                "isCorrect": false
+            },
+            {
+                "text": "256 GB",
+                "isCorrect": false
+            },
+            {
+                "text": "1000 GB",
+                "isCorrect": false
+            },
+            {
+                "text": "1024 GB",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "1 GB bằng:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "100 MB",
+                "isCorrect": false
+            },
+            {
+                "text": "256 MB",
+                "isCorrect": false
+            },
+            {
+                "text": "1000 MB",
+                "isCorrect": false
+            },
+            {
+                "text": "1024 MB",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "1 MB bằng:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "100 KB",
+                "isCorrect": false
+            },
+            {
+                "text": "256 KB",
+                "isCorrect": false
+            },
+            {
+                "text": "1000 KB",
+                "isCorrect": false
+            },
+            {
+                "text": "1024 KB",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "1 KB bằng:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "100 bit",
+                "isCorrect": false
+            },
+            {
+                "text": "256 bit",
+                "isCorrect": false
+            },
+            {
+                "text": "1000 bit",
+                "isCorrect": false
+            },
+            {
+                "text": "1024 Byte",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "1 Byte bằng:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "2 bit",
+                "isCorrect": false
+            },
+            {
+                "text": "8 bit",
+                "isCorrect": true
+            },
+            {
+                "text": "10 bit",
+                "isCorrect": false
+            },
+            {
+                "text": "16 bit",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    }
+]

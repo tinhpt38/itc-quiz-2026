@@ -1,0 +1,280 @@
+Việc tải dữ liệu xuống từ Internet được gọi là gì?
+A. Upload
+B. Download
+C. Share
+D. Copy
+ANSWER:B
+
+Việc tải dữ liệu lên Internet được gọi là gì?
+A. Upload
+B. Download
+C. Share
+D. Copy
+ANSWER:A
+
+Trong máy tính, đơn vị đo thông tin nhỏ nhất là gì?
+A. Byte
+B. Char
+C. Bit
+D. KB
+ANSWER:C
+
+Thiết bị nào sau đây dùng nhập dữ liệu vào máy tính?
+A. Bàn phím, màn hình
+B. Máy in
+C. Bàn phím, chuột (mouse)
+D. CPU
+ANSWER:C
+
+Thiết bị nào sau đây dùng lưu trữ dữ liệu?
+A. Đĩa cứng
+B. Màn hình
+C. Máy in
+D. CPU
+ANSWER:A
+
+Thiết bị nào sau đây dùng đưa thông tin ra ngoài (xuất)?
+A. Bàn phím
+B. Màn hình, máy in
+C. Chuột (mouse)
+D. CPU
+ANSWER:B
+
+Tác hại khi ngồi lâu trước máy tính
+A. Mỏi mắt
+B. Đau lưng
+C. Căng thẳng thần kinh
+D. Tất cả các đáp án đều đúng
+ANSWER:D
+
+Phương tiện truyền dẫn Internet được dùng phổ biến hiện nay?
+A. Cáp điện thoại
+B. Cáp quang
+C. Sóng điện thoại
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Phần mềm nào gọi là hệ điều hành?
+A. Windows 10
+B. Unikey
+C. Microsoft Office
+D. Photoshop
+ANSWER:A
+
+Phần cứng máy tính cơ bản bao gồm thành phần nào?
+A. Bộ xử lý (CPU)
+B. Bộ nhớ
+C. Thiết bị nhập, xuất
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Phần cứng là gì?
+A. Là một bộ các chỉ thị ra lệnh cho máy tính
+B. Là hệ điều hành
+C. Là cơ sở dữ liệu
+D. Là các thiết bị điện tử cấu thành máy tính
+ANSWER:D
+
+Một ký tự thông thường được lưu trữ trong:
+A. 1 hoặc 2 byte
+B. 1 hoặc 2 KB
+C. 1 hoặc 2 MB
+D. 1 hoặc 2 GB
+ANSWER:A
+
+Máy tính cá nhân PC là chữ viết tắt của từ nào?
+A. Personal Computer
+B. Performance Computer
+C. Personnal Connector
+D. Printing Computer
+ANSWER:A
+
+Máy Scanner được kết nối với máy tính thông qua cổng nào sau đây?
+A. USB
+B. RJ 45
+C. Jack 3. 5
+D. RJ 11
+ANSWER:A
+
+Máy in và máy quét, thiết bị nào là thiết bị nhập thông tin vào máy tính?
+A. Máy quét
+B. Máy in
+C. Cả hai
+D. Không cái nào
+ANSWER:A
+
+Máy điện tử dùng để thu và lưu giữ hình ảnh một cách tự động thay vì phải dùng phim ảnh là máy gì?
+A. Máy ảnh kỹ thuật số
+B. Máy ảnh thường
+C. Webcam
+D. Máy quét ảnh
+ANSWER:A
+
+Mạng xã hội là gì ?
+A. Kết nối mọi người khắp nơi thông quan Internet
+B. Giúp con người liên lạc với nhau ở bất cứ đâu
+C. Quảng cáo, bán hàng
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Hãy chỉ ra đâu là thiết bị nhập?
+A. Máy quét
+B. Máy in
+C. Loa
+D. Màn hình
+ANSWER:A
+
+Đơn vị tính nhỏ nhất của máy tính là gì?
+A. Bit
+B. Byte
+C. Megabyte
+D. Terabyte
+ANSWER:A
+
+Đơn vị đo thông tin bit có giá trị nào?
+A. 0 hoặc 1
+B. 2
+C. 8
+D. 16
+ANSWER:A
+
+Điện thoại thông minh là gì?
+A. Điện thoại tích hợp một hệ điều hành
+B. Hỗ trợ tất cả các kiểu hệ điều hành
+C. Bền hơn so với điện thoại di động khác
+D. Điện thoại chỉ có chức năng nghe và gọi
+ANSWER:A
+
+Điện thoại thông minh có lợi thế gì hơn so với máy tính xách tay
+A. Có kích thước nhỏ gọn nhưng có chức năng điện thoại và sử dụng được các phần mềm tiện ích
+B. Sử dụng được các phần mềm
+C. Sử dụng được Internet
+D. Gọi điện bằng phần mềm kết nối Internet
+ANSWER:A
+
+Đĩa cứng SSD có các đặc tính nào vượt trội so với HDD?
+A. Nhanh hơn
+B. Dung lượng lớn hơn
+C. Rẻ hơn
+D. Kích thước lớn hơn
+ANSWER:A
+
+Để nhập thông tin cho máy tính, ta sử dụng thiết bị nào:
+A. RAM
+B. Màn hình
+C. Bàn phím
+D. CPU
+ANSWER:C
+
+Để kết nối Internet người ta dùng bằng cách nào?
+A. Sử dụng Modem và đường dây điện thoại
+B. Sử dụng thiết bị kết nối không dây
+C. Sử dụng cáp quang
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Đâu là mạng xã hội ?
+A. Facebook
+B. Twitter
+C. Zalo
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Các ứng dụng nào giúp con người trao đổi thông tin với nhau trên mạng Internet?
+A. E-mail
+B. Chat
+C. Hội nghị trực tuyến
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Các ứng dụng dịch vụ Internet phổ biến hiện nay là gì?
+A. Thương mại điện tử
+B. Ngân hàng điện tử
+C. Chính phủ điện tử
+D. Tất cả đáp án đều đúng
+ANSWER:D
+
+Các thiết bị: Màn hình, loa, máy in, thuộc khối chức năng nào?
+A. Thiết bị xuất
+B. Thiết bị nhập
+C. Khối xử lý
+D. Các thiết bị lưu trữ
+ANSWER:A
+
+Các thiết bị: chuột, bàn phím, máy quét, thuộc khối chức năng nào?
+A. Thiết bị nhập
+B. Thiết bị xuất
+C. Khối xử lý
+D. Các thiết bị lưu trữ
+ANSWER:A
+
+Các thiết bị sau đây, thiết bị nào dùng để lưu trữ dữ liệu?
+A. CD-ROM, DVD-ROM
+B. HDD, USB
+C. Flash disk, thẻ nhớ
+D. Tất cả đều đúng
+ANSWER:D
+
+Các thành phần: RAM, CPU, thiết bị nhập xuất là?
+A. Phần cứng máy tính
+B. Phần mềm máy tính
+C. Thiết bị lưu trữ
+D. Thiết bị mạng và truyền thông
+ANSWER:A
+
+Bộ xử lý bao gồm các thành phần nào sau đây?
+A. Khối xử lý.
+B. Khối tính toán số học và logic
+C. Các thanh ghi
+D. Tất cả đáp án đều đúng
+ANSWER:B
+
+Bit là gì?
+A. Là đơn vị nhỏ nhất của thông tin được sử dụng trong máy tính
+B. Là một phần tử nhỏ mang một trong 2 giá trị 0 và 1
+C. Là một đơn vị đo thông tin
+D. Tất cả các đáp án đều đúng
+ANSWER:D
+
+Bàn phím máy tính là thiết bị nào trong các thiết bị sau?
+A. Thiết bị nhập thông tin
+B. Thiết bị xuất thông tin
+C. Thiết bị lưu trữ thông tin
+D. Thiết bị thoát thông tin
+ANSWER:A
+
+1 TB bằng:
+A. 100 GB
+B. 256 GB
+C. 1000 GB
+D. 1024 GB
+ANSWER:D
+
+1 GB bằng:
+A. 100 MB
+B. 256 MB
+C. 1000 MB
+D. 1024 MB
+ANSWER:D
+
+1 MB bằng:
+A. 100 KB
+B. 256 KB
+C. 1000 KB
+D. 1024 KB
+ANSWER:D
+
+1 KB bằng:
+A. 100 bit
+B. 256 bit
+C. 1000 bit
+D. 1024 Byte
+ANSWER:D
+
+1 Byte bằng:
+A. 2 bit
+B. 8 bit
+C. 10 bit
+D. 16 bit
+ANSWER:B
+

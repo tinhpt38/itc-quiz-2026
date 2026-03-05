@@ -1,0 +1,922 @@
+[
+    {
+        "question": "Trong PowerPoint, tổ hợp phím nào sau được dùng để in?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Ctrl + O",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + N",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + P",
+                "isCorrect": true
+            },
+            {
+                "text": "Ctrl + S",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint, để có kiểu chữ đậm cho dòng chữ “Trung tâm Công nghệ Thông tin Đại học Đà Lạt ” phải thực hiện là:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Đưa con trỏ vào giữa dòng chữ đó, nhấn Ctrl + U",
+                "isCorrect": false
+            },
+            {
+                "text": "Đưa con trỏ vào giữa dòng chữ đó, nhấn Ctrl + I",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn dòng chữ đó, nhấn Ctrl + B",
+                "isCorrect": true
+            },
+            {
+                "text": "Đưa con trỏ vào giữa dòng chữ đó, nhấn Ctrl + B",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint, đánh dấu 1 đoạn văn bản sau đó nhấn tổ hợp phím CTRL + E, thao tác này tương ứng với lựa chọn nào sau đây?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Xóa đoạn văn được chọn",
+                "isCorrect": false
+            },
+            {
+                "text": "Canh giữa đoạn văn được chọn",
+                "isCorrect": true
+            },
+            {
+                "text": "Sao chép đoạn văn được chọn",
+                "isCorrect": false
+            },
+            {
+                "text": "Canh trái đoạn văn được chọn",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong PowerPoint 2019, để hủy bỏ thao tác vừa thực hiện, ta ấn tổ hợp phím?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Ctrl + F5",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + A",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + X",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + Z",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong Powerpoint 2019, để chọn toàn bộ bảng trong Slide, ta ấn tổ hợp phím?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Ctrl + S",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + A",
+                "isCorrect": true
+            },
+            {
+                "text": "Alt + A",
+                "isCorrect": false
+            },
+            {
+                "text": "Shift + A",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong khi thiết kế giáo án điện tử, thực hiện thao tác chọn Insert -> New Slide là để:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Chèn thêm một slide mới vào ngay trước slide hiện hành",
+                "isCorrect": false
+            },
+            {
+                "text": "Chèn thêm một slide mới vào ngay sau slide hiện hành",
+                "isCorrect": true
+            },
+            {
+                "text": "Chèn thêm một slide mới vào ngay trước slide đầu tiên",
+                "isCorrect": false
+            },
+            {
+                "text": "Chèn thêm một slide mới vào ngay sau slide cuối cùng",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Thực hiện thao tác chọn Animation là để:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Tạo hiệu ứng động cho các đối tượng trong slide",
+                "isCorrect": true
+            },
+            {
+                "text": "Tạo hiệu ứng chuyển trang cho các slide trong bài trình diễn",
+                "isCorrect": false
+            },
+            {
+                "text": "Đưa hình ảnh hoặc âm thanh vào bài trình diễn",
+                "isCorrect": false
+            },
+            {
+                "text": "Định dạng cách bố trí các khối văn bản, hình ảnh, đồ thị ... cho một slide",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Thẻ Transitions dùng để làm gì",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Tạo hiệu ứng cho các đối tượng trong từng Slide",
+                "isCorrect": false
+            },
+            {
+                "text": "Làm hình động",
+                "isCorrect": false
+            },
+            {
+                "text": "Dịch chuyển chữ",
+                "isCorrect": false
+            },
+            {
+                "text": "Tạo hiệu ứng khi qua mỗi Slide",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Thao tác chọn Animation là để tạo hiệu ứng:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Chỉ dành cho đối tượng là khối văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Chỉ cho đối tượng là khối văn bản và hình ảnh",
+                "isCorrect": false
+            },
+            {
+                "text": "Chỉ cho đối tượng là hình ảnh",
+                "isCorrect": false
+            },
+            {
+                "text": "Cho tất cả các đối tượng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Nếu chọn 3 ô liên tiếp trên cùng một cột của bảng biểu, đưa chuột vào vùng ô đó, nhấn chuột phải và chọn Insert Rows thì ta đã",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Thêm vào bảng 3 ô",
+                "isCorrect": false
+            },
+            {
+                "text": "Thêm vào bảng 3 dòng",
+                "isCorrect": true
+            },
+            {
+                "text": "Thêm vào bảng 3 cột",
+                "isCorrect": false
+            },
+            {
+                "text": "Thêm vào bảng 1 dòng",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Muốn xóa slide hiện hành người thiết kế phải:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Vào File -> Delete Slide",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn slide và nhấn phím Spacebar",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Insert -> Delete Slide",
+                "isCorrect": false
+            },
+            {
+                "text": "Nhấn chuột phải lên slide và chọn Delete Slide",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Muốn sao chép một phần của đoạn văn bản trong một Text Box, ta phải:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Chọn phần văn bản cần sao chép, nhấn Ctrl + C rồi đưa con trỏ văn bản đến vị trí cần sao chép, nhấn Ctrl + V",
+                "isCorrect": true
+            },
+            {
+                "text": "Chọn phần văn bản cần sao chép, nhấn Ctrl + V rồi đưa con trỏ văn bản đến vị trí cần sao chép, nhấn Ctrl + C",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn Text Box chứa đoạn văn bản đó, nhấn Ctrl + C rồi đưa con trỏ văn bản đến vị trí cần sao chép, nhấn Ctrl + V",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn Text Box chứa đoạn văn bản đó, nhấn Ctrl + V rồi đưa con trỏ văn bản đến vị trí cần sao chép, nhấn Ctrl + C",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Muốn định dạng đậm, in nghiêng hoặc gạch chân thì vào Thẻ nào?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Insert",
+                "isCorrect": false
+            },
+            {
+                "text": "Home",
+                "isCorrect": true
+            },
+            {
+                "text": "View",
+                "isCorrect": false
+            },
+            {
+                "text": "Picture",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Muốn chụp màn hình trong PowerPoint, người dùng phải vào đâu?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Home\\Screenshot",
+                "isCorrect": false
+            },
+            {
+                "text": "Insert\\ Screenshot",
+                "isCorrect": true
+            },
+            {
+                "text": "Insert\\Screenshoting",
+                "isCorrect": false
+            },
+            {
+                "text": "Không thực hiện được",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Muốn cho Slide chạy từ slide đầu tiên, trong thẻ Slide Show, chọn:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "From Beginning",
+                "isCorrect": true
+            },
+            {
+                "text": "From Current Slide",
+                "isCorrect": false
+            },
+            {
+                "text": "Present Online",
+                "isCorrect": false
+            },
+            {
+                "text": "Custom Slide Show",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Muốn cho Slide chạy từ vị trí đang được chọn, trong thẻ Slide Show, chọn:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "From Beginning",
+                "isCorrect": false
+            },
+            {
+                "text": "From Current Slide",
+                "isCorrect": true
+            },
+            {
+                "text": "Present Online",
+                "isCorrect": false
+            },
+            {
+                "text": "Custom Slide Show",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Muốn chèn đối tượng Picture vào Slide, chọn Thẻ nào?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Insert",
+                "isCorrect": true
+            },
+            {
+                "text": "Home",
+                "isCorrect": false
+            },
+            {
+                "text": "View",
+                "isCorrect": false
+            },
+            {
+                "text": "Picture",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi thực hiện lệnh in Slide hiện thời ta chọn:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "File->Chọn Print->Chọn Print Current Slide",
+                "isCorrect": true
+            },
+            {
+                "text": "File->Chọn Print->Chọn Seletion",
+                "isCorrect": false
+            },
+            {
+                "text": "File->Chọn Print->Chọn Slide",
+                "isCorrect": false
+            },
+            {
+                "text": "File->Chọn Print->Chọn All",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi thực hiện hiệu ứng động cho đối tượng trên Slide theo kiểu nhấn mạnh ta thực hiện lệnh nào sau đây:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Chọn đối tượng -> Chọn Animation -> Exit -> chọn một kiểu nhấn mạnh",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn đối tượng -> Chọn Animation -> Entrance -> chọn một kiểu nhấn mạnh",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn đối tượng -> Chọn Animation -> Motion Paths -> chọn một kiểu nhấn mạnh",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn đối tượng -> Chọn Animation -> Emphasis -> Chọn một kiểu nhấn mạnh",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để xây dựng hiệu ứng chuyển động qua từng slides, ta dùng chức năng Slide Transition trong menu nào?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Home",
+                "isCorrect": false
+            },
+            {
+                "text": "Animations",
+                "isCorrect": false
+            },
+            {
+                "text": "Transitions",
+                "isCorrect": true
+            },
+            {
+                "text": "Insert",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để trình chiếu từ slide hiện hành, nhấn tổ hợp phím nào sau đây:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "F4",
+                "isCorrect": false
+            },
+            {
+                "text": "F5",
+                "isCorrect": false
+            },
+            {
+                "text": "Shift + F5",
+                "isCorrect": true
+            },
+            {
+                "text": "Shift + F4",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để trình chiếu các slides từ đầu, nhấn phím hoặc tổ hợp phím nào sau đây:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "F4",
+                "isCorrect": false
+            },
+            {
+                "text": "F5",
+                "isCorrect": true
+            },
+            {
+                "text": "Shift + F4",
+                "isCorrect": false
+            },
+            {
+                "text": "Shift + F5",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để thực hiện việc chèn bảng biểu vào slide ta phải",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Vào Table → Insert Table",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Table → Insert",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Insert → Table",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào Format → Table",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để thiết lập sơ đồ tổ chức và trình bày lên Slide, ta thực hiện:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Vào Insert -> SmartArt",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào Design -> SmartArt",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào New -> SmartArt",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Home -> SmartArt",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để tạo biểu đồ trong PowerPoint, sau khi chọn dữ liệu ta thực hiện:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Vào File -> Chart",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Home -> Chart",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Insert -> Chart",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào Design -> Chart",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để sử dụng một mẫu thiết kế sẵn (Design) trong PowerPoint, người dùng phải vào đâu trên PowerPoint 2019?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Design -> Themes",
+                "isCorrect": true
+            },
+            {
+                "text": "Design -> Variants",
+                "isCorrect": false
+            },
+            {
+                "text": "Design -> Customize",
+                "isCorrect": false
+            },
+            {
+                "text": "Design -> Design",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để một bài thuyết trình đạt hiệu quả cao, chúng ta cần quan tâm tới vấn đề nào đầu tiên?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Nắm vững nội dung cần thuyết trình",
+                "isCorrect": true
+            },
+            {
+                "text": "Đối tượng nghe bài thuyết trình",
+                "isCorrect": false
+            },
+            {
+                "text": "Phương pháp thuyết trình",
+                "isCorrect": false
+            },
+            {
+                "text": "Hình thức thuyết trình",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để lưu lại tập tin GADT.pptx đang mở, ta có thể:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Vào File -> Save",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào File -> Save As",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào File -> Save hoặc File -> Save As",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào File -> Close",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để in Slide 1, 3, 6, 9 ta chọn File \\ Print:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Chọn Current Slide -> Gõ vào 1, 3, 6, 9",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn Slides -> Gõ vào 1, 3, 6, 9",
+                "isCorrect": true
+            },
+            {
+                "text": "Chọn All -> Gõ vào 1, 3, 6, 9",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn Seletion -> Gõ vào 1, 3, 6, 9",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để gom nhóm các đối tượng hình vẽ, ta thực hiện:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Click phải lên một đối tượng, chọn Group All",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn các đối tượng, click phải chọn GroupAll",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn các đối tượng, click phải chọn Group -> Group All",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn các đối tượng, click phải chọn Group -> Group",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để chuyển ký tự đầu tiên của một từ về định dạng viết hoa, nhấn tổ hợp phím nào sau đây:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Ctrl + Shift + F3",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + F3",
+                "isCorrect": false
+            },
+            {
+                "text": "Shift + F3",
+                "isCorrect": true
+            },
+            {
+                "text": "Alt + F3",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để cho hai hiệu ứng chạy cùng lúc, trong thẻ Animations -> Start, ta chọn:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "OnClick",
+                "isCorrect": false
+            },
+            {
+                "text": "With Previous",
+                "isCorrect": true
+            },
+            {
+                "text": "After Previous",
+                "isCorrect": false
+            },
+            {
+                "text": "Không chọn gì cả",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để căn đều hai bên cho một đoạn văn bản trong powerpoint, dùng tổ hợp phím nào sau đây:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Ctrl + C",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + J",
+                "isCorrect": true
+            },
+            {
+                "text": "Ctrl + E",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + L",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Đang trình chiếu một bài trình diễn, muốn đi tiếp tục qua Slide khác, ta nhấn phím:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Mũi tên trái",
+                "isCorrect": false
+            },
+            {
+                "text": "Mũi tên phải",
+                "isCorrect": true
+            },
+            {
+                "text": "Tab",
+                "isCorrect": false
+            },
+            {
+                "text": "Delete",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Đang trình chiếu một bài trình diễn, muốn dừng trình diễn ta nhấn phím:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Tab",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl",
+                "isCorrect": false
+            },
+            {
+                "text": "Esc",
+                "isCorrect": true
+            },
+            {
+                "text": "Home",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Đang trình chiếu một bài trình diễn, muốn dùng bút vẽ để vẽ, thực hiện:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Nhấn phím P",
+                "isCorrect": false
+            },
+            {
+                "text": "Click phải chọn Pen",
+                "isCorrect": false
+            },
+            {
+                "text": "Click phải chọn Pointer Options\\Pencil",
+                "isCorrect": false
+            },
+            {
+                "text": "Click trái chuột chọn Pointer Options\\Pen",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Đang soạn thảo trên PowerPoint, thực hiện một số thao tác nhưng không đạt yêu cầu cần phải trở lại trước đó ta sử dụng tổ hợp phím nào sau đây?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "CTRL+Z",
+                "isCorrect": true
+            },
+            {
+                "text": "CTRL+B",
+                "isCorrect": false
+            },
+            {
+                "text": "CTRL+A",
+                "isCorrect": false
+            },
+            {
+                "text": "CTRL+R",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Chức năng Effect Options trong Thẻ Animation dùng để làm gì?",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Đặt hiệu ứng cho từng đối tượng",
+                "isCorrect": false
+            },
+            {
+                "text": "Thiết lập bộ chọn hiệu ứng",
+                "isCorrect": false
+            },
+            {
+                "text": "Thiết lập tùy chọn khi đã có hiệu ứng",
+                "isCorrect": true
+            },
+            {
+                "text": "Thiết lập hiệu ứng mặc định",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Chọn phát biểu sai:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Khi tạo hiệu ứng động cho một khối văn bản ta có thể cho xuất hiện lần lượt từng từ trong khối văn bản khi trình chiếu",
+                "isCorrect": false
+            },
+            {
+                "text": "Sau khi đã tạo hiệu ứng động cho một đối tượng nào đó ta không thể thay đổi kiểu hiệu ứng cho đối tượng đó",
+                "isCorrect": true
+            },
+            {
+                "text": "Có thể thực hiện hiệu ứng chuyển trang cho 1 slide bất kỳ trong bài trình diễn",
+                "isCorrect": false
+            },
+            {
+                "text": "Có thể thực hiện hiệu ứng chuyển trang cho tất cả các slide trong bài trình diễn",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Chèn hình ảnh vào một Slide ta thực hiện:",
+        "level": 2,
+        "answer": [
+            {
+                "text": "Vào Insert -> Chọn Pictures -> chọn....",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào Format -> Chọn Picrtures -> chọn....",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Design -> Chọn Pictures -> chọn....",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Home -> Chọn Picrtures -> chọn....",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    }
+]

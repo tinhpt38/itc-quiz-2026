@@ -1,0 +1,922 @@
+[
+    {
+        "question": "Ứng dụng xử lý văn bản của LibreOffice là:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Impress",
+                "isCorrect": false
+            },
+            {
+                "text": "Calc",
+                "isCorrect": false
+            },
+            {
+                "text": "Writer",
+                "isCorrect": true
+            },
+            {
+                "text": "Base",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong soạn thảo Word, muốn chèn các kí tự đặc biệt vào văn bản, ta thực hiện:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào thẻ View/ Symbol",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Insert/ Symbol",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào thẻ Format/ Symbol",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Tools/ Symbol",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trong phân nhóm chương trình Microsoft Office có các thành phần phần mềm sau đây:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Microsoft Word, Excel, Access, PowerPoint",
+                "isCorrect": true
+            },
+            {
+                "text": "Microsoft Word, WordPad, Paint",
+                "isCorrect": false
+            },
+            {
+                "text": "Microsoft Word, Excel, Notepad, Power Point",
+                "isCorrect": false
+            },
+            {
+                "text": "Notepad, WordPad, Paint",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Trên thanh Ribbon, thẻ Layout, nhóm Page Setup. Chức năng của Margins là:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Chọn khổ giấy",
+                "isCorrect": false
+            },
+            {
+                "text": "Định dạng trang in",
+                "isCorrect": true
+            },
+            {
+                "text": "Chọn chiều trang giấy",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn số lượng bản in",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Tổ hợp phím Ctrl + U có tác dụng gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Chuyển chữ thường thành chữ in nghiêng",
+                "isCorrect": false
+            },
+            {
+                "text": "Chuuyển chữ thường thành chữ in đậm",
+                "isCorrect": false
+            },
+            {
+                "text": "Chuyển chữ thường thành chữ có gạch dưới",
+                "isCorrect": true
+            },
+            {
+                "text": "Không có chức năng gì",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Tổ hợp phím Ctrl + I có tác dụng gì?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Chuyển chữ thường thành chữ in nghiêng",
+                "isCorrect": true
+            },
+            {
+                "text": "Chuyển chữ thường thành chữ in đậm",
+                "isCorrect": false
+            },
+            {
+                "text": "Chuyển chữ thường thành chữ có gạch dưới",
+                "isCorrect": false
+            },
+            {
+                "text": "Không có chức năng gì",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Thanh Zoom hiển thị 100% có nghĩa là?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Văn bản được hiển thị như khi được in ra giấy",
+                "isCorrect": true
+            },
+            {
+                "text": "Văn bản đang được hiển thị ở chế độ Full Screen Reading",
+                "isCorrect": false
+            },
+            {
+                "text": "Văn bản được phóng to gấp đôi so với ban đầu",
+                "isCorrect": false
+            },
+            {
+                "text": "Văn bản đang được hiển thị ở chế độ Website",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Sử dụng tổ hợp phím Ctrl + O có tác dụng:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Mở một tài liệu mới",
+                "isCorrect": false
+            },
+            {
+                "text": "Mở một tài liệu có sẵn trong đĩa",
+                "isCorrect": true
+            },
+            {
+                "text": "Lưu một tài liệu",
+                "isCorrect": false
+            },
+            {
+                "text": "Đóng chương trình Microsoft Word",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Sau khi chèn một đối tượng hình ảnh vào trong văn bản, để hình ảnh này làm nền phía sau chữ, người dùng phải chọn đối tượng và thực hiện:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào thẻ View/ Wrap Text/ Behind Text",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Format/ Wrap Text/ Behind Text",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào thẻ View/ Wrap Text/ Tight",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Format/ Wrap Text/ Tight",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Phím chức năng Tab có tác dụng:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Di chuyển con trỏ về đầu dòng.",
+                "isCorrect": false
+            },
+            {
+                "text": "Xóa ký tự phía trước con trỏ.",
+                "isCorrect": false
+            },
+            {
+                "text": "Lùi văn bản vào với một khoảng cách cố định.",
+                "isCorrect": true
+            },
+            {
+                "text": "Chuyển con trỏ xuống phía dưới 1 trang",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi soạn thảo văn bản trong Word, dùng chuột trái chọn một đoạn văn bản, sau đó nhấn thứ tự các tổ hợp phím Ctrl + I, Ctrl + R, kết quả sẽ là:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Đoạn văn bản đã chọn được in nghiêng, căn lề giữa",
+                "isCorrect": false
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được gạch chân, căn lề phải",
+                "isCorrect": false
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được in nghiêng, căn lề phải",
+                "isCorrect": true
+            },
+            {
+                "text": "Đoạn văn bản đã chọn là chữ thường, căn lề phải",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi soạn thảo văn bản trong Word, dùng chuột trái chọn một đoạn văn bản, sau đó nhấn thứ tự các tổ hợp phím Ctrl + U, Ctrl + L, kết quả sẽ là:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Đoạn văn bản đã chọn được gạch chân, căn lề trái",
+                "isCorrect": true
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được in nghiêng, căn lề trái",
+                "isCorrect": false
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được gạch chân, căn lề phải",
+                "isCorrect": false
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được làm đậm, căn đều hai bên",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi soạn thảo văn bản trong Word, dùng chuột trái chọn một đoạn văn bản, sau đó nhấn thứ tự các tổ hợp phím Ctrl + B, Ctrl + E, kết quả sẽ là:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Đoạn văn bản đã chọn được in nghiêng, căn chính giữa",
+                "isCorrect": false
+            },
+            {
+                "text": "Đoạn văn bản đã chọn có gạch chân, căn chính giữa",
+                "isCorrect": false
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được làm đậm, căn lề đều hai bên",
+                "isCorrect": false
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được làm đậm, căn chính giữa",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi soạn thảo văn bản trong Word, dùng chuột trái chọn một đoạn văn bản, sau đó nhấn thứ tự các tổ hợp phím Ctrl + B, Ctrl + J, kết quả sẽ là:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Đoạn văn bản đã chọn được làm đậm, căn lề phải",
+                "isCorrect": false
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được làm đậm, căn lề đều 2 bên",
+                "isCorrect": true
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được căn lề phải, chữ in nghiêng",
+                "isCorrect": false
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được làm đậm, căn chính giữa",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi soạn thảo văn bản trong Word, dùng chuột trái chọn một đoạn văn bản, sau đó nhấn thứ tự các tổ hợp phím Ctrl + I, Ctrl + U, kết quả sẽ là:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Đoạn văn bản đã chọn được gạch chân, in nghiêng",
+                "isCorrect": false
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được làm đậm, căn lề giữa",
+                "isCorrect": false
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được in nghiêng, căn lề đều 2 bên",
+                "isCorrect": false
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được in nghiêng, có gạch chân",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi soạn thảo văn bản trong Word, dùng chuột trái chọn một đoạn văn bản, sau đó nhấn thứ tự các tổ hợp phím Ctrl + B, Ctrl + I, kết quả sẽ là:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Đoạn văn bản đã chọn được in nghiêng, có gạch chân",
+                "isCorrect": false
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được làm đậm, căn lề đều 2 bên",
+                "isCorrect": false
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được làm đậm, in nghiêng",
+                "isCorrect": true
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được in nghiêng, căn chính giữa",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi soạn thảo văn bản trong Word, dùng chuột trái chọn một đoạn văn bản, sau đó nhấn thứ tự các tổ hợp phím Ctrl + B, Ctrl + U, kết quả sẽ là:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Đoạn văn bản đã chọn được làm đậm, có gạch chân",
+                "isCorrect": true
+            },
+            {
+                "text": "Đoạn văn bản đã chọn có gạch chân, căn lề đều 2 bên",
+                "isCorrect": false
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được làm đậm, in nghiêng",
+                "isCorrect": false
+            },
+            {
+                "text": "Đoạn văn bản đã chọn được in nghiêng, căn chính giữa",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi đang soạn thảo văn bản, người dùng chọn một đoạn văn bản rồi nhấn tổ hợp phím Ctrl + X, việc làm này có tác dụng:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Cắt hẳn phần văn bản vừa khối chọn lưu vào bộ nhớ",
+                "isCorrect": true
+            },
+            {
+                "text": "Dán phần văn bản trong bộ nhớ đè lên vị trí văn bản đã khối chọn",
+                "isCorrect": false
+            },
+            {
+                "text": "Sao chép phần văn bản vừa khối chọn vào bộ nhớ",
+                "isCorrect": false
+            },
+            {
+                "text": "Xóa toàn bộ phần văn bản vừa khối chọn",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Khi đang soạn thảo văn bản, người dùng chọn một đoạn văn bản rồi nhấn tổ hợp phím Ctrl + C, việc làm này có tác dụng:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Cắt hẳn phần văn bản vừa khối chọn lưu vào bộ nhớ",
+                "isCorrect": false
+            },
+            {
+                "text": "Dán phần văn bản trong bộ nhớ đè lên vị trí văn bản đã khối chọn",
+                "isCorrect": false
+            },
+            {
+                "text": "Sao chép phần văn bản vừa chọn vào bộ nhớ",
+                "isCorrect": true
+            },
+            {
+                "text": "Xóa toàn bộ phần văn bản vừa khối chọn",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Hãy cho biết chức năng của tổ hợp phím Ctrl + J?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Căn thẳng ở giữa văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Căn thẳng lề trái văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Căn thẳng lề phải văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Căn thẳng lề đều hai bên văn bản",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Hãy cho biết chức năng của tổ hợp phím Ctrl + R?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Căn thẳng ở giữa văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Căn thẳng lề trái văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Căn thẳng lề phải văn bản",
+                "isCorrect": true
+            },
+            {
+                "text": "Căn thẳng lề trên văn bản",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Hãy cho biết chức năng của tổ hợp phím Ctrl + L?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Căn thẳng ở giữa văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Căn thẳng lề trái văn bản",
+                "isCorrect": true
+            },
+            {
+                "text": "Căn thẳng lề phải văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Căn thẳng lề trên văn bản",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Hãy cho biết chức năng của tổ hợp phím Ctrl + E?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Căn thẳng ở giữa văn bản",
+                "isCorrect": true
+            },
+            {
+                "text": "Căn thẳng lề trái văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Căn thẳng lề phải văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Căn thẳng lề trên văn bản",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để xóa một khối văn bản, ta làm thế nào:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Chọn khối, ấn Tab",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn khối, ấn Delete",
+                "isCorrect": true
+            },
+            {
+                "text": "Chọn khối, ấn Ctrl + Delete",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn khối, ấn Ctrl + Shift + Delete",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để xóa bảng biểu hiện tại đang được chọn, ta sử dụng chức năng nào sau đây:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào thẻ Layout/ Delete/ Delete Cells",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Design/ Delete/ Delete Table",
+                "isCorrect": false
+            },
+            {
+                "text": "Bôi đen bảng biểu, nhấn phím Delete",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Layout/ Delete/ Delete Table",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để thiết lập font chữ mặc định cho chương trình Microsoft Word, ta thực hiện:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào thẻ Home/ gõ Font và cỡ chữ/ Enter",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Home/ Mở hộp thoại Font/ Chọn font và cỡ chữ/ Chọn Set as default",
+                "isCorrect": true
+            },
+            {
+                "text": "Chọn File/ Option/ Font/ Chọn font và cỡ chữ/ Chọn Set as default",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn File/ Option/ Advanced/ Chọn font và cỡ chữ/ Chọn Set as default",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để tạo kí tự lớn, chiếm chỗ vài dòng của một đoạn văn bản đang soạn thảo, người dùng cần thực hiện:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Bôi đen kí tự/ vào thẻ Design/ nhóm Text/ DropCap",
+                "isCorrect": false
+            },
+            {
+                "text": "Bôi đen các kí tự/ vào thẻ Insert/ nhóm Text/ WordArt/ chọn kiểu và số dòng",
+                "isCorrect": false
+            },
+            {
+                "text": "Bôi đen các kí tự/ vào thẻ Layout/ nhóm Text/ DropCap/ chọn kiểu và số dòng",
+                "isCorrect": false
+            },
+            {
+                "text": "Để con trỏ ở đầu đoạn/ vào thẻ Insert/ nhóm Text/ DropCap/ chọn kiểu và số dòng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để phóng to màn hình soạn thảo văn bản ta thực hiện như thế nào?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Click chuột vào nút Maximize tại góc trên cùng bên trái màn hình",
+                "isCorrect": false
+            },
+            {
+                "text": "Click chuột vào nút Maximize tại góc trên cùng bên dưới màn hình",
+                "isCorrect": false
+            },
+            {
+                "text": "Click chuột vào nút Maximize tại góc trên cùng bên trên màn hình",
+                "isCorrect": false
+            },
+            {
+                "text": "Click chuột vào nút Maximize tại góc trên cùng bên phải màn hình",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để lưu lại tài liệu đang mở vào một thư mục khác và đổi tên hoặc lưu file với định dạng khác, vào menu File/ chức năng:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Save",
+                "isCorrect": false
+            },
+            {
+                "text": "Save as",
+                "isCorrect": true
+            },
+            {
+                "text": "New",
+                "isCorrect": false
+            },
+            {
+                "text": "Export",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để đổi màu cho đoạn văn bản, ta làm như sau:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Chọn đoạn văn bản cần đổi màu, vào thẻ Home, trong nhóm Font/ màu từ biểu tượng chữ A (Font Color)",
+                "isCorrect": true
+            },
+            {
+                "text": "Chọn đoạn văn bản cần đổi màu, nhấn tổ hợp phím Ctrl + A",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn đoạn văn bản cần đổi màu, vào thẻ Page Layout/ màu từ biểu tượng chữ A",
+                "isCorrect": false
+            },
+            {
+                "text": "Chọn đoạn văn bản cần đổi màu, nhấn tổ hợp phím Ctrl + C",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để có thể viết hoa một chữ cái trong Word, ta dùng phím:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Caps Lock",
+                "isCorrect": false
+            },
+            {
+                "text": "Shift trái + Chữ cái",
+                "isCorrect": false
+            },
+            {
+                "text": "Shift phải + Chữ cái",
+                "isCorrect": false
+            },
+            {
+                "text": "Tất cả đáp án đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để chuyển con trỏ lên phía trên 1 trang màn hình ta dùng phím:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Backspace",
+                "isCorrect": false
+            },
+            {
+                "text": "Home",
+                "isCorrect": false
+            },
+            {
+                "text": "Page Down",
+                "isCorrect": false
+            },
+            {
+                "text": "Page Up",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để chèn một hình ảnh từ ổ đĩa vào văn bản, ta thực hiện:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào thẻ Insert/ Page Number",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Insert/ Clip Art",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Insert/ WordArt",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Insert/ Pictures/ This Devices…",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để chèn kí tự đặc biệt (Symbol) vào văn bản, ta thực hiện:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào thẻ View/ Symbol/ Chọn biểu tượng cần chèn/ Insert/ Close",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ View/ Symbol/ Chọn biểu tượng cần chèn/ Insert/ Open",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Insert/ Symbol/ Chọn biểu tượng cần chèn/ Insert/ Close",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào thẻ Insert/ Symbol/ Chọn biểu tượng cần chèn/ Insert/ Open",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để chèn chữ nghệ thuật vào văn bản, ta dùng chức năng:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào Insert/ Picture",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Insert/ Clip Art",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Insert/ WordArt",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào Insert/ Page Number",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để chèn các lưu đồ vào văn bản, ta sử dụng chức năng:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào thẻ Insert/ Shapes",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Insert/ Smart Art",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào thẻ Insert/ Clip Art",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ Insert/ Chart",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để canh lề giữa đoạn văn bản đã chọn, trong Word ta nhấn tổ hợp phím:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Ctrl + G",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + J",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + E",
+                "isCorrect": true
+            },
+            {
+                "text": "Ctrl + B",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Để bật chức năng Thanh thước kẻ (Ruler) ta thực hiện lệnh nào trong menu Ribbon?",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Vào thẻ View/ trong nhóm Show/ check vào mục Gridlines",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ View/ trong nhóm Show/ check vào mục Ruler",
+                "isCorrect": true
+            },
+            {
+                "text": "Vào thẻ Review/ trong nhóm Show/ check vào mục Ruler",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào thẻ View/ trong nhóm Show/ check vào mục Navigation Pane",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Công cụ Format Painter trong Microsoft Word cho phép người dùng:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Sao chép định dạng",
+                "isCorrect": true
+            },
+            {
+                "text": "Sao chép nội dung văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Định dạng màu nền cho văn bản",
+                "isCorrect": false
+            },
+            {
+                "text": "Định dạng màu cho các kí tự",
+                "isCorrect": false
+            }
+        ],
+        "score": 0.0
+    },
+    {
+        "question": "Cách nào sau đây không được dùng để sao chép văn bản:",
+        "level": 1,
+        "answer": [
+            {
+                "text": "Nhấp chuột phải/ Copy",
+                "isCorrect": false
+            },
+            {
+                "text": "Vào Home/ Copy",
+                "isCorrect": false
+            },
+            {
+                "text": "Nhấn tổ hợp phím Ctrl + C",
+                "isCorrect": false
+            },
+            {
+                "text": "Nhấn tổ hợp phím Ctrl + Y",
+                "isCorrect": true
+            }
+        ],
+        "score": 0.0
+    }
+]
