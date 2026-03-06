@@ -1,0 +1,21 @@
+{
+  "name": "itc-quiz-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun run --watch src/index.ts",
+    "start": "bun run src/index.ts",
+    "dev:ui": "vite",
+    "dev:all": "concurrently \"bun run start\" \"bun run dev:ui\"",
+    "db:migrate": "bun run src/db/migrate.ts",
+    "db:seed": "bun run src/db/seed.ts"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.1",
+    "@types/bun": "latest",
+    "concurrently": "^9.1.0",
+    "tailwindcss": "^4.2.1",
+    "vite": "^6.0.3"
+  }
+}

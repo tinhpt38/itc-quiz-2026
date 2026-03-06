@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@import "@fontsource/inter/400.css";
+@import "@fontsource/inter/500.css";
+@import "@fontsource/inter/600.css";
+@import "@fontsource/inter/700.css";
+@import "material-symbols/outlined.css";
+
+@theme {
+	--color-primary: #136dec;
+	--color-background: #f8fafc;
+	--font-display: "Inter", "Noto Sans", "sans-serif";
+}
+
+@layer base {
+	body {
+		@apply bg-background font-display text-slate-800 min-h-screen;
+		margin: 0;
+		padding: 0;
+	}
+}

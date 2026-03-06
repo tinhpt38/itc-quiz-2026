@@ -1,0 +1,143 @@
+<div class="flex flex-1 overflow-hidden h-full w-full">
+  <!-- Nội dung chính: Ngân hàng câu hỏi (luôn full width) -->
+  <div class="flex flex-col flex-1 min-w-0 overflow-hidden border-r border-slate-200 bg-white" id="question-list-panel">
+    <div class="p-6 pb-2">
+      <div class="flex justify-between items-center mb-4">
+        <h1 class="text-2xl font-bold text-slate-900">Ngân hàng câu hỏi</h1>
+        <button id="btn-new-question" type="button"
+          class="flex items-center gap-2 px-4 py-1.5 text-sm font-medium bg-primary text-white rounded-lg hover:bg-primary/90">
+          <span class="material-symbols-outlined text-lg">add</span> Câu hỏi mới
+        </button>
+      </div>
+      <div class="flex gap-3 flex-wrap mb-4">
+        <div class="relative flex-1 min-w-[200px] max-w-sm">
+          <input type="text" id="filter-search" placeholder="Tìm câu hỏi..."
+            class="w-full pl-3 pr-9 py-1.5 text-sm border border-slate-200 rounded-lg bg-white text-slate-700 focus:ring-2 focus:ring-primary focus:border-primary" />
+          <span class="material-symbols-outlined absolute right-2 top-1/2 -translate-y-1/2 text-slate-400 pointer-events-none text-base">search</span>
+        </div>
+        <div class="relative">
+          <select id="filter-subject"
+            class="pl-4 pr-9 py-2.5 text-sm border border-slate-200 rounded-lg bg-white text-slate-700 appearance-none focus:ring-2 focus:ring-primary focus:border-primary w-48">
+            <option value="">Chọn môn...</option>
+          </select>
+          <span class="material-symbols-outlined absolute right-2 top-1/2 -translate-y-1/2 text-slate-400 pointer-events-none text-base">expand_more</span>
+        </div>
+        <div class="relative">
+          <select id="filter-module"
+            class="pl-4 pr-9 py-2.5 text-sm border border-slate-200 rounded-lg bg-white text-slate-700 appearance-none focus:ring-2 focus:ring-primary focus:border-primary w-36">
+            <option value="">Module</option>
+            <option value="1">Module 1</option>
+            <option value="2">Module 2</option>
+            <option value="3">Module 3</option>
+            <option value="4">Module 4</option>
+            <option value="5">Module 5</option>
+            <option value="6">Module 6</option>
+          </select>
+        </div>
+        <div class="relative">
+          <select id="filter-level"
+            class="pl-4 pr-9 py-2.5 text-sm border border-slate-200 rounded-lg bg-white text-slate-700 appearance-none focus:ring-2 focus:ring-primary focus:border-primary w-32">
+            <option value="">Cấp độ</option>
+            <option value="1">Cấp 1</option>
+            <option value="2">Cấp 2</option>
+            <option value="3">Cấp 3</option>
+          </select>
+        </div>
+      </div>
+    </div>
+    <div class="flex-1 overflow-auto px-6 pb-6">
+      <div class="overflow-hidden rounded-lg border border-slate-200">
+        <table class="w-full text-left border-collapse">
+          <thead>
+            <tr class="bg-slate-50 border-b border-slate-200">
+              <th class="px-4 py-3 text-sm font-medium text-slate-500 w-16">ID</th>
+              <th class="px-4 py-3 text-sm font-medium text-slate-500">Câu hỏi</th>
+              <th class="px-4 py-3 text-sm font-medium text-slate-500 w-24">Môn / Mức</th>
+              <th class="px-4 py-3 text-sm font-medium text-slate-500 w-24 text-center">Thao tác</th>
+            </tr>
+          </thead>
+          <tbody id="questions-tbody" class="divide-y divide-slate-100">
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- Drawer: Tạo/Sửa câu hỏi (trượt từ phải vào khi bấm Tạo hoặc Sửa) -->
+  <div class="fixed inset-0 z-40 pointer-events-none [&.open]:pointer-events-auto" id="question-drawer-backdrop">
+    <div class="absolute inset-0 bg-black/40 opacity-0 transition-opacity duration-200" id="question-drawer-overlay" aria-hidden="true"></div>
+    <div class="absolute top-0 right-0 h-full w-full max-w-xl bg-slate-50 shadow-2xl flex flex-col overflow-hidden translate-x-full transition-transform duration-200 ease-out z-50" id="question-form-panel">
+      <div class="p-6 border-b border-slate-200 bg-white shrink-0">
+        <h2 class="text-lg font-bold text-slate-900 flex items-center gap-2" id="form-title">Tạo / Sửa câu hỏi</h2>
+      </div>
+    <form id="question-form" class="flex flex-col flex-1" onsubmit="return false;">
+      <div class="p-6 flex-1 space-y-6">
+        <div class="space-y-4">
+          <div class="flex gap-4">
+            <div class="flex-1">
+              <label class="block text-sm font-medium text-slate-700 mb-1">Môn thi</label>
+              <select id="q-subject" required
+                class="form-select w-full rounded-lg border border-slate-300 bg-white text-sm text-slate-900 focus:border-primary focus:ring-1 focus:ring-primary px-4 py-2.5">
+              </select>
+            </div>
+            <div class="w-28">
+              <label class="block text-sm font-medium text-slate-700 mb-1">Module</label>
+              <select id="q-module"
+                class="w-full rounded-lg border border-slate-300 bg-white text-sm text-slate-900 focus:border-primary focus:ring-1 focus:ring-primary px-4 py-2.5">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+              </select>
+            </div>
+            <div class="w-28">
+              <label class="block text-sm font-medium text-slate-700 mb-1">Cấp độ</label>
+              <select id="q-difficulty"
+                class="w-full rounded-lg border border-slate-300 bg-white text-sm text-slate-900 focus:border-primary focus:ring-1 focus:ring-primary px-4 py-2.5">
+                <option value="1">1 - Dễ</option>
+                <option value="2">2 - TB</option>
+                <option value="3">3 - Khó</option>
+              </select>
+            </div>
+          </div>
+          <div>
+            <label class="block text-sm font-medium text-slate-700 mb-1">Nội dung câu hỏi (rich text)</label>
+            <textarea id="q-content" rows="4" class="w-full rounded-lg border border-slate-300 bg-white text-sm text-slate-900" placeholder="Nhập nội dung câu hỏi..."></textarea>
+          </div>
+          <div class="space-y-3 pt-2">
+            <label class="block text-sm font-medium text-slate-700">Các đáp án (chọn một đáp án đúng)</label>
+            <div class="flex items-center gap-3">
+              <input name="q_correct_answer" type="radio" value="0" required class="text-primary focus:ring-primary" />
+              <span class="font-bold text-sm text-slate-500 w-6">A.</span>
+              <input type="text" class="q-option flex-1 min-h-[52px] px-3 py-2.5 rounded-lg border border-slate-300 bg-white text-base text-slate-900 focus:border-primary focus:ring-1 focus:ring-primary" required />
+            </div>
+            <div class="flex items-center gap-3">
+              <input name="q_correct_answer" type="radio" value="1" class="text-primary focus:ring-primary" />
+              <span class="font-bold text-sm text-slate-500 w-6">B.</span>
+              <input type="text" class="q-option flex-1 min-h-[52px] px-3 py-2.5 rounded-lg border border-slate-300 bg-white text-base text-slate-900 focus:border-primary focus:ring-1 focus:ring-primary" required />
+            </div>
+            <div class="flex items-center gap-3">
+              <input name="q_correct_answer" type="radio" value="2" class="text-primary focus:ring-primary" />
+              <span class="font-bold text-sm text-slate-500 w-6">C.</span>
+              <input type="text" class="q-option flex-1 min-h-[52px] px-3 py-2.5 rounded-lg border border-slate-300 bg-white text-base text-slate-900 focus:border-primary focus:ring-1 focus:ring-primary" required />
+            </div>
+            <div class="flex items-center gap-3">
+              <input name="q_correct_answer" type="radio" value="3" class="text-primary focus:ring-primary" />
+              <span class="font-bold text-sm text-slate-500 w-6">D.</span>
+              <input type="text" class="q-option flex-1 min-h-[52px] px-3 py-2.5 rounded-lg border border-slate-300 bg-white text-base text-slate-900 focus:border-primary focus:ring-1 focus:ring-primary" required />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="p-4 border-t border-slate-200 bg-white flex justify-end gap-3 mt-auto">
+        <button type="button" id="btn-cancel-edit"
+          class="px-4 py-2 text-sm font-medium text-slate-700 hover:bg-slate-100 rounded-lg transition-colors">Hủy</button>
+        <button type="submit" id="btn-save-question"
+          class="px-4 py-2 text-sm font-medium bg-primary text-white rounded-lg hover:bg-primary/90 transition-colors shadow-sm">Lưu câu hỏi</button>
+      </div>
+    </form>
+    </div>
+  </div>
+</div>

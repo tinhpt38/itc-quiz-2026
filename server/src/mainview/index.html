@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ITC Quiz - Trang Quản Trị Hệ Thống</title>
+  <link rel="stylesheet" href="./style.css">
+  <script src="https://cdn.jsdelivr.net/npm/tinymce@6.8.2/tinymce.min.js" referrerpolicy="origin"></script>
+</head>
+
+<body class="bg-slate-100 text-slate-800 overflow-hidden">
+  <div id="app" class="flex h-screen w-screen">
+    <!-- Sidebar -->
+    <aside id="sidebar"
+      class="w-64 bg-white border-r border-slate-200 flex-col hidden shrink-0 shadow-sm z-10 transition-all duration-300 relative">
+      <div class="h-16 flex items-center px-6 border-b border-slate-200">
+        <span class="material-symbols-outlined text-primary text-3xl mr-2">school</span>
+        <span class="text-xl font-bold font-display text-primary">ITC Quiz</span>
+      </div>
+      <nav class="flex-1 overflow-y-auto py-4">
+        <ul class="space-y-2 px-4">
+          <li><a data-route="subjects"
+              class="nav-link flex items-center px-3 py-2.5 text-slate-600 hover:bg-primary/10 hover:text-primary rounded-lg transition-colors cursor-pointer font-medium"><span
+                class="material-symbols-outlined mr-3 text-[22px]">library_books</span> Môn học</a></li>
+          <li><a data-route="questions"
+              class="nav-link flex items-center px-3 py-2.5 text-slate-600 hover:bg-primary/10 hover:text-primary rounded-lg transition-colors cursor-pointer font-medium"><span
+                class="material-symbols-outlined mr-3 text-[22px]">quiz</span> Ngân hàng câu hỏi</a></li>
+          <li><a data-route="settings"
+              class="nav-link flex items-center px-3 py-2.5 text-slate-600 hover:bg-primary/10 hover:text-primary rounded-lg transition-colors cursor-pointer font-medium"><span
+                class="material-symbols-outlined mr-3 text-[22px]">assignment</span> Quản lý kỳ thi</a></li>
+          <li><a data-route="dashboard"
+              class="nav-link flex items-center px-3 py-2.5 text-slate-600 hover:bg-primary/10 hover:text-primary rounded-lg transition-colors cursor-pointer font-medium"><span
+                class="material-symbols-outlined mr-3 text-[22px]">monitor</span> Giám sát phòng thi</a></li>
+          <li><a data-route="base_score"
+              class="nav-link flex items-center px-3 py-2.5 text-slate-600 hover:bg-primary/10 hover:text-primary rounded-lg transition-colors cursor-pointer font-medium"><span
+                class="material-symbols-outlined mr-3 text-[22px]">tune</span> Điểm cơ sở</a></li>
+          <li><a data-route="reports"
+              class="nav-link flex items-center px-3 py-2.5 text-slate-600 hover:bg-primary/10 hover:text-primary rounded-lg transition-colors cursor-pointer font-medium"><span
+                class="material-symbols-outlined mr-3 text-[22px]">analytics</span> Báo cáo</a></li>
+        </ul>
+      </nav>
+      <div class="p-4 border-t border-slate-200">
+        <div class="flex items-center mb-4 px-2">
+          <div class="w-8 h-8 rounded-full bg-primary text-white flex items-center justify-center font-bold mr-3">AD</div>
+          <div><p class="text-sm font-medium text-slate-900">Admin</p></div>
+        </div>
+        <a data-route="login"
+          class="nav-link flex items-center text-red-600 hover:bg-red-50 px-3 py-2.5 rounded-lg transition-colors cursor-pointer font-medium"><span
+            class="material-symbols-outlined mr-3 text-[22px]">logout</span> Đăng xuất</a>
+      </div>
+    </aside>
+
+    <!-- Work Area -->
+    <main id="workarea"
+      class="flex-1 w-full h-full overflow-y-auto relative hidden flex-col bg-slate-100 relative">
+      <!-- Content gets injected here -->
+    </main>
+
+    <!-- Login Fullscreen Area -->
+    <main id="loginarea" class="flex-1 w-full h-full flex flex-col relative bg-slate-50">
+      <!-- Login Content gets injected here initially -->
+    </main>
+  </div>
+  <script type="module" src="./main.ts"></script>
+</body>
+
+</html>

@@ -1,4 +1,7 @@
 {
+    "subject": "Ứng dụng công nghệ thông tin cơ bản",
+    "code": "UDCNTTCB",
+    "description": "6 module (1-6), mỗi module 3 cấp độ. Ví dụ: 1.1 = module 1 cấp 1, 1.2 = module 1 cấp 2, 6.3 = module 6 cấp 3.",
     "modules": [
         {
             "name": "1.1",

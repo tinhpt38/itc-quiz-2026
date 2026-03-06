@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html class="light" lang="vi">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ITC Quiz - Trang Quản Trị Hệ Thống</title>
+  <script type="module" crossorigin src="/assets/index-DfFSW72T.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-BX7cgXT6.css">
+</head>
+
+<body class="bg-slate-50 dark:bg-slate-900 text-slate-900 dark:text-slate-100 overflow-hidden">
+  <div id="app" class="flex h-screen w-screen">
+    <!-- Sidebar -->
+    <aside id="sidebar"
+      class="w-64 bg-white dark:bg-slate-900 border-r border-slate-200 dark:border-slate-800 flex-col hidden shrink-0 shadow-sm z-10 transition-all duration-300 relative">
+      <div class="h-16 flex items-center px-6 border-b border-slate-200 dark:border-slate-800">
+        <span class="material-symbols-outlined text-primary text-3xl mr-2">school</span>
+        <span class="text-xl font-bold font-display text-primary">ITC Quiz</span>
+      </div>
+      <nav class="flex-1 overflow-y-auto py-4">
+        <ul class="space-y-2 px-4">
+          <li><a data-route="settings"
+              class="nav-link flex items-center px-3 py-2.5 text-slate-600 dark:text-slate-400 hover:bg-primary/10 hover:text-primary dark:hover:bg-primary/20 rounded-lg transition-colors cursor-pointer font-medium"><span
+                class="material-symbols-outlined mr-3 text-[22px]">assignment</span> Quản lý kỳ thi</a></li>
+          <li><a data-route="dashboard"
+              class="nav-link flex items-center px-3 py-2.5 text-slate-600 dark:text-slate-400 hover:bg-primary/10 hover:text-primary dark:hover:bg-primary/20 rounded-lg transition-colors cursor-pointer font-medium"><span
+                class="material-symbols-outlined mr-3 text-[22px]">monitor</span> Giám sát phòng thi</a></li>
+          <li><a data-route="questions"
+              class="nav-link flex items-center px-3 py-2.5 text-slate-600 dark:text-slate-400 hover:bg-primary/10 hover:text-primary dark:hover:bg-primary/20 rounded-lg transition-colors cursor-pointer font-medium"><span
+                class="material-symbols-outlined mr-3 text-[22px]">quiz</span> Ngân hàng câu hỏi</a></li>
+          <li><a data-route="base_score"
+              class="nav-link flex items-center px-3 py-2.5 text-slate-600 dark:text-slate-400 hover:bg-primary/10 hover:text-primary dark:hover:bg-primary/20 rounded-lg transition-colors cursor-pointer font-medium"><span
+                class="material-symbols-outlined mr-3 text-[22px]">tune</span> Cài đặt điểm cơ sở</a></li>
+          <li><a data-route="reports"
+              class="nav-link flex items-center px-3 py-2.5 text-slate-600 dark:text-slate-400 hover:bg-primary/10 hover:text-primary dark:hover:bg-primary/20 rounded-lg transition-colors cursor-pointer font-medium"><span
+                class="material-symbols-outlined mr-3 text-[22px]">analytics</span> Báo cáo phổ điểm</a></li>
+        </ul>
+      </nav>
+      <div class="p-4 border-t border-slate-200 dark:border-slate-800">
+        <div class="flex items-center mb-4 px-2">
+          <div class="w-8 h-8 rounded-full bg-primary text-white flex items-center justify-center font-bold mr-3">AD
+          </div>
+          <div>
+            <p class="text-sm font-medium text-slate-900 dark:text-white">Admin System</p>
+          </div>
+        </div>
+        <a data-route="login"
+          class="nav-link flex items-center text-red-600 hover:bg-red-50 dark:hover:bg-red-900/20 px-3 py-2.5 rounded-lg transition-colors cursor-pointer font-medium"><span
+            class="material-symbols-outlined mr-3 text-[22px]">logout</span> Đăng xuất</a>
+      </div>
+    </aside>
+
+    <!-- Work Area -->
+    <main id="workarea"
+      class="flex-1 w-full h-full overflow-y-auto relative hidden flex-col bg-slate-50 dark:bg-slate-900/50 relative">
+      <!-- Content gets injected here -->
+    </main>
+
+    <!-- Login Fullscreen Area -->
+    <main id="loginarea" class="flex-1 w-full h-full flex flex-col relative bg-white">
+      <!-- Login Content gets injected here initially -->
+    </main>
+  </div>
+</body>
+
+</html>
