@@ -951,11 +951,16 @@ function initSettings() {
 			if (e.status === 'draft') {
 				statusBadge = '<span class="px-2 py-1 bg-amber-100 text-amber-700 rounded text-xs font-bold">CHƯA BẮT ĐẦU</span>';
 				actionBtn = `<button class="btn-import-exam text-sm font-medium text-blue-600 hover:underline mr-3" data-id="${e.id}">Nhập Excel</button>
+                             <button class="btn-export-aiken text-sm font-medium text-slate-600 hover:text-slate-900 mr-3" data-id="${e.id}">Xuất Aiken</button>
                              <button class="btn-start-exam text-sm font-medium text-primary hover:underline" data-id="${e.id}">Bắt đầu thi</button>`;
 			} else if (e.status === 'active') {
 				statusBadge = '<span class="px-2 py-1 bg-green-100 text-green-700 rounded text-xs font-bold">ĐANG THI</span>';
 				actionBtn = `<button class="btn-import-exam text-sm font-medium text-blue-600 hover:underline mr-3" data-id="${e.id}">Nhập Excel</button>
+                             <button class="btn-export-aiken text-sm font-medium text-slate-600 hover:text-slate-900 mr-3" data-id="${e.id}">Xuất Aiken</button>
                              <button class="btn-monitor-exam text-sm font-medium text-green-600 hover:underline" data-id="${e.id}">Giám sát</button>`;
+			} else {
+				statusBadge = '<span class="px-2 py-1 bg-slate-100 text-slate-700 rounded text-xs font-bold">ĐÃ KẾT THÚC</span>';
+				actionBtn = `<button class="btn-export-aiken text-sm font-medium text-slate-600 hover:text-slate-900 mr-3" data-id="${e.id}">Xuất Aiken</button>`;
 			}
 
 			html += `
@@ -980,6 +985,15 @@ function initSettings() {
 				if (id && fileInput) {
 					fileInput.setAttribute('data-exam-id', id);
 					fileInput.click();
+				}
+			});
+		});
+
+		document.querySelectorAll('.btn-export-aiken').forEach(btn => {
+			btn.addEventListener('click', (ev) => {
+				const id = (ev.target as HTMLElement).getAttribute('data-id');
+				if (id) {
+					window.open(`${API_BASE}/api/exams/${id}/export/aiken`, '_blank');
 				}
 			});
 		});

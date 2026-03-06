@@ -209,6 +209,62 @@ const server = Bun.serve({
 
       // --- Exams (Admin)
       if (path === "/api/exams" && method === "GET") return json(exams.listExams());
+      if (path.match(/^\/api\/exams\/(\d+)\/export\/aiken$/) && method === "GET") {
+        const examId = parseInt(path.split("/")[3], 10);
+        const questionsList = exams.getExamQuestionsForExport(examId);
+
+        let aikenText = "";
+
+        // Helper to strip HTML tags and decode minimal entities
+        const extractText = (html: string) => {
+          if (!html) return "";
+          return html
+            .replace(/<br\s*[\/]?>/gi, " ")
+            .replace(/<p\s*[^>]*>/gi, "")
+            .replace(/<\/p>/gi, " ")
+            .replace(/<[^>]+>/g, "")
+            .replace(/&nbsp;/gi, " ")
+            .replace(/&amp;/gi, "&")
+            .replace(/&lt;/gi, "<")
+            .replace(/&gt;/gi, ">")
+            .replace(/&quot;/gi, '"')
+            .replace(/&#39;/gi, "'")
+            .trim()
+            .replace(/\s+/g, " "); // collapse multiple spaces into one
+        };
+
+        for (const q of questionsList) {
+          const qText = extractText(q.question);
+          if (!qText) continue;
+
+          aikenText += qText + "\r\n";
+
+          let correctLetter = "";
+          const letters = ["A", "B", "C", "D", "E", "F", "G", "H"];
+
+          for (let i = 0; i < q.answers.length; i++) {
+            const ans = q.answers[i];
+            const aText = extractText(ans.text);
+            const letter = letters[i] ?? "X";
+            aikenText += `${letter}. ${aText}\r\n`;
+
+            if (ans.is_correct === 1) {
+              correctLetter = letter;
+            }
+          }
+
+          aikenText += `ANSWER: ${correctLetter}\r\n\r\n`;
+        }
+
+        return new Response(aikenText, {
+          status: 200,
+          headers: {
+            "Content-Type": "text/plain; charset=utf-8",
+            "Content-Disposition": `attachment; filename="exam_${examId}_aiken.txt"`,
+            ...corsHeaders
+          }
+        });
+      }
       if (path === "/api/exams" && method === "POST") {
         const b = await parseBody<Parameters<typeof exams.createExam>[0]>(req);
         if (!b?.subjectId || !b?.name || b?.durationMinutes == null) return json({ error: "subjectId, name, durationMinutes required" }, 400);

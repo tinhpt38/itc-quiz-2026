@@ -40,7 +40,7 @@ function migrate() {
     db.run("ALTER TABLE subject_categories ADD COLUMN parent_id INTEGER REFERENCES subject_categories(id)");
   } catch (_) { }
   try {
-    db.run("ALTER TABLE exams ADD COLUMN code TEXT UNIQUE");
+    db.run("ALTER TABLE exams ADD COLUMN code TEXT");
   } catch (_) { }
   try {
     db.run("ALTER TABLE questions ADD COLUMN category_id INTEGER REFERENCES subject_categories(id)");
