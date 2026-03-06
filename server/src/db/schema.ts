@@ -58,6 +58,7 @@ export const SQL = {
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       subject_id INTEGER NOT NULL REFERENCES subjects(id),
       name TEXT NOT NULL,
+      code TEXT UNIQUE,
       started_at TEXT,
       ended_at TEXT,
       duration_minutes INTEGER NOT NULL,

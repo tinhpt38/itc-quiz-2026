@@ -227,7 +227,6 @@ const server = Bun.serve({
           // Có thể set started_at ở đây
           const exam = exams.getExam(id);
           if (exam && !exam.started_at) {
-            const { db } = await import("./db");
             db.prepare("UPDATE exams SET started_at = datetime('now') WHERE id = ?").run(id);
           }
         }
@@ -253,6 +252,12 @@ const server = Bun.serve({
         const b = await parseBody<{ sbd: string; fullName?: string; baseScore?: number; roomId?: number }>(req);
         if (!b?.sbd) return json({ error: "sbd required" }, 400);
         return json(exams.addExamStudent(examId, b.sbd, b.fullName, b.baseScore, b.roomId));
+      }
+      if (path.match(/^\/api\/exams\/(\d+)\/students\/batch$/) && method === "POST") {
+        const examId = parseInt(path.split("/")[3], 10);
+        const b = await parseBody<{ roomId?: number; students: { sbd: string; fullName?: string; baseScore?: number }[] }>(req);
+        if (!b?.students || !Array.isArray(b.students)) return json({ error: "students array required" }, 400);
+        return json(exams.addExamStudentsBatch(examId, b.students, b.roomId));
       }
       if (path.match(/^\/api\/exams\/(\d+)\/students\/(\d+)\/base-score$/) && method === "PUT") {
         const parts = path.split("/");

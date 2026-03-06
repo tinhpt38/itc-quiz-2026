@@ -6,7 +6,7 @@ import { dirname } from "path";
 const dbPath = process.env.DATABASE_PATH ?? "./data/quiz.db";
 try {
   mkdirSync(dirname(dbPath), { recursive: true });
-} catch (_) {}
+} catch (_) { }
 export const db = new Database(dbPath, { create: true });
 
 function migrate() {
@@ -32,16 +32,19 @@ function migrate() {
   for (const idx of INDEXES) db.run(idx);
   try {
     db.run("ALTER TABLE questions ADD COLUMN module INTEGER NOT NULL DEFAULT 1");
-  } catch (_) {}
+  } catch (_) { }
   try {
     db.run("CREATE INDEX IF NOT EXISTS idx_questions_subject_module_level ON questions(subject_id, module, level)");
-  } catch (_) {}
+  } catch (_) { }
   try {
     db.run("ALTER TABLE subject_categories ADD COLUMN parent_id INTEGER REFERENCES subject_categories(id)");
-  } catch (_) {}
+  } catch (_) { }
+  try {
+    db.run("ALTER TABLE exams ADD COLUMN code TEXT UNIQUE");
+  } catch (_) { }
   try {
     db.run("ALTER TABLE questions ADD COLUMN category_id INTEGER REFERENCES subject_categories(id)");
-  } catch (_) {}
+  } catch (_) { }
   // Backfill question.category_id từ module (lấy category có cùng subject_id và sort_order = module, min id)
   try {
     db.run(`
@@ -51,7 +54,7 @@ function migrate() {
         ORDER BY c.id LIMIT 1
       ) WHERE category_id IS NULL
     `);
-  } catch (_) {}
+  } catch (_) { }
   // Seed default categories (Module 1-6, không cha) và cấp độ (Dễ, Trung bình, Khó) cho môn chưa có
   const subjectIds = db.query("SELECT id FROM subjects").all() as { id: number }[];
   const defaultCategories = ["Module 1", "Module 2", "Module 3", "Module 4", "Module 5", "Module 6"];

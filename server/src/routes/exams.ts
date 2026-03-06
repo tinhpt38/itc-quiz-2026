@@ -4,7 +4,7 @@ export type LevelConfig = Record<string, number>; // e.g. { "1": 30, "2": 50, "3
 
 export function listExams() {
   return db.query(`
-    SELECT e.id, e.subject_id, e.name, e.started_at, e.ended_at, e.duration_minutes, e.status, e.level_config, e.created_at,
+    SELECT e.id, e.subject_id, e.name, e.code, e.started_at, e.ended_at, e.duration_minutes, e.status, e.level_config, e.created_at,
            s.name as subject_name
     FROM exams e
     JOIN subjects s ON s.id = e.subject_id
@@ -15,6 +15,7 @@ export function listExams() {
 export function createExam(params: {
   subjectId: number;
   name: string;
+  code?: string | null;
   startedAt?: string | null;
   endedAt?: string | null;
   durationMinutes: number;
@@ -22,11 +23,12 @@ export function createExam(params: {
 }) {
   const levelConfigJson = params.levelConfig ? JSON.stringify(params.levelConfig) : null;
   const r = db.prepare(`
-    INSERT INTO exams (subject_id, name, started_at, ended_at, duration_minutes, level_config)
-    VALUES (?, ?, ?, ?, ?, ?)
+    INSERT INTO exams (subject_id, name, code, started_at, ended_at, duration_minutes, level_config)
+    VALUES (?, ?, ?, ?, ?, ?, ?)
   `).run(
     params.subjectId,
     params.name,
+    params.code ?? null,
     params.startedAt ?? null,
     params.endedAt ?? null,
     params.durationMinutes,
@@ -85,4 +87,23 @@ export function updateExamStudentBaseScore(studentId: number, baseScore: number 
 
 export function getExamStudentBySbd(examId: number, sbd: string) {
   return db.query("SELECT id, exam_id, room_id, sbd, full_name, base_score FROM exam_students WHERE exam_id = ? AND sbd = ?").get(examId, sbd) as any;
+}
+
+export function addExamStudentsBatch(examId: number, students: { sbd: string, fullName?: string, baseScore?: number }[], roomId?: number) {
+  const stmt = db.prepare(`
+    INSERT INTO exam_students (exam_id, room_id, sbd, full_name, base_score)
+    VALUES (?, ?, ?, ?, ?)
+    ON CONFLICT(exam_id, sbd) DO UPDATE SET
+      full_name = excluded.full_name,
+      base_score = COALESCE(excluded.base_score, exam_students.base_score)
+  `);
+  let count = 0;
+  const insertMany = db.transaction((list) => {
+    for (const st of list) {
+      stmt.run(examId, roomId ?? null, st.sbd, st.fullName ?? null, st.baseScore ?? null);
+      count++;
+    }
+  });
+  insertMany(students);
+  return { success: true, count };
 }

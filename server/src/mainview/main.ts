@@ -5,6 +5,7 @@ import dashboardHtml from './templates/dashboard.html?raw';
 import questionsHtml from './templates/questions.html?raw';
 import settingsHtml from './templates/settings.html?raw';
 import baseScoreHtml from './templates/base_score.html?raw';
+import * as XLSX from 'xlsx';
 import reportsHtml from './templates/reports.html?raw';
 
 const API_BASE = (typeof window !== 'undefined' && (window as any).__API_BASE__) || 'http://localhost:3000';
@@ -233,7 +234,7 @@ function initSubjects() {
 		settingsSubjectId = sid;
 		if (settingsIdInput) settingsIdInput.value = String(sid);
 		if (settingsNameSpan) settingsNameSpan.textContent = name;
-		if (settingsNameInput) 		settingsNameInput.value = name;
+		if (settingsNameInput) settingsNameInput.value = name;
 		if (settingsCodeInput) settingsCodeInput.value = code || '';
 		addCategoryParentId = null;
 		addCategoryParentName = '';
@@ -631,7 +632,6 @@ function initQuestions() {
 		const win = window as any;
 		if (win.tinymce?.get?.('q-content')) {
 			win.tinymce.get('q-content').remove();
-			tinyMceInited = false;
 		}
 	}
 
@@ -699,9 +699,9 @@ function initQuestions() {
 		if (!tbody) return;
 		const qs = searchQuery.trim()
 			? currentQuestions.filter((q: any) => {
-					const plain = stripHtml(q.text || '').toLowerCase();
-					return plain.includes(searchQuery.trim().toLowerCase());
-			  })
+				const plain = stripHtml(q.text || '').toLowerCase();
+				return plain.includes(searchQuery.trim().toLowerCase());
+			})
 			: currentQuestions;
 		if (qs.length === 0) {
 			tbody.innerHTML = '<tr><td colspan="4" class="px-4 py-6 text-center text-slate-500">' +
@@ -878,7 +878,62 @@ function initSettings() {
 		}
 	}
 
-		function renderExams() {
+	const fileInput = document.getElementById('exam-import-excel') as HTMLInputElement;
+	fileInput?.addEventListener('change', async (ev) => {
+		const target = ev.target as HTMLInputElement;
+		if (!target.files || target.files.length === 0) return;
+		const file = target.files[0];
+		const examIdStr = target.getAttribute('data-exam-id');
+		if (!examIdStr) return;
+		const examId = parseInt(examIdStr, 10);
+
+		try {
+			const data = await file.arrayBuffer();
+			const workbook = XLSX.read(data, { type: 'array' });
+			const firstSheetName = workbook.SheetNames[0];
+			const worksheet = workbook.Sheets[firstSheetName];
+			const jsonData: any[] = XLSX.utils.sheet_to_json(worksheet);
+
+			const students: any[] = [];
+			for (const row of jsonData) {
+				const sbd = row['SBD'] || row['sbd'] || row['Số Báo Danh'];
+				if (!sbd) continue;
+				students.push({
+					sbd: String(sbd).trim(),
+					fullName: String(row['Họ Tên'] || row['Họ tên'] || row['Full Name'] || '').trim(),
+					baseScore: row['Điểm Cơ Sở'] || row['Điểm'] || row['Base Score'] ? Number(row['Điểm Cơ Sở'] || row['Điểm'] || row['Base Score']) : undefined
+				});
+			}
+
+			if (students.length === 0) {
+				alert('Không tìm thấy dữ liệu hợp lệ. File Excel cần có cột "SBD".');
+				target.value = '';
+				return;
+			}
+
+			const res = await fetch(`${API_BASE}/api/exams/${examId}/students/batch`, {
+				method: 'POST',
+				headers: { 'Content-Type': 'application/json' },
+				body: JSON.stringify({ students })
+			});
+
+			if (res.ok) {
+				const result = await res.json();
+				alert(`Import thành công ${result.count} thí sinh!`);
+				loadExams();
+			} else {
+				const err = await res.json().catch(() => ({}));
+				alert('Lỗi import: ' + (err.error || res.status));
+			}
+		} catch (err) {
+			console.error(err);
+			alert('Lỗi khi đọc file Excel.');
+		} finally {
+			target.value = '';
+		}
+	});
+
+	function renderExams() {
 		if (!examList) return;
 		if (exams.length === 0) {
 			examList.innerHTML = `<tr><td colspan="4" class="text-center py-4 text-slate-500">Chưa có kỳ thi nào.</td></tr>`;
@@ -895,15 +950,19 @@ function initSettings() {
 
 			if (e.status === 'draft') {
 				statusBadge = '<span class="px-2 py-1 bg-amber-100 text-amber-700 rounded text-xs font-bold">CHƯA BẮT ĐẦU</span>';
-				actionBtn = `<button class="btn-start-exam text-sm font-medium text-primary hover:underline" data-id="${e.id}">Bắt đầu thi</button>`;
+				actionBtn = `<button class="btn-import-exam text-sm font-medium text-blue-600 hover:underline mr-3" data-id="${e.id}">Nhập Excel</button>
+                             <button class="btn-start-exam text-sm font-medium text-primary hover:underline" data-id="${e.id}">Bắt đầu thi</button>`;
 			} else if (e.status === 'active') {
 				statusBadge = '<span class="px-2 py-1 bg-green-100 text-green-700 rounded text-xs font-bold">ĐANG THI</span>';
-				actionBtn = `<button class="btn-monitor-exam text-sm font-medium text-green-600 hover:underline" data-id="${e.id}">Giám sát</button>`;
+				actionBtn = `<button class="btn-import-exam text-sm font-medium text-blue-600 hover:underline mr-3" data-id="${e.id}">Nhập Excel</button>
+                             <button class="btn-monitor-exam text-sm font-medium text-green-600 hover:underline" data-id="${e.id}">Giám sát</button>`;
 			}
 
 			html += `
 				<tr class="border-b border-slate-100 hover:bg-slate-50">
-					<td class="px-6 py-4 text-sm font-medium text-slate-700">#${e.id}</td>
+					<td class="px-6 py-4 text-sm font-medium text-slate-700">#${e.id}
+                        <div class="text-xs text-slate-500 mt-0.5">Mã: ${e.code || '—'}</div>
+                    </td>
 					<td class="px-6 py-4">
 						<div class="font-bold text-slate-900">${e.name}</div>
 						<div class="text-xs text-slate-500 mt-1">Môn: ${subj}${levelStr ? ' | ' + levelStr : ''}</div>
@@ -915,11 +974,32 @@ function initSettings() {
 		});
 		examList.innerHTML = html;
 
+		document.querySelectorAll('.btn-import-exam').forEach(btn => {
+			btn.addEventListener('click', (ev) => {
+				const id = (ev.target as HTMLElement).getAttribute('data-id');
+				if (id && fileInput) {
+					fileInput.setAttribute('data-exam-id', id);
+					fileInput.click();
+				}
+			});
+		});
+
 		document.querySelectorAll('.btn-start-exam').forEach(btn => {
 			btn.addEventListener('click', async (ev) => {
 				const id = (ev.target as HTMLElement).getAttribute('data-id');
+				if (!id) return;
 				if (!confirm('Bạn có chắc muốn bắt đầu kỳ thi này? Việc này sẽ sinh cấu trúc đề ngẫu nhiên cho toàn bộ thí sinh trong phòng và không có cách nào hoàn tác!')) return;
 				try {
+					const examRes = await fetch(`${API_BASE}/api/exams/${id}`);
+					const examData = await examRes.json();
+					const totalQuestions = examData.level_config?.total || 40;
+
+					await fetch(`${API_BASE}/api/exams/${id}/generate-sheets`, {
+						method: 'POST',
+						headers: { 'Content-Type': 'application/json' },
+						body: JSON.stringify({ totalQuestions })
+					});
+
 					await fetch(`${API_BASE}/api/exams/${id}/status`, { method: 'PUT', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ status: 'active' }) });
 					loadExams();
 				} catch (err) { alert(err); }
@@ -950,12 +1030,13 @@ function initSettings() {
 
 	async function saveExam() {
 		const name = (document.getElementById('exam-name') as HTMLInputElement).value.trim();
+		const code = (document.getElementById('exam-code') as HTMLInputElement).value.trim();
 		const subjectId = parseInt((document.getElementById('exam-subject') as HTMLSelectElement).value);
 		const startElem = document.getElementById('exam-start') as HTMLInputElement;
 		const endElem = document.getElementById('exam-end') as HTMLInputElement;
 
-		if (!name || isNaN(subjectId) || !startElem?.value || !endElem?.value) {
-			alert('Vui lòng điền đầy đủ: Tên, Môn thi, Thời gian bắt đầu & kết thúc.');
+		if (!name || isNaN(subjectId) || !startElem?.value || !endElem?.value || !code) {
+			alert('Vui lòng điền đầy đủ: Tên, Mã Kì Thi, Môn thi, Thời gian bắt đầu & kết thúc.');
 			return;
 		}
 
@@ -963,19 +1044,20 @@ function initSettings() {
 		const endedAt = new Date(endElem.value).toISOString();
 		const durationMinutes = Math.max(1, Math.round((new Date(endedAt).getTime() - new Date(startedAt).getTime()) / 60000));
 
-		const easy = parseInt((document.getElementById('exam-easy') as HTMLInputElement).value) || 0;
-		const medium = parseInt((document.getElementById('exam-medium') as HTMLInputElement).value) || 0;
-		const hard = parseInt((document.getElementById('exam-hard') as HTMLInputElement).value) || 0;
-		const total = easy + medium + hard || 1;
-		const levelConfig = total > 0 ? { "1": Math.round((easy / total) * 100), "2": Math.round((medium / total) * 100), "3": Math.round((hard / total) * 100) } : undefined;
+		const total = parseInt((document.getElementById('exam-total') as HTMLInputElement).value) || 40;
+		const levelConfig = total > 0 ? { "total": total, "1": 34, "2": 33, "3": 33 } : undefined;
 
 		try {
 			const res = await fetch(`${API_BASE}/api/exams`, {
 				method: 'POST',
 				headers: { 'Content-Type': 'application/json' },
-				body: JSON.stringify({ name, subjectId, startedAt, endedAt, durationMinutes, levelConfig })
+				body: JSON.stringify({ name, code, subjectId, startedAt, endedAt, durationMinutes, levelConfig })
 			});
 			const exam = await res.json();
+			if (exam?.error) {
+				alert('Lỗi tạo kỳ thi: ' + exam.error);
+				return;
+			}
 			if (exam?.id) {
 				await fetch(`${API_BASE}/api/exams/${exam.id}/rooms`, {
 					method: 'POST',
