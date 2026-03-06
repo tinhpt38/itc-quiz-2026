@@ -12,13 +12,33 @@ export const SQL = {
       created_at TEXT DEFAULT (datetime('now'))
     );
   `,
+  subject_categories: `
+    CREATE TABLE IF NOT EXISTS subject_categories (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      subject_id INTEGER NOT NULL REFERENCES subjects(id) ON DELETE CASCADE,
+      parent_id INTEGER REFERENCES subject_categories(id) ON DELETE CASCADE,
+      name TEXT NOT NULL,
+      sort_order INTEGER NOT NULL DEFAULT 1,
+      created_at TEXT DEFAULT (datetime('now'))
+    );
+  `,
+  subject_levels: `
+    CREATE TABLE IF NOT EXISTS subject_levels (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      subject_id INTEGER NOT NULL REFERENCES subjects(id) ON DELETE CASCADE,
+      name TEXT NOT NULL,
+      sort_order INTEGER NOT NULL DEFAULT 1,
+      created_at TEXT DEFAULT (datetime('now'))
+    );
+  `,
   questions: `
     CREATE TABLE IF NOT EXISTS questions (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       subject_id INTEGER NOT NULL REFERENCES subjects(id),
-      module INTEGER NOT NULL DEFAULT 1 CHECK(module IN (1,2,3,4,5,6)),
+      category_id INTEGER REFERENCES subject_categories(id),
+      module INTEGER NOT NULL DEFAULT 1,
       text TEXT NOT NULL,
-      level INTEGER NOT NULL CHECK(level IN (1,2,3)),
+      level INTEGER NOT NULL,
       score_weight REAL DEFAULT 1.0,
       created_at TEXT DEFAULT (datetime('now'))
     );

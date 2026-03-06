@@ -4,8 +4,7 @@
     <div class="p-6 pb-2">
       <div class="flex justify-between items-center mb-4">
         <h1 class="text-2xl font-bold text-slate-900">Ngân hàng câu hỏi</h1>
-        <button id="btn-new-question" type="button"
-          class="flex items-center gap-2 px-4 py-1.5 text-sm font-medium bg-primary text-white rounded-lg hover:bg-primary/90">
+        <button id="btn-new-question" type="button" class="flex items-center gap-2 px-4 py-1.5 text-sm font-medium bg-primary text-white rounded-lg hover:bg-primary/90">
           <span class="material-symbols-outlined text-lg">add</span> Câu hỏi mới
         </button>
       </div>
@@ -23,24 +22,15 @@
           <span class="material-symbols-outlined absolute right-2 top-1/2 -translate-y-1/2 text-slate-400 pointer-events-none text-base">expand_more</span>
         </div>
         <div class="relative">
-          <select id="filter-module"
-            class="pl-4 pr-9 py-2.5 text-sm border border-slate-200 rounded-lg bg-white text-slate-700 appearance-none focus:ring-2 focus:ring-primary focus:border-primary w-36">
-            <option value="">Module</option>
-            <option value="1">Module 1</option>
-            <option value="2">Module 2</option>
-            <option value="3">Module 3</option>
-            <option value="4">Module 4</option>
-            <option value="5">Module 5</option>
-            <option value="6">Module 6</option>
+          <select id="filter-category"
+            class="pl-4 pr-9 py-2.5 text-sm border border-slate-200 rounded-lg bg-white text-slate-700 appearance-none focus:ring-2 focus:ring-primary focus:border-primary w-40">
+            <option value="">Category</option>
           </select>
         </div>
         <div class="relative">
           <select id="filter-level"
             class="pl-4 pr-9 py-2.5 text-sm border border-slate-200 rounded-lg bg-white text-slate-700 appearance-none focus:ring-2 focus:ring-primary focus:border-primary w-32">
             <option value="">Cấp độ</option>
-            <option value="1">Cấp 1</option>
-            <option value="2">Cấp 2</option>
-            <option value="3">Cấp 3</option>
           </select>
         </div>
       </div>
@@ -80,25 +70,18 @@
                 class="form-select w-full rounded-lg border border-slate-300 bg-white text-sm text-slate-900 focus:border-primary focus:ring-1 focus:ring-primary px-4 py-2.5">
               </select>
             </div>
-            <div class="w-28">
-              <label class="block text-sm font-medium text-slate-700 mb-1">Module</label>
-              <select id="q-module"
+            <div class="flex-1 min-w-[120px]">
+              <label class="block text-sm font-medium text-slate-700 mb-1">Category</label>
+              <select id="q-category" required
                 class="w-full rounded-lg border border-slate-300 bg-white text-sm text-slate-900 focus:border-primary focus:ring-1 focus:ring-primary px-4 py-2.5">
-                <option value="1">1</option>
-                <option value="2">2</option>
-                <option value="3">3</option>
-                <option value="4">4</option>
-                <option value="5">5</option>
-                <option value="6">6</option>
+                <option value="">Chọn category...</option>
               </select>
             </div>
-            <div class="w-28">
+            <div class="flex-1 min-w-[120px]">
               <label class="block text-sm font-medium text-slate-700 mb-1">Cấp độ</label>
-              <select id="q-difficulty"
+              <select id="q-difficulty" required
                 class="w-full rounded-lg border border-slate-300 bg-white text-sm text-slate-900 focus:border-primary focus:ring-1 focus:ring-primary px-4 py-2.5">
-                <option value="1">1 - Dễ</option>
-                <option value="2">2 - TB</option>
-                <option value="3">3 - Khó</option>
+                <option value="">Chọn cấp độ...</option>
               </select>
             </div>
           </div>

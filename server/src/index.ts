@@ -76,6 +76,69 @@ const server = Bun.serve({
         subjects.deleteSubject(parseInt(subjectMatch[1], 10));
         return json({ ok: true });
       }
+      const subjectCountMatch = path.match(/^\/api\/subjects\/(\d+)\/question-count$/);
+      if (subjectCountMatch && method === "GET") {
+        const n = subjects.countQuestionsBySubject(parseInt(subjectCountMatch[1], 10));
+        return json({ count: n });
+      }
+
+      // --- Categories theo môn học (Module 1-6 → category tùy chỉnh)
+      const catCountMatch = path.match(/^\/api\/subjects\/(\d+)\/categories\/(\d+)\/question-count$/);
+      if (catCountMatch && method === "GET") {
+        const n = subjects.countQuestionsByCategory(parseInt(catCountMatch[2], 10));
+        return json({ count: n });
+      }
+      const subCatMatch = path.match(/^\/api\/subjects\/(\d+)\/categories\/?(\d*)$/);
+      if (subCatMatch && method === "GET" && !subCatMatch[2]) {
+        return json(subjects.listCategories(parseInt(subCatMatch[1], 10)));
+      }
+      if (subCatMatch && method === "POST" && !subCatMatch[2]) {
+        const b = await parseBody<{ name: string; sort_order?: number; parent_id?: number | null }>(req);
+        if (!b?.name) return json({ error: "name required" }, 400);
+        const row = subjects.createCategory(parseInt(subCatMatch[1], 10), b.name, { sortOrder: b.sort_order, parent_id: b.parent_id });
+        return json(row);
+      }
+      if (subCatMatch && subCatMatch[2] && (method === "PUT" || method === "DELETE")) {
+        const subjectId = parseInt(subCatMatch[1], 10);
+        const categoryId = parseInt(subCatMatch[2], 10);
+        if (method === "PUT") {
+          const b = await parseBody<{ name: string; sort_order?: number; parent_id?: number | null }>(req);
+          if (!b?.name) return json({ error: "name required" }, 400);
+          const row = subjects.updateCategory(categoryId, b.name, { sortOrder: b.sort_order, parent_id: b.parent_id });
+          return row ? json(row) : json({ error: "Not found" }, 404);
+        }
+        const r = subjects.deleteCategory(subjectId, categoryId);
+        if (r.changes === 0) return json({ error: "Not found or wrong subject" }, 404);
+        return json({ ok: true });
+      }
+
+      // --- Cấp độ theo môn học
+      const levCountMatch = path.match(/^\/api\/subjects\/(\d+)\/levels\/(\d+)\/question-count$/);
+      if (levCountMatch && method === "GET") {
+        const n = subjects.countQuestionsByLevel(parseInt(levCountMatch[2], 10));
+        return json({ count: n });
+      }
+      const subLevMatch = path.match(/^\/api\/subjects\/(\d+)\/levels\/?(\d*)$/);
+      if (subLevMatch && method === "GET" && !subLevMatch[2]) {
+        return json(subjects.listLevels(parseInt(subLevMatch[1], 10)));
+      }
+      if (subLevMatch && method === "POST" && !subLevMatch[2]) {
+        const b = await parseBody<{ name: string; sort_order?: number }>(req);
+        if (!b?.name) return json({ error: "name required" }, 400);
+        const row = subjects.createLevel(parseInt(subLevMatch[1], 10), b.name, b.sort_order);
+        return json(row);
+      }
+      if (subLevMatch && subLevMatch[2] && (method === "PUT" || method === "DELETE")) {
+        const levelId = parseInt(subLevMatch[2], 10);
+        if (method === "PUT") {
+          const b = await parseBody<{ name: string; sort_order?: number }>(req);
+          if (!b?.name) return json({ error: "name required" }, 400);
+          const row = subjects.updateLevel(levelId, b.name, b.sort_order);
+          return row ? json(row) : json({ error: "Not found" }, 404);
+        }
+        subjects.deleteLevel(levelId);
+        return json({ ok: true });
+      }
 
       // --- Questions (Admin: with answers; Client uses /api/exam/...)
       if (path.match(/^\/api\/subjects\/\d+\/questions/) && method === "GET") {
@@ -83,7 +146,13 @@ const server = Bun.serve({
         const subjectId = parseInt(parts[3]!, 10);
         const level = url.searchParams.get("level");
         const module = url.searchParams.get("module");
-        return json(questions.listQuestions(subjectId, level ? parseInt(level, 10) : undefined, module ? parseInt(module, 10) : undefined));
+        const level_id = url.searchParams.get("level_id");
+        const category_id = url.searchParams.get("category_id");
+        const opts =
+          level_id || category_id
+            ? { level_id: level_id ? parseInt(level_id, 10) : undefined, category_id: category_id ? parseInt(category_id, 10) : undefined }
+            : { level: level ? parseInt(level, 10) : undefined, module: module ? parseInt(module, 10) : undefined };
+        return json(questions.listQuestions(subjectId, opts));
       }
       if (path.startsWith("/api/questions/") && method === "GET") {
         const id = parseInt(path.replace("/api/questions/", ""), 10);
@@ -98,9 +167,22 @@ const server = Bun.serve({
       }
       if (path.match(/^\/api\/subjects\/\d+\/questions/) && method === "POST") {
         const subjectId = parseInt(path.split("/")[3], 10);
-        const b = await parseBody<{ text: string; level: number; module?: number; answers: { text: string; isCorrect: boolean }[] }>(req);
+        const b = await parseBody<{
+          text: string;
+          level?: number;
+          module?: number;
+          category_id?: number;
+          level_id?: number;
+          answers: { text: string; isCorrect: boolean }[];
+        }>(req);
         if (!b?.text || !b?.answers?.length) return json({ error: "text and answers required" }, 400);
-        const id = questions.createQuestion(subjectId, b.text, b.level ?? 1, b.answers, 1, b.module ?? 1);
+        const id = questions.createQuestion(subjectId, b.text, b.answers, {
+          level: b.level,
+          module: b.module,
+          category_id: b.category_id,
+          level_id: b.level_id,
+          scoreWeight: 1,
+        });
         return json({ id });
       }
 
